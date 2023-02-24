@@ -249,6 +249,7 @@ class Dataset():
         num_test_examples = ds["test"].cardinality()
         num_total_examples = num_train_examples + num_val_examples + num_test_examples
 
+        self.ds = ds
         self.num_train_examples = num_train_examples
         self.num_val_examples = num_val_examples
         self.num_test_examples = num_test_examples
