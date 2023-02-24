@@ -169,7 +169,7 @@ def generate_train_dataset(dataset,
                            buffer_size=5000,
                            deterministic=False):
     # convert label(s) to onehot
-    ds = label_to_one_hot(dataset)
+    ds = dataset.map(label_to_one_hot)
 
     # shuffle, map and batch dataset
     if deterministic:
@@ -196,7 +196,7 @@ def generate_test_dataset(dataset,
                           test_map_fn,
                           batch_size=32):
     # convert label(s) to onehot
-    ds = label_to_one_hot(dataset)
+    ds = dataset.map(label_to_one_hot)
 
     # map dataset
     dataset = ds \
