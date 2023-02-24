@@ -1,11 +1,12 @@
 import tensorflow as tf
 from config import MAX_INPUT_HEIGHT, MIN_INPUT_HEIGHT
 from data_augmentation import RandomFlip, RandomScale, RandomShift, RandomRotation, RandomSpeed
-from preprocessing import Center, FillBlueWithAngle, PadIfLessThan, ResizeIfMoreThan, TranslationScaleInvariant
+from preprocessing import Center, FillBlueWithAngle, PadIfLessThan, ResizeIfMoreThan, TranslationScaleInvariant, preprocess_dataframe
 import tensorflow_datasets as tfds
+import mejiaperezmsl22
 
 AugmentationDict = {
-    'speed': RandomSpeed(min_frames=10, max_frames=MIN_INPUT_HEIGHT, seed=5),
+    'speed': RandomSpeed(min_frames=60, max_frames=MIN_INPUT_HEIGHT, seed=5),
     'rotation': RandomRotation(factor=15.0, min_value=0.0, max_value=1.0, seed=4),
     'flip': RandomFlip("horizontal", min_value=0.0, max_value=1.0, seed=3),
     'scale': RandomScale(min_value=0.0, max_value=1.0, seed=1),
