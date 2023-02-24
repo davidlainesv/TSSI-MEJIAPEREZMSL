@@ -315,7 +315,7 @@ class Dataset():
         # define the val map function
         @tf.function
         def test_map_fn(batch_x, batch_y):
-            batch_x = batch_x.to_tensor()
+            # batch_x = batch_x.to_tensor()
             batch_x = normalization_pipeline(batch_x)
             return batch_x, batch_y
         
