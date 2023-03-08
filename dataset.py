@@ -332,8 +332,6 @@ class Dataset():
                         batch_size=32,
                         normalization=None,
                         pipeline=None):
-        if self.test_dataframe is None:
-            return None
 
         # define normalization pipeline
         if type(pipeline) is str:
