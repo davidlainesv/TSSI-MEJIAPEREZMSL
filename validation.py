@@ -118,7 +118,6 @@ def main(args):
     batch_size = args.batch_size
     num_epochs = args.num_epochs
     pipeline = args.pipeline
-    skeleton = args.skeleton
     
     dataset = Dataset()
 
@@ -139,9 +138,7 @@ def main(args):
         'num_epochs': num_epochs,
         'augmentation': augmentation,
         'batch_size': batch_size,
-        'pipeline': pipeline,
-
-        'skeleton': skeleton
+        'pipeline': pipeline
     }
 
     agent_fn(config=config, project=project, entity=entity, verbose=2)
@@ -174,8 +171,6 @@ if __name__ == "__main__":
                         help='Number of epochs', default=100)
     parser.add_argument('--pipeline', type=str,
                         help='Pipeline', default="default")
-    parser.add_argument('--skeleton', type=str,
-                        help='Skeleton Graph', default="v2")
     args = parser.parse_args()
 
     print(args)
