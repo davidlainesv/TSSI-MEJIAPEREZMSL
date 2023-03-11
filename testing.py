@@ -126,7 +126,6 @@ def main(args):
     num_epochs = args.num_epochs
     pipeline = args.pipeline
     save_freq = args.save_freq
-    skeleton = args.skeleton
 
     dataset = Dataset()
 
@@ -149,8 +148,7 @@ def main(args):
         'batch_size': batch_size,
         'pipeline': pipeline,
 
-        'save_freq': int(steps_per_epoch * save_freq),
-        'skeleton': skeleton
+        'save_freq': int(steps_per_epoch * save_freq)
     }
 
     agent_fn(config=config, project=project, entity=entity, verbose=2)
@@ -185,8 +183,6 @@ if __name__ == "__main__":
                         help='Pipeline', default="default")
     parser.add_argument('--save_freq', type=int,
                         help='Save weights at epoch', default=100)
-    parser.add_argument('--skeleton', type=str,
-                        help='Skeleton Graph', default="v2")
     args = parser.parse_args()
 
     print(args)
