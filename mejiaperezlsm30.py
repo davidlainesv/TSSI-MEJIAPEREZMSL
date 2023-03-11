@@ -52,6 +52,7 @@ class MejiaPerezMsl30(tfds.core.GeneratorBasedBuilder):
         "./train_validation_info30.csv",
         index_col=0
     )
+    DATA_DIR = "./datasets"
     DATA_URL = "https://storage.googleapis.com/slr_datasets_raw/MejiaPerezLSM30.zip"
     TSSI_ORDER = tssi_mejiaperez()[1]
 
@@ -150,7 +151,7 @@ class MejiaPerezMsl30(tfds.core.GeneratorBasedBuilder):
                                     test_size=0.1,
                                     random_state=0)
         mask = self.INFO["split"] == "TrainingValidation"
-        subset = self.INFO[mask]
+        subset = self.INFO[mask].reset_index()
         filenames = subset["filename"]
         labels = subset["label"]
         splits = list(sss.split(filenames, labels))
@@ -167,7 +168,7 @@ class MejiaPerezMsl30(tfds.core.GeneratorBasedBuilder):
                               random_state=0,
                               shuffle=True)
         mask = self.INFO["split"] == "TrainingValidation"
-        subset = self.INFO[mask]
+        subset = self.INFO[mask].reset_index()
         filenames = subset["filename"]
         labels = subset["label"]
         splits = list(skf.split(filenames, labels))
