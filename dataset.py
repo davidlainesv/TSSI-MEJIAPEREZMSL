@@ -3,7 +3,7 @@ from config import MAX_INPUT_HEIGHT, MIN_INPUT_HEIGHT, NUM_CLASSES
 from data_augmentation import RandomFlip, RandomScale, RandomShift, RandomRotation, RandomSpeed
 from preprocessing import Center, FillBlueWithAngle, PadIfLessThan, ResizeIfMoreThan, TranslationScaleInvariant
 import tensorflow_datasets as tfds
-import mejiaperezmsl30
+import mejiaperezlsm30
 
 AugmentationDict = {
     'speed': RandomSpeed(min_frames=60, max_frames=MIN_INPUT_HEIGHT, seed=5),
