@@ -1,9 +1,9 @@
 import tensorflow as tf
-from config import MAX_INPUT_HEIGHT, MIN_INPUT_HEIGHT
+from config import MAX_INPUT_HEIGHT, MIN_INPUT_HEIGHT, NUM_CLASSES
 from data_augmentation import RandomFlip, RandomScale, RandomShift, RandomRotation, RandomSpeed
-from preprocessing import Center, FillBlueWithAngle, PadIfLessThan, ResizeIfMoreThan, TranslationScaleInvariant, preprocess_dataframe
+from preprocessing import Center, FillBlueWithAngle, PadIfLessThan, ResizeIfMoreThan, TranslationScaleInvariant
 import tensorflow_datasets as tfds
-import mejiaperezmsl22
+import mejiaperezmsl30
 
 AugmentationDict = {
     'speed': RandomSpeed(min_frames=60, max_frames=MIN_INPUT_HEIGHT, seed=5),
@@ -156,7 +156,7 @@ PipelineDict = {
 def label_to_one_hot(item):
   pose = item["pose"]
   label = item["label"]
-  one_hot_label = tf.one_hot(label, 22)
+  one_hot_label = tf.one_hot(label, NUM_CLASSES)
   return pose, one_hot_label
 
 
@@ -241,7 +241,7 @@ def build_normalization_pipeline(normalization):
 class Dataset():
     def __init__(self):
         # obtain characteristics of the dataset
-        ds, info = tfds.load('mejia_perez_msl22', data_dir="~/tfds_datasets", with_info=True)
+        ds, info = tfds.load('mejia_perez_msl30', data_dir="~/tfds_datasets", with_info=True)
         num_train_examples = ds["train"].cardinality()
         num_val_examples = ds["validation"].cardinality()
         num_test_examples = ds["test"].cardinality()

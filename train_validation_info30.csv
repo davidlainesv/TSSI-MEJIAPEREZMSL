@@ -1,0 +1,3001 @@
+,filename,label,split
+0,Domingo_92_Datos.csv,Domingo,Testing
+1,Quien_88_Datos.csv,Quien,Testing
+2,Gracias_94_Datos.csv,Gracias,Testing
+3,No_100_Datos.csv,No,Testing
+4,Martes_99_Datos.csv,Martes,Testing
+5,Que es_91_Datos.csv,Que es,Testing
+6,Jueves_96_Datos.csv,Jueves,Testing
+7,Q_92_Datos.csv,Q,Testing
+8,Donde_90_Datos.csv,Donde,Testing
+9,Gracias_98_Datos.csv,Gracias,Testing
+10,No_88_Datos.csv,No,Testing
+11,D_88_Datos.csv,D,Testing
+12,Que es_89_Datos.csv,Que es,Testing
+13,Miercoles_94_Datos.csv,Miercoles,Testing
+14,Quien_98_Datos.csv,Quien,Testing
+15,Domingo_90_Datos.csv,Domingo,Testing
+16,D_97_Datos.csv,D,Testing
+17,Quien_99_Datos.csv,Quien,Testing
+18,Donde_97_Datos.csv,Donde,Testing
+19,J_87_Datos.csv,J,Testing
+20,Lunes_94_Datos.csv,Lunes,Testing
+21,Como_87_Datos.csv,Como,Testing
+22,Donde_100_Datos.csv,Donde,Testing
+23,Cuando_97_Datos.csv,Cuando,Testing
+24,Miercoles_87_Datos.csv,Miercoles,Testing
+25,Lunes_99_Datos.csv,Lunes,Testing
+26,Donde_94_Datos.csv,Donde,Testing
+27,Explicar_91_Datos.csv,Explicar,Testing
+28,Sabado_86_Datos.csv,Sabado,Testing
+29,Quien_87_Datos.csv,Quien,Testing
+30,Para que_87_Datos.csv,Para que,Testing
+31,Si_99_Datos.csv,Si,Testing
+32,Sabado_87_Datos.csv,Sabado,Testing
+33,Para que_90_Datos.csv,Para que,Testing
+34,K_97_Datos.csv,K,Testing
+35,A_99_Datos.csv,A,Testing
+36,B_93_Datos.csv,B,Testing
+37,Q_87_Datos.csv,Q,Testing
+38,K_89_Datos.csv,K,Testing
+39,Si_98_Datos.csv,Si,Testing
+40,J_91_Datos.csv,J,Testing
+41,X_90_Datos.csv,X,Testing
+42,No_86_Datos.csv,No,Testing
+43,Donde_87_Datos.csv,Donde,Testing
+44,Cuanto_86_Datos.csv,Cuanto,Testing
+45,K_90_Datos.csv,K,Testing
+46,Deletrear_92_Datos.csv,Deletrear,Testing
+47,Cuanto_92_Datos.csv,Cuanto,Testing
+48,Viernes_86_Datos.csv,Viernes,Testing
+49,Lunes_89_Datos.csv,Lunes,Testing
+50,Por que_95_Datos.csv,Por que,Testing
+51,Quien_95_Datos.csv,Quien,Testing
+52,Viernes_92_Datos.csv,Viernes,Testing
+53,Sabado_94_Datos.csv,Sabado,Testing
+54,Donde_96_Datos.csv,Donde,Testing
+55,D_95_Datos.csv,D,Testing
+56,B_90_Datos.csv,B,Testing
+57,Domingo_87_Datos.csv,Domingo,Testing
+58,No_98_Datos.csv,No,Testing
+59,Explicar_90_Datos.csv,Explicar,Testing
+60,Gracias_86_Datos.csv,Gracias,Testing
+61,Gracias_93_Datos.csv,Gracias,Testing
+62,Nombre_100_Datos.csv,Nombre,Testing
+63,Por que_99_Datos.csv,Por que,Testing
+64,Deletrear_86_Datos.csv,Deletrear,Testing
+65,Cuando_100_Datos.csv,Cuando,Testing
+66,Para que_100_Datos.csv,Para que,Testing
+67,A_87_Datos.csv,A,Testing
+68,K_91_Datos.csv,K,Testing
+69,C_89_Datos.csv,C,Testing
+70,Q_88_Datos.csv,Q,Testing
+71,Miercoles_97_Datos.csv,Miercoles,Testing
+72,Por que_91_Datos.csv,Por que,Testing
+73,Como_99_Datos.csv,Como,Testing
+74,C_91_Datos.csv,C,Testing
+75,C_94_Datos.csv,C,Testing
+76,Cuando_98_Datos.csv,Cuando,Testing
+77,Martes_91_Datos.csv,Martes,Testing
+78,Quien_97_Datos.csv,Quien,Testing
+79,Que es_90_Datos.csv,Que es,Testing
+80,Miercoles_95_Datos.csv,Miercoles,Testing
+81,Nombre_89_Datos.csv,Nombre,Testing
+82,Nombre_99_Datos.csv,Nombre,Testing
+83,Explicar_100_Datos.csv,Explicar,Testing
+84,Para que_99_Datos.csv,Para que,Testing
+85,Domingo_97_Datos.csv,Domingo,Testing
+86,Que es_86_Datos.csv,Que es,Testing
+87,Donde_95_Datos.csv,Donde,Testing
+88,Que es_97_Datos.csv,Que es,Testing
+89,Nombre_86_Datos.csv,Nombre,Testing
+90,Jueves_86_Datos.csv,Jueves,Testing
+91,Deletrear_96_Datos.csv,Deletrear,Testing
+92,Explicar_89_Datos.csv,Explicar,Testing
+93,Para que_92_Datos.csv,Para que,Testing
+94,Cuanto_93_Datos.csv,Cuanto,Testing
+95,Miercoles_96_Datos.csv,Miercoles,Testing
+96,Martes_89_Datos.csv,Martes,Testing
+97,Lunes_93_Datos.csv,Lunes,Testing
+98,Nombre_87_Datos.csv,Nombre,Testing
+99,Cuanto_98_Datos.csv,Cuanto,Testing
+100,Que es_95_Datos.csv,Que es,Testing
+101,Q_96_Datos.csv,Q,Testing
+102,Si_90_Datos.csv,Si,Testing
+103,B_92_Datos.csv,B,Testing
+104,Gracias_91_Datos.csv,Gracias,Testing
+105,Deletrear_98_Datos.csv,Deletrear,Testing
+106,Quien_91_Datos.csv,Quien,Testing
+107,Como_91_Datos.csv,Como,Testing
+108,Deletrear_100_Datos.csv,Deletrear,Testing
+109,Jueves_98_Datos.csv,Jueves,Testing
+110,Sabado_99_Datos.csv,Sabado,Testing
+111,Martes_95_Datos.csv,Martes,Testing
+112,K_88_Datos.csv,K,Testing
+113,J_100_Datos.csv,J,Testing
+114,X_100_Datos.csv,X,Testing
+115,Por_favor_92_Datos.csv,Por_favor,Testing
+116,Nombre_90_Datos.csv,Nombre,Testing
+117,B_87_Datos.csv,B,Testing
+118,C_97_Datos.csv,C,Testing
+119,Martes_97_Datos.csv,Martes,Testing
+120,Para que_96_Datos.csv,Para que,Testing
+121,K_92_Datos.csv,K,Testing
+122,Sabado_91_Datos.csv,Sabado,Testing
+123,A_88_Datos.csv,A,Testing
+124,Donde_99_Datos.csv,Donde,Testing
+125,Domingo_88_Datos.csv,Domingo,Testing
+126,A_86_Datos.csv,A,Testing
+127,Q_93_Datos.csv,Q,Testing
+128,J_96_Datos.csv,J,Testing
+129,Explicar_88_Datos.csv,Explicar,Testing
+130,Como_93_Datos.csv,Como,Testing
+131,Sabado_97_Datos.csv,Sabado,Testing
+132,Por_favor_97_Datos.csv,Por_favor,Testing
+133,B_89_Datos.csv,B,Testing
+134,Si_95_Datos.csv,Si,Testing
+135,Domingo_94_Datos.csv,Domingo,Testing
+136,Domingo_95_Datos.csv,Domingo,Testing
+137,Martes_93_Datos.csv,Martes,Testing
+138,Viernes_90_Datos.csv,Viernes,Testing
+139,B_100_Datos.csv,B,Testing
+140,No_91_Datos.csv,No,Testing
+141,C_87_Datos.csv,C,Testing
+142,Por_favor_98_Datos.csv,Por_favor,Testing
+143,X_94_Datos.csv,X,Testing
+144,Como_94_Datos.csv,Como,Testing
+145,Quien_94_Datos.csv,Quien,Testing
+146,C_95_Datos.csv,C,Testing
+147,Como_88_Datos.csv,Como,Testing
+148,Que es_96_Datos.csv,Que es,Testing
+149,C_98_Datos.csv,C,Testing
+150,Viernes_87_Datos.csv,Viernes,Testing
+151,Para que_94_Datos.csv,Para que,Testing
+152,Lunes_87_Datos.csv,Lunes,Testing
+153,B_98_Datos.csv,B,Testing
+154,Quien_90_Datos.csv,Quien,Testing
+155,Domingo_89_Datos.csv,Domingo,Testing
+156,Explicar_92_Datos.csv,Explicar,Testing
+157,Nombre_96_Datos.csv,Nombre,Testing
+158,J_88_Datos.csv,J,Testing
+159,Deletrear_89_Datos.csv,Deletrear,Testing
+160,Sabado_98_Datos.csv,Sabado,Testing
+161,Quien_93_Datos.csv,Quien,Testing
+162,Cuanto_99_Datos.csv,Cuanto,Testing
+163,Jueves_89_Datos.csv,Jueves,Testing
+164,C_93_Datos.csv,C,Testing
+165,Donde_91_Datos.csv,Donde,Testing
+166,D_90_Datos.csv,D,Testing
+167,Por que_92_Datos.csv,Por que,Testing
+168,Martes_98_Datos.csv,Martes,Testing
+169,Sabado_95_Datos.csv,Sabado,Testing
+170,Quien_96_Datos.csv,Quien,Testing
+171,Domingo_98_Datos.csv,Domingo,Testing
+172,Lunes_88_Datos.csv,Lunes,Testing
+173,Quien_92_Datos.csv,Quien,Testing
+174,Para que_98_Datos.csv,Para que,Testing
+175,Cuando_92_Datos.csv,Cuando,Testing
+176,J_89_Datos.csv,J,Testing
+177,Como_98_Datos.csv,Como,Testing
+178,Por que_97_Datos.csv,Por que,Testing
+179,Por que_89_Datos.csv,Por que,Testing
+180,Nombre_95_Datos.csv,Nombre,Testing
+181,Donde_92_Datos.csv,Donde,Testing
+182,Nombre_88_Datos.csv,Nombre,Testing
+183,Q_94_Datos.csv,Q,Testing
+184,Que es_88_Datos.csv,Que es,Testing
+185,C_90_Datos.csv,C,Testing
+186,Como_89_Datos.csv,Como,Testing
+187,C_100_Datos.csv,C,Testing
+188,Sabado_100_Datos.csv,Sabado,Testing
+189,Lunes_100_Datos.csv,Lunes,Testing
+190,Deletrear_90_Datos.csv,Deletrear,Testing
+191,Para que_95_Datos.csv,Para que,Testing
+192,B_96_Datos.csv,B,Testing
+193,Que es_93_Datos.csv,Que es,Testing
+194,Miercoles_92_Datos.csv,Miercoles,Testing
+195,Por_favor_91_Datos.csv,Por_favor,Testing
+196,K_94_Datos.csv,K,Testing
+197,A_90_Datos.csv,A,Testing
+198,D_86_Datos.csv,D,Testing
+199,Quien_86_Datos.csv,Quien,Testing
+200,Jueves_92_Datos.csv,Jueves,Testing
+201,Por que_98_Datos.csv,Por que,Testing
+202,D_89_Datos.csv,D,Testing
+203,Por que_100_Datos.csv,Por que,Testing
+204,Q_99_Datos.csv,Q,Testing
+205,Cuanto_88_Datos.csv,Cuanto,Testing
+206,A_91_Datos.csv,A,Testing
+207,Cuando_88_Datos.csv,Cuando,Testing
+208,X_89_Datos.csv,X,Testing
+209,Q_95_Datos.csv,Q,Testing
+210,Como_97_Datos.csv,Como,Testing
+211,Nombre_93_Datos.csv,Nombre,Testing
+212,Que es_94_Datos.csv,Que es,Testing
+213,Miercoles_89_Datos.csv,Miercoles,Testing
+214,Quien_100_Datos.csv,Quien,Testing
+215,A_93_Datos.csv,A,Testing
+216,Como_95_Datos.csv,Como,Testing
+217,Cuanto_96_Datos.csv,Cuanto,Testing
+218,D_98_Datos.csv,D,Testing
+219,Viernes_100_Datos.csv,Viernes,Testing
+220,Donde_89_Datos.csv,Donde,Testing
+221,Viernes_95_Datos.csv,Viernes,Testing
+222,Viernes_98_Datos.csv,Viernes,Testing
+223,C_88_Datos.csv,C,Testing
+224,C_92_Datos.csv,C,Testing
+225,Viernes_94_Datos.csv,Viernes,Testing
+226,Cuando_89_Datos.csv,Cuando,Testing
+227,Jueves_99_Datos.csv,Jueves,Testing
+228,Nombre_97_Datos.csv,Nombre,Testing
+229,Por que_86_Datos.csv,Por que,Testing
+230,J_90_Datos.csv,J,Testing
+231,Nombre_92_Datos.csv,Nombre,Testing
+232,Gracias_88_Datos.csv,Gracias,Testing
+233,A_96_Datos.csv,A,Testing
+234,Para que_89_Datos.csv,Para que,Testing
+235,Martes_96_Datos.csv,Martes,Testing
+236,Por_favor_95_Datos.csv,Por_favor,Testing
+237,Gracias_89_Datos.csv,Gracias,Testing
+238,K_99_Datos.csv,K,Testing
+239,Lunes_90_Datos.csv,Lunes,Testing
+240,Por_favor_96_Datos.csv,Por_favor,Testing
+241,A_92_Datos.csv,A,Testing
+242,Deletrear_99_Datos.csv,Deletrear,Testing
+243,Viernes_96_Datos.csv,Viernes,Testing
+244,Gracias_96_Datos.csv,Gracias,Testing
+245,Q_98_Datos.csv,Q,Testing
+246,Viernes_99_Datos.csv,Viernes,Testing
+247,Jueves_91_Datos.csv,Jueves,Testing
+248,X_87_Datos.csv,X,Testing
+249,Deletrear_93_Datos.csv,Deletrear,Testing
+250,Explicar_96_Datos.csv,Explicar,Testing
+251,Para que_88_Datos.csv,Para que,Testing
+252,X_92_Datos.csv,X,Testing
+253,D_96_Datos.csv,D,Testing
+254,Deletrear_88_Datos.csv,Deletrear,Testing
+255,Explicar_98_Datos.csv,Explicar,Testing
+256,Cuando_94_Datos.csv,Cuando,Testing
+257,Si_97_Datos.csv,Si,Testing
+258,X_97_Datos.csv,X,Testing
+259,Sabado_92_Datos.csv,Sabado,Testing
+260,Lunes_91_Datos.csv,Lunes,Testing
+261,Por que_88_Datos.csv,Por que,Testing
+262,Viernes_91_Datos.csv,Viernes,Testing
+263,Cuanto_94_Datos.csv,Cuanto,Testing
+264,Por_favor_99_Datos.csv,Por_favor,Testing
+265,Explicar_87_Datos.csv,Explicar,Testing
+266,C_86_Datos.csv,C,Testing
+267,Lunes_98_Datos.csv,Lunes,Testing
+268,Por que_94_Datos.csv,Por que,Testing
+269,Martes_94_Datos.csv,Martes,Testing
+270,Martes_88_Datos.csv,Martes,Testing
+271,B_99_Datos.csv,B,Testing
+272,Explicar_94_Datos.csv,Explicar,Testing
+273,Domingo_93_Datos.csv,Domingo,Testing
+274,Cuanto_89_Datos.csv,Cuanto,Testing
+275,Cuando_99_Datos.csv,Cuando,Testing
+276,Viernes_89_Datos.csv,Viernes,Testing
+277,Gracias_87_Datos.csv,Gracias,Testing
+278,Q_86_Datos.csv,Q,Testing
+279,A_97_Datos.csv,A,Testing
+280,Cuanto_87_Datos.csv,Cuanto,Testing
+281,No_92_Datos.csv,No,Testing
+282,Por que_87_Datos.csv,Por que,Testing
+283,Miercoles_90_Datos.csv,Miercoles,Testing
+284,Nombre_98_Datos.csv,Nombre,Testing
+285,Jueves_94_Datos.csv,Jueves,Testing
+286,Por_favor_100_Datos.csv,Por_favor,Testing
+287,Cuanto_91_Datos.csv,Cuanto,Testing
+288,X_96_Datos.csv,X,Testing
+289,Cuando_93_Datos.csv,Cuando,Testing
+290,Por_favor_93_Datos.csv,Por_favor,Testing
+291,Deletrear_87_Datos.csv,Deletrear,Testing
+292,Jueves_95_Datos.csv,Jueves,Testing
+293,K_86_Datos.csv,K,Testing
+294,Viernes_97_Datos.csv,Viernes,Testing
+295,Explicar_93_Datos.csv,Explicar,Testing
+296,Sabado_93_Datos.csv,Sabado,Testing
+297,Que es_100_Datos.csv,Que es,Testing
+298,Cuanto_95_Datos.csv,Cuanto,Testing
+299,Quien_89_Datos.csv,Quien,Testing
+300,Cuando_86_Datos.csv,Cuando,Testing
+301,Jueves_97_Datos.csv,Jueves,Testing
+302,Miercoles_99_Datos.csv,Miercoles,Testing
+303,Para que_86_Datos.csv,Para que,Testing
+304,Miercoles_93_Datos.csv,Miercoles,Testing
+305,No_95_Datos.csv,No,Testing
+306,Martes_87_Datos.csv,Martes,Testing
+307,X_93_Datos.csv,X,Testing
+308,K_100_Datos.csv,K,Testing
+309,C_96_Datos.csv,C,Testing
+310,Deletrear_94_Datos.csv,Deletrear,Testing
+311,Donde_98_Datos.csv,Donde,Testing
+312,Domingo_86_Datos.csv,Domingo,Testing
+313,Martes_90_Datos.csv,Martes,Testing
+314,Si_96_Datos.csv,Si,Testing
+315,B_97_Datos.csv,B,Testing
+316,Cuando_96_Datos.csv,Cuando,Testing
+317,X_86_Datos.csv,X,Testing
+318,J_94_Datos.csv,J,Testing
+319,No_97_Datos.csv,No,Testing
+320,Deletrear_91_Datos.csv,Deletrear,Testing
+321,Por_favor_88_Datos.csv,Por_favor,Testing
+322,Como_92_Datos.csv,Como,Testing
+323,Lunes_97_Datos.csv,Lunes,Testing
+324,Como_100_Datos.csv,Como,Testing
+325,Q_91_Datos.csv,Q,Testing
+326,B_88_Datos.csv,B,Testing
+327,Gracias_95_Datos.csv,Gracias,Testing
+328,Cuanto_100_Datos.csv,Cuanto,Testing
+329,Si_87_Datos.csv,Si,Testing
+330,Miercoles_100_Datos.csv,Miercoles,Testing
+331,Sabado_96_Datos.csv,Sabado,Testing
+332,Cuando_95_Datos.csv,Cuando,Testing
+333,Gracias_100_Datos.csv,Gracias,Testing
+334,J_95_Datos.csv,J,Testing
+335,Donde_86_Datos.csv,Donde,Testing
+336,No_96_Datos.csv,No,Testing
+337,A_94_Datos.csv,A,Testing
+338,X_95_Datos.csv,X,Testing
+339,Si_88_Datos.csv,Si,Testing
+340,X_88_Datos.csv,X,Testing
+341,Por_favor_87_Datos.csv,Por_favor,Testing
+342,Donde_88_Datos.csv,Donde,Testing
+343,Jueves_88_Datos.csv,Jueves,Testing
+344,Domingo_91_Datos.csv,Domingo,Testing
+345,Gracias_99_Datos.csv,Gracias,Testing
+346,Que es_92_Datos.csv,Que es,Testing
+347,A_89_Datos.csv,A,Testing
+348,X_99_Datos.csv,X,Testing
+349,Por que_90_Datos.csv,Por que,Testing
+350,J_97_Datos.csv,J,Testing
+351,Miercoles_98_Datos.csv,Miercoles,Testing
+352,Lunes_86_Datos.csv,Lunes,Testing
+353,Q_90_Datos.csv,Q,Testing
+354,Martes_100_Datos.csv,Martes,Testing
+355,No_89_Datos.csv,No,Testing
+356,Nombre_94_Datos.csv,Nombre,Testing
+357,Como_96_Datos.csv,Como,Testing
+358,B_94_Datos.csv,B,Testing
+359,Viernes_93_Datos.csv,Viernes,Testing
+360,Por_favor_94_Datos.csv,Por_favor,Testing
+361,Gracias_92_Datos.csv,Gracias,Testing
+362,B_91_Datos.csv,B,Testing
+363,Si_89_Datos.csv,Si,Testing
+364,A_95_Datos.csv,A,Testing
+365,X_98_Datos.csv,X,Testing
+366,Q_100_Datos.csv,Q,Testing
+367,No_93_Datos.csv,No,Testing
+368,Deletrear_97_Datos.csv,Deletrear,Testing
+369,D_100_Datos.csv,D,Testing
+370,Por que_93_Datos.csv,Por que,Testing
+371,A_100_Datos.csv,A,Testing
+372,Cuanto_90_Datos.csv,Cuanto,Testing
+373,Si_91_Datos.csv,Si,Testing
+374,Explicar_86_Datos.csv,Explicar,Testing
+375,D_91_Datos.csv,D,Testing
+376,No_99_Datos.csv,No,Testing
+377,K_87_Datos.csv,K,Testing
+378,Viernes_88_Datos.csv,Viernes,Testing
+379,Por_favor_86_Datos.csv,Por_favor,Testing
+380,Si_92_Datos.csv,Si,Testing
+381,Jueves_87_Datos.csv,Jueves,Testing
+382,Deletrear_95_Datos.csv,Deletrear,Testing
+383,Sabado_88_Datos.csv,Sabado,Testing
+384,Por que_96_Datos.csv,Por que,Testing
+385,Martes_92_Datos.csv,Martes,Testing
+386,Que es_98_Datos.csv,Que es,Testing
+387,C_99_Datos.csv,C,Testing
+388,Lunes_95_Datos.csv,Lunes,Testing
+389,Jueves_93_Datos.csv,Jueves,Testing
+390,Si_86_Datos.csv,Si,Testing
+391,Por_favor_90_Datos.csv,Por_favor,Testing
+392,K_98_Datos.csv,K,Testing
+393,D_93_Datos.csv,D,Testing
+394,K_93_Datos.csv,K,Testing
+395,A_98_Datos.csv,A,Testing
+396,J_99_Datos.csv,J,Testing
+397,B_95_Datos.csv,B,Testing
+398,D_92_Datos.csv,D,Testing
+399,D_87_Datos.csv,D,Testing
+400,Miercoles_88_Datos.csv,Miercoles,Testing
+401,No_90_Datos.csv,No,Testing
+402,Domingo_96_Datos.csv,Domingo,Testing
+403,Nombre_91_Datos.csv,Nombre,Testing
+404,Miercoles_91_Datos.csv,Miercoles,Testing
+405,Donde_93_Datos.csv,Donde,Testing
+406,X_91_Datos.csv,X,Testing
+407,Gracias_90_Datos.csv,Gracias,Testing
+408,J_98_Datos.csv,J,Testing
+409,Para que_91_Datos.csv,Para que,Testing
+410,Que es_87_Datos.csv,Que es,Testing
+411,Que es_99_Datos.csv,Que es,Testing
+412,Como_90_Datos.csv,Como,Testing
+413,Cuando_90_Datos.csv,Cuando,Testing
+414,Jueves_90_Datos.csv,Jueves,Testing
+415,Como_86_Datos.csv,Como,Testing
+416,Q_89_Datos.csv,Q,Testing
+417,Para que_97_Datos.csv,Para que,Testing
+418,Por_favor_89_Datos.csv,Por_favor,Testing
+419,Explicar_99_Datos.csv,Explicar,Testing
+420,Sabado_90_Datos.csv,Sabado,Testing
+421,Domingo_100_Datos.csv,Domingo,Testing
+422,Explicar_97_Datos.csv,Explicar,Testing
+423,No_94_Datos.csv,No,Testing
+424,Q_97_Datos.csv,Q,Testing
+425,Domingo_99_Datos.csv,Domingo,Testing
+426,Si_93_Datos.csv,Si,Testing
+427,J_86_Datos.csv,J,Testing
+428,Si_100_Datos.csv,Si,Testing
+429,Cuanto_97_Datos.csv,Cuanto,Testing
+430,Sabado_89_Datos.csv,Sabado,Testing
+431,B_86_Datos.csv,B,Testing
+432,D_99_Datos.csv,D,Testing
+433,J_93_Datos.csv,J,Testing
+434,Explicar_95_Datos.csv,Explicar,Testing
+435,Martes_86_Datos.csv,Martes,Testing
+436,Jueves_100_Datos.csv,Jueves,Testing
+437,Si_94_Datos.csv,Si,Testing
+438,Gracias_97_Datos.csv,Gracias,Testing
+439,Cuando_87_Datos.csv,Cuando,Testing
+440,Cuando_91_Datos.csv,Cuando,Testing
+441,J_92_Datos.csv,J,Testing
+442,K_96_Datos.csv,K,Testing
+443,Lunes_96_Datos.csv,Lunes,Testing
+444,K_95_Datos.csv,K,Testing
+445,Miercoles_86_Datos.csv,Miercoles,Testing
+446,Para que_93_Datos.csv,Para que,Testing
+447,No_87_Datos.csv,No,Testing
+448,Lunes_92_Datos.csv,Lunes,Testing
+449,D_94_Datos.csv,D,Testing
+450,Cuando_37_Datos.csv,Cuando,TrainingValidation
+451,Martes_81_Datos.csv,Martes,TrainingValidation
+452,Jueves_7_Datos.csv,Jueves,TrainingValidation
+453,No_63_Datos.csv,No,TrainingValidation
+454,Q_74_Datos.csv,Q,TrainingValidation
+455,Martes_45_Datos.csv,Martes,TrainingValidation
+456,J_83_Datos.csv,J,TrainingValidation
+457,Quien_68_Datos.csv,Quien,TrainingValidation
+458,Miercoles_13_Datos.csv,Miercoles,TrainingValidation
+459,X_29_Datos.csv,X,TrainingValidation
+460,Martes_61_Datos.csv,Martes,TrainingValidation
+461,Gracias_51_Datos.csv,Gracias,TrainingValidation
+462,Cuanto_34_Datos.csv,Cuanto,TrainingValidation
+463,D_24_Datos.csv,D,TrainingValidation
+464,Por_favor_73_Datos.csv,Por_favor,TrainingValidation
+465,Martes_33_Datos.csv,Martes,TrainingValidation
+466,Para que_46_Datos.csv,Para que,TrainingValidation
+467,Nombre_4_Datos.csv,Nombre,TrainingValidation
+468,Cuanto_4_Datos.csv,Cuanto,TrainingValidation
+469,Por que_25_Datos.csv,Por que,TrainingValidation
+470,No_58_Datos.csv,No,TrainingValidation
+471,B_23_Datos.csv,B,TrainingValidation
+472,Como_32_Datos.csv,Como,TrainingValidation
+473,Donde_12_Datos.csv,Donde,TrainingValidation
+474,Si_23_Datos.csv,Si,TrainingValidation
+475,Cuanto_29_Datos.csv,Cuanto,TrainingValidation
+476,Jueves_59_Datos.csv,Jueves,TrainingValidation
+477,J_14_Datos.csv,J,TrainingValidation
+478,Como_10_Datos.csv,Como,TrainingValidation
+479,B_10_Datos.csv,B,TrainingValidation
+480,Lunes_3_Datos.csv,Lunes,TrainingValidation
+481,No_49_Datos.csv,No,TrainingValidation
+482,X_68_Datos.csv,X,TrainingValidation
+483,Jueves_53_Datos.csv,Jueves,TrainingValidation
+484,Q_78_Datos.csv,Q,TrainingValidation
+485,A_2_Datos.csv,A,TrainingValidation
+486,Nombre_75_Datos.csv,Nombre,TrainingValidation
+487,Explicar_54_Datos.csv,Explicar,TrainingValidation
+488,A_31_Datos.csv,A,TrainingValidation
+489,Donde_34_Datos.csv,Donde,TrainingValidation
+490,Miercoles_75_Datos.csv,Miercoles,TrainingValidation
+491,Por que_68_Datos.csv,Por que,TrainingValidation
+492,Cuanto_51_Datos.csv,Cuanto,TrainingValidation
+493,Por que_79_Datos.csv,Por que,TrainingValidation
+494,Nombre_32_Datos.csv,Nombre,TrainingValidation
+495,Q_41_Datos.csv,Q,TrainingValidation
+496,Por que_50_Datos.csv,Por que,TrainingValidation
+497,Por que_61_Datos.csv,Por que,TrainingValidation
+498,Sabado_73_Datos.csv,Sabado,TrainingValidation
+499,A_59_Datos.csv,A,TrainingValidation
+500,X_14_Datos.csv,X,TrainingValidation
+501,Jueves_28_Datos.csv,Jueves,TrainingValidation
+502,Jueves_40_Datos.csv,Jueves,TrainingValidation
+503,K_10_Datos.csv,K,TrainingValidation
+504,C_28_Datos.csv,C,TrainingValidation
+505,Domingo_38_Datos.csv,Domingo,TrainingValidation
+506,Domingo_55_Datos.csv,Domingo,TrainingValidation
+507,J_78_Datos.csv,J,TrainingValidation
+508,No_1_Datos.csv,No,TrainingValidation
+509,Si_9_Datos.csv,Si,TrainingValidation
+510,Viernes_24_Datos.csv,Viernes,TrainingValidation
+511,Lunes_40_Datos.csv,Lunes,TrainingValidation
+512,Para que_14_Datos.csv,Para que,TrainingValidation
+513,Explicar_44_Datos.csv,Explicar,TrainingValidation
+514,Q_3_Datos.csv,Q,TrainingValidation
+515,Deletrear_61_Datos.csv,Deletrear,TrainingValidation
+516,Cuando_5_Datos.csv,Cuando,TrainingValidation
+517,C_71_Datos.csv,C,TrainingValidation
+518,Si_83_Datos.csv,Si,TrainingValidation
+519,Cuanto_30_Datos.csv,Cuanto,TrainingValidation
+520,J_7_Datos.csv,J,TrainingValidation
+521,Deletrear_45_Datos.csv,Deletrear,TrainingValidation
+522,Para que_74_Datos.csv,Para que,TrainingValidation
+523,K_60_Datos.csv,K,TrainingValidation
+524,Q_44_Datos.csv,Q,TrainingValidation
+525,A_52_Datos.csv,A,TrainingValidation
+526,Por_favor_40_Datos.csv,Por_favor,TrainingValidation
+527,Gracias_32_Datos.csv,Gracias,TrainingValidation
+528,Donde_5_Datos.csv,Donde,TrainingValidation
+529,Quien_73_Datos.csv,Quien,TrainingValidation
+530,Sabado_18_Datos.csv,Sabado,TrainingValidation
+531,A_69_Datos.csv,A,TrainingValidation
+532,B_75_Datos.csv,B,TrainingValidation
+533,Explicar_6_Datos.csv,Explicar,TrainingValidation
+534,Donde_13_Datos.csv,Donde,TrainingValidation
+535,J_52_Datos.csv,J,TrainingValidation
+536,J_31_Datos.csv,J,TrainingValidation
+537,Por que_27_Datos.csv,Por que,TrainingValidation
+538,Por_favor_5_Datos.csv,Por_favor,TrainingValidation
+539,Donde_56_Datos.csv,Donde,TrainingValidation
+540,Nombre_48_Datos.csv,Nombre,TrainingValidation
+541,X_9_Datos.csv,X,TrainingValidation
+542,Jueves_61_Datos.csv,Jueves,TrainingValidation
+543,Jueves_73_Datos.csv,Jueves,TrainingValidation
+544,Jueves_68_Datos.csv,Jueves,TrainingValidation
+545,No_30_Datos.csv,No,TrainingValidation
+546,Nombre_23_Datos.csv,Nombre,TrainingValidation
+547,K_40_Datos.csv,K,TrainingValidation
+548,C_65_Datos.csv,C,TrainingValidation
+549,Gracias_14_Datos.csv,Gracias,TrainingValidation
+550,Como_68_Datos.csv,Como,TrainingValidation
+551,X_75_Datos.csv,X,TrainingValidation
+552,Si_63_Datos.csv,Si,TrainingValidation
+553,Gracias_82_Datos.csv,Gracias,TrainingValidation
+554,Como_66_Datos.csv,Como,TrainingValidation
+555,J_71_Datos.csv,J,TrainingValidation
+556,J_70_Datos.csv,J,TrainingValidation
+557,Sabado_15_Datos.csv,Sabado,TrainingValidation
+558,Cuando_23_Datos.csv,Cuando,TrainingValidation
+559,No_19_Datos.csv,No,TrainingValidation
+560,A_28_Datos.csv,A,TrainingValidation
+561,B_84_Datos.csv,B,TrainingValidation
+562,Sabado_16_Datos.csv,Sabado,TrainingValidation
+563,Sabado_20_Datos.csv,Sabado,TrainingValidation
+564,D_63_Datos.csv,D,TrainingValidation
+565,Por que_24_Datos.csv,Por que,TrainingValidation
+566,Como_62_Datos.csv,Como,TrainingValidation
+567,Sabado_44_Datos.csv,Sabado,TrainingValidation
+568,Explicar_81_Datos.csv,Explicar,TrainingValidation
+569,B_52_Datos.csv,B,TrainingValidation
+570,Q_81_Datos.csv,Q,TrainingValidation
+571,Q_1_Datos.csv,Q,TrainingValidation
+572,Donde_7_Datos.csv,Donde,TrainingValidation
+573,Cuando_60_Datos.csv,Cuando,TrainingValidation
+574,Martes_54_Datos.csv,Martes,TrainingValidation
+575,X_65_Datos.csv,X,TrainingValidation
+576,Cuanto_54_Datos.csv,Cuanto,TrainingValidation
+577,Quien_13_Datos.csv,Quien,TrainingValidation
+578,Por_favor_33_Datos.csv,Por_favor,TrainingValidation
+579,D_31_Datos.csv,D,TrainingValidation
+580,X_46_Datos.csv,X,TrainingValidation
+581,J_30_Datos.csv,J,TrainingValidation
+582,A_38_Datos.csv,A,TrainingValidation
+583,A_75_Datos.csv,A,TrainingValidation
+584,Por que_19_Datos.csv,Por que,TrainingValidation
+585,Que es_19_Datos.csv,Que es,TrainingValidation
+586,Nombre_9_Datos.csv,Nombre,TrainingValidation
+587,Donde_68_Datos.csv,Donde,TrainingValidation
+588,Domingo_26_Datos.csv,Domingo,TrainingValidation
+589,Cuanto_49_Datos.csv,Cuanto,TrainingValidation
+590,Explicar_43_Datos.csv,Explicar,TrainingValidation
+591,A_27_Datos.csv,A,TrainingValidation
+592,J_17_Datos.csv,J,TrainingValidation
+593,Que es_39_Datos.csv,Que es,TrainingValidation
+594,Sabado_57_Datos.csv,Sabado,TrainingValidation
+595,Por_favor_7_Datos.csv,Por_favor,TrainingValidation
+596,No_21_Datos.csv,No,TrainingValidation
+597,C_15_Datos.csv,C,TrainingValidation
+598,Explicar_46_Datos.csv,Explicar,TrainingValidation
+599,Cuanto_2_Datos.csv,Cuanto,TrainingValidation
+600,Q_45_Datos.csv,Q,TrainingValidation
+601,Donde_23_Datos.csv,Donde,TrainingValidation
+602,Viernes_58_Datos.csv,Viernes,TrainingValidation
+603,A_33_Datos.csv,A,TrainingValidation
+604,Sabado_10_Datos.csv,Sabado,TrainingValidation
+605,Martes_28_Datos.csv,Martes,TrainingValidation
+606,Gracias_75_Datos.csv,Gracias,TrainingValidation
+607,Por_favor_65_Datos.csv,Por_favor,TrainingValidation
+608,A_1_Datos.csv,A,TrainingValidation
+609,Lunes_21_Datos.csv,Lunes,TrainingValidation
+610,Sabado_63_Datos.csv,Sabado,TrainingValidation
+611,Por_favor_42_Datos.csv,Por_favor,TrainingValidation
+612,Deletrear_27_Datos.csv,Deletrear,TrainingValidation
+613,X_23_Datos.csv,X,TrainingValidation
+614,Si_8_Datos.csv,Si,TrainingValidation
+615,Lunes_81_Datos.csv,Lunes,TrainingValidation
+616,X_49_Datos.csv,X,TrainingValidation
+617,B_8_Datos.csv,B,TrainingValidation
+618,Si_34_Datos.csv,Si,TrainingValidation
+619,Jueves_51_Datos.csv,Jueves,TrainingValidation
+620,Domingo_14_Datos.csv,Domingo,TrainingValidation
+621,Quien_60_Datos.csv,Quien,TrainingValidation
+622,Cuando_34_Datos.csv,Cuando,TrainingValidation
+623,Domingo_41_Datos.csv,Domingo,TrainingValidation
+624,Nombre_26_Datos.csv,Nombre,TrainingValidation
+625,Nombre_73_Datos.csv,Nombre,TrainingValidation
+626,Domingo_18_Datos.csv,Domingo,TrainingValidation
+627,Sabado_25_Datos.csv,Sabado,TrainingValidation
+628,Deletrear_80_Datos.csv,Deletrear,TrainingValidation
+629,Q_57_Datos.csv,Q,TrainingValidation
+630,J_62_Datos.csv,J,TrainingValidation
+631,Sabado_43_Datos.csv,Sabado,TrainingValidation
+632,Si_47_Datos.csv,Si,TrainingValidation
+633,Q_34_Datos.csv,Q,TrainingValidation
+634,Como_47_Datos.csv,Como,TrainingValidation
+635,Cuanto_19_Datos.csv,Cuanto,TrainingValidation
+636,J_53_Datos.csv,J,TrainingValidation
+637,Miercoles_23_Datos.csv,Miercoles,TrainingValidation
+638,Nombre_67_Datos.csv,Nombre,TrainingValidation
+639,Explicar_53_Datos.csv,Explicar,TrainingValidation
+640,Como_30_Datos.csv,Como,TrainingValidation
+641,Gracias_17_Datos.csv,Gracias,TrainingValidation
+642,Domingo_57_Datos.csv,Domingo,TrainingValidation
+643,A_40_Datos.csv,A,TrainingValidation
+644,Lunes_85_Datos.csv,Lunes,TrainingValidation
+645,Para que_82_Datos.csv,Para que,TrainingValidation
+646,Gracias_65_Datos.csv,Gracias,TrainingValidation
+647,D_1_Datos.csv,D,TrainingValidation
+648,Domingo_1_Datos.csv,Domingo,TrainingValidation
+649,Martes_76_Datos.csv,Martes,TrainingValidation
+650,Gracias_49_Datos.csv,Gracias,TrainingValidation
+651,Cuanto_69_Datos.csv,Cuanto,TrainingValidation
+652,X_44_Datos.csv,X,TrainingValidation
+653,Como_72_Datos.csv,Como,TrainingValidation
+654,Para que_85_Datos.csv,Para que,TrainingValidation
+655,Martes_49_Datos.csv,Martes,TrainingValidation
+656,B_42_Datos.csv,B,TrainingValidation
+657,No_33_Datos.csv,No,TrainingValidation
+658,Para que_19_Datos.csv,Para que,TrainingValidation
+659,Lunes_61_Datos.csv,Lunes,TrainingValidation
+660,Por_favor_30_Datos.csv,Por_favor,TrainingValidation
+661,J_40_Datos.csv,J,TrainingValidation
+662,C_26_Datos.csv,C,TrainingValidation
+663,Donde_22_Datos.csv,Donde,TrainingValidation
+664,Nombre_79_Datos.csv,Nombre,TrainingValidation
+665,Martes_8_Datos.csv,Martes,TrainingValidation
+666,B_60_Datos.csv,B,TrainingValidation
+667,Sabado_42_Datos.csv,Sabado,TrainingValidation
+668,Gracias_80_Datos.csv,Gracias,TrainingValidation
+669,Donde_57_Datos.csv,Donde,TrainingValidation
+670,Jueves_57_Datos.csv,Jueves,TrainingValidation
+671,Miercoles_59_Datos.csv,Miercoles,TrainingValidation
+672,J_44_Datos.csv,J,TrainingValidation
+673,Sabado_47_Datos.csv,Sabado,TrainingValidation
+674,No_3_Datos.csv,No,TrainingValidation
+675,Gracias_84_Datos.csv,Gracias,TrainingValidation
+676,Sabado_3_Datos.csv,Sabado,TrainingValidation
+677,No_82_Datos.csv,No,TrainingValidation
+678,Para que_76_Datos.csv,Para que,TrainingValidation
+679,Donde_20_Datos.csv,Donde,TrainingValidation
+680,Para que_3_Datos.csv,Para que,TrainingValidation
+681,Cuanto_9_Datos.csv,Cuanto,TrainingValidation
+682,A_60_Datos.csv,A,TrainingValidation
+683,Por_favor_38_Datos.csv,Por_favor,TrainingValidation
+684,Lunes_82_Datos.csv,Lunes,TrainingValidation
+685,Q_61_Datos.csv,Q,TrainingValidation
+686,Domingo_16_Datos.csv,Domingo,TrainingValidation
+687,Cuanto_79_Datos.csv,Cuanto,TrainingValidation
+688,Jueves_70_Datos.csv,Jueves,TrainingValidation
+689,Por que_30_Datos.csv,Por que,TrainingValidation
+690,Miercoles_38_Datos.csv,Miercoles,TrainingValidation
+691,A_65_Datos.csv,A,TrainingValidation
+692,Por que_44_Datos.csv,Por que,TrainingValidation
+693,No_48_Datos.csv,No,TrainingValidation
+694,C_2_Datos.csv,C,TrainingValidation
+695,Jueves_48_Datos.csv,Jueves,TrainingValidation
+696,Domingo_69_Datos.csv,Domingo,TrainingValidation
+697,Explicar_25_Datos.csv,Explicar,TrainingValidation
+698,Explicar_14_Datos.csv,Explicar,TrainingValidation
+699,Por que_52_Datos.csv,Por que,TrainingValidation
+700,D_38_Datos.csv,D,TrainingValidation
+701,Martes_18_Datos.csv,Martes,TrainingValidation
+702,D_78_Datos.csv,D,TrainingValidation
+703,Nombre_40_Datos.csv,Nombre,TrainingValidation
+704,Sabado_31_Datos.csv,Sabado,TrainingValidation
+705,Viernes_26_Datos.csv,Viernes,TrainingValidation
+706,C_56_Datos.csv,C,TrainingValidation
+707,Martes_82_Datos.csv,Martes,TrainingValidation
+708,Cuando_10_Datos.csv,Cuando,TrainingValidation
+709,Por_favor_15_Datos.csv,Por_favor,TrainingValidation
+710,Para que_51_Datos.csv,Para que,TrainingValidation
+711,D_53_Datos.csv,D,TrainingValidation
+712,A_30_Datos.csv,A,TrainingValidation
+713,Domingo_73_Datos.csv,Domingo,TrainingValidation
+714,D_13_Datos.csv,D,TrainingValidation
+715,Si_2_Datos.csv,Si,TrainingValidation
+716,Jueves_18_Datos.csv,Jueves,TrainingValidation
+717,Quien_50_Datos.csv,Quien,TrainingValidation
+718,Por que_9_Datos.csv,Por que,TrainingValidation
+719,Quien_3_Datos.csv,Quien,TrainingValidation
+720,Por_favor_32_Datos.csv,Por_favor,TrainingValidation
+721,Nombre_11_Datos.csv,Nombre,TrainingValidation
+722,Por_favor_23_Datos.csv,Por_favor,TrainingValidation
+723,Cuando_33_Datos.csv,Cuando,TrainingValidation
+724,Para que_56_Datos.csv,Para que,TrainingValidation
+725,Cuando_31_Datos.csv,Cuando,TrainingValidation
+726,Domingo_33_Datos.csv,Domingo,TrainingValidation
+727,Por que_8_Datos.csv,Por que,TrainingValidation
+728,Viernes_81_Datos.csv,Viernes,TrainingValidation
+729,Domingo_35_Datos.csv,Domingo,TrainingValidation
+730,No_26_Datos.csv,No,TrainingValidation
+731,Martes_66_Datos.csv,Martes,TrainingValidation
+732,Miercoles_66_Datos.csv,Miercoles,TrainingValidation
+733,C_13_Datos.csv,C,TrainingValidation
+734,Cuanto_40_Datos.csv,Cuanto,TrainingValidation
+735,Que es_6_Datos.csv,Que es,TrainingValidation
+736,Lunes_10_Datos.csv,Lunes,TrainingValidation
+737,No_77_Datos.csv,No,TrainingValidation
+738,Q_51_Datos.csv,Q,TrainingValidation
+739,D_23_Datos.csv,D,TrainingValidation
+740,Si_24_Datos.csv,Si,TrainingValidation
+741,Por_favor_9_Datos.csv,Por_favor,TrainingValidation
+742,Domingo_31_Datos.csv,Domingo,TrainingValidation
+743,D_33_Datos.csv,D,TrainingValidation
+744,Cuando_38_Datos.csv,Cuando,TrainingValidation
+745,Si_57_Datos.csv,Si,TrainingValidation
+746,C_8_Datos.csv,C,TrainingValidation
+747,Gracias_20_Datos.csv,Gracias,TrainingValidation
+748,Lunes_36_Datos.csv,Lunes,TrainingValidation
+749,Miercoles_16_Datos.csv,Miercoles,TrainingValidation
+750,Q_20_Datos.csv,Q,TrainingValidation
+751,Gracias_12_Datos.csv,Gracias,TrainingValidation
+752,Jueves_62_Datos.csv,Jueves,TrainingValidation
+753,Donde_81_Datos.csv,Donde,TrainingValidation
+754,Por que_1_Datos.csv,Por que,TrainingValidation
+755,C_83_Datos.csv,C,TrainingValidation
+756,Cuando_72_Datos.csv,Cuando,TrainingValidation
+757,Deletrear_43_Datos.csv,Deletrear,TrainingValidation
+758,Quien_6_Datos.csv,Quien,TrainingValidation
+759,Como_2_Datos.csv,Como,TrainingValidation
+760,B_21_Datos.csv,B,TrainingValidation
+761,Q_68_Datos.csv,Q,TrainingValidation
+762,Por_favor_83_Datos.csv,Por_favor,TrainingValidation
+763,Gracias_45_Datos.csv,Gracias,TrainingValidation
+764,Miercoles_14_Datos.csv,Miercoles,TrainingValidation
+765,Deletrear_36_Datos.csv,Deletrear,TrainingValidation
+766,Cuanto_53_Datos.csv,Cuanto,TrainingValidation
+767,Gracias_67_Datos.csv,Gracias,TrainingValidation
+768,K_50_Datos.csv,K,TrainingValidation
+769,Sabado_35_Datos.csv,Sabado,TrainingValidation
+770,Martes_2_Datos.csv,Martes,TrainingValidation
+771,Explicar_4_Datos.csv,Explicar,TrainingValidation
+772,Sabado_76_Datos.csv,Sabado,TrainingValidation
+773,Q_70_Datos.csv,Q,TrainingValidation
+774,No_37_Datos.csv,No,TrainingValidation
+775,Por_favor_4_Datos.csv,Por_favor,TrainingValidation
+776,Nombre_80_Datos.csv,Nombre,TrainingValidation
+777,Lunes_1_Datos.csv,Lunes,TrainingValidation
+778,Para que_70_Datos.csv,Para que,TrainingValidation
+779,B_65_Datos.csv,B,TrainingValidation
+780,Para que_35_Datos.csv,Para que,TrainingValidation
+781,C_9_Datos.csv,C,TrainingValidation
+782,Cuando_64_Datos.csv,Cuando,TrainingValidation
+783,Para que_24_Datos.csv,Para que,TrainingValidation
+784,Q_36_Datos.csv,Q,TrainingValidation
+785,Q_52_Datos.csv,Q,TrainingValidation
+786,Que es_63_Datos.csv,Que es,TrainingValidation
+787,Por que_6_Datos.csv,Por que,TrainingValidation
+788,Como_6_Datos.csv,Como,TrainingValidation
+789,Quien_69_Datos.csv,Quien,TrainingValidation
+790,Martes_75_Datos.csv,Martes,TrainingValidation
+791,Cuando_45_Datos.csv,Cuando,TrainingValidation
+792,Quien_2_Datos.csv,Quien,TrainingValidation
+793,D_12_Datos.csv,D,TrainingValidation
+794,Si_54_Datos.csv,Si,TrainingValidation
+795,Deletrear_3_Datos.csv,Deletrear,TrainingValidation
+796,Miercoles_21_Datos.csv,Miercoles,TrainingValidation
+797,Si_80_Datos.csv,Si,TrainingValidation
+798,Deletrear_38_Datos.csv,Deletrear,TrainingValidation
+799,Explicar_15_Datos.csv,Explicar,TrainingValidation
+800,A_56_Datos.csv,A,TrainingValidation
+801,B_12_Datos.csv,B,TrainingValidation
+802,Lunes_30_Datos.csv,Lunes,TrainingValidation
+803,Viernes_16_Datos.csv,Viernes,TrainingValidation
+804,Que es_34_Datos.csv,Que es,TrainingValidation
+805,C_63_Datos.csv,C,TrainingValidation
+806,Cuanto_62_Datos.csv,Cuanto,TrainingValidation
+807,Cuanto_7_Datos.csv,Cuanto,TrainingValidation
+808,Martes_24_Datos.csv,Martes,TrainingValidation
+809,Como_22_Datos.csv,Como,TrainingValidation
+810,No_39_Datos.csv,No,TrainingValidation
+811,D_50_Datos.csv,D,TrainingValidation
+812,B_25_Datos.csv,B,TrainingValidation
+813,Nombre_84_Datos.csv,Nombre,TrainingValidation
+814,D_37_Datos.csv,D,TrainingValidation
+815,Lunes_42_Datos.csv,Lunes,TrainingValidation
+816,Miercoles_68_Datos.csv,Miercoles,TrainingValidation
+817,B_76_Datos.csv,B,TrainingValidation
+818,Quien_16_Datos.csv,Quien,TrainingValidation
+819,J_1_Datos.csv,J,TrainingValidation
+820,Sabado_65_Datos.csv,Sabado,TrainingValidation
+821,Explicar_38_Datos.csv,Explicar,TrainingValidation
+822,C_36_Datos.csv,C,TrainingValidation
+823,X_59_Datos.csv,X,TrainingValidation
+824,Como_9_Datos.csv,Como,TrainingValidation
+825,D_45_Datos.csv,D,TrainingValidation
+826,Para que_77_Datos.csv,Para que,TrainingValidation
+827,Martes_63_Datos.csv,Martes,TrainingValidation
+828,Por que_11_Datos.csv,Por que,TrainingValidation
+829,Miercoles_67_Datos.csv,Miercoles,TrainingValidation
+830,Gracias_18_Datos.csv,Gracias,TrainingValidation
+831,No_12_Datos.csv,No,TrainingValidation
+832,Quien_48_Datos.csv,Quien,TrainingValidation
+833,No_50_Datos.csv,No,TrainingValidation
+834,Sabado_17_Datos.csv,Sabado,TrainingValidation
+835,Jueves_38_Datos.csv,Jueves,TrainingValidation
+836,A_78_Datos.csv,A,TrainingValidation
+837,Sabado_85_Datos.csv,Sabado,TrainingValidation
+838,Gracias_57_Datos.csv,Gracias,TrainingValidation
+839,Domingo_34_Datos.csv,Domingo,TrainingValidation
+840,J_69_Datos.csv,J,TrainingValidation
+841,Cuanto_32_Datos.csv,Cuanto,TrainingValidation
+842,Jueves_8_Datos.csv,Jueves,TrainingValidation
+843,J_64_Datos.csv,J,TrainingValidation
+844,Si_75_Datos.csv,Si,TrainingValidation
+845,Nombre_77_Datos.csv,Nombre,TrainingValidation
+846,Quien_14_Datos.csv,Quien,TrainingValidation
+847,Nombre_31_Datos.csv,Nombre,TrainingValidation
+848,Por_favor_41_Datos.csv,Por_favor,TrainingValidation
+849,Como_40_Datos.csv,Como,TrainingValidation
+850,Viernes_85_Datos.csv,Viernes,TrainingValidation
+851,Explicar_7_Datos.csv,Explicar,TrainingValidation
+852,Deletrear_37_Datos.csv,Deletrear,TrainingValidation
+853,Lunes_5_Datos.csv,Lunes,TrainingValidation
+854,Quien_9_Datos.csv,Quien,TrainingValidation
+855,D_42_Datos.csv,D,TrainingValidation
+856,Viernes_70_Datos.csv,Viernes,TrainingValidation
+857,Donde_80_Datos.csv,Donde,TrainingValidation
+858,Sabado_8_Datos.csv,Sabado,TrainingValidation
+859,Jueves_5_Datos.csv,Jueves,TrainingValidation
+860,Que es_14_Datos.csv,Que es,TrainingValidation
+861,Viernes_60_Datos.csv,Viernes,TrainingValidation
+862,Nombre_55_Datos.csv,Nombre,TrainingValidation
+863,B_14_Datos.csv,B,TrainingValidation
+864,Miercoles_7_Datos.csv,Miercoles,TrainingValidation
+865,Cuanto_37_Datos.csv,Cuanto,TrainingValidation
+866,Viernes_50_Datos.csv,Viernes,TrainingValidation
+867,J_60_Datos.csv,J,TrainingValidation
+868,Quien_79_Datos.csv,Quien,TrainingValidation
+869,D_49_Datos.csv,D,TrainingValidation
+870,Por que_60_Datos.csv,Por que,TrainingValidation
+871,Martes_64_Datos.csv,Martes,TrainingValidation
+872,B_69_Datos.csv,B,TrainingValidation
+873,Si_52_Datos.csv,Si,TrainingValidation
+874,K_6_Datos.csv,K,TrainingValidation
+875,Por_favor_36_Datos.csv,Por_favor,TrainingValidation
+876,Viernes_48_Datos.csv,Viernes,TrainingValidation
+877,Cuando_51_Datos.csv,Cuando,TrainingValidation
+878,Por_favor_63_Datos.csv,Por_favor,TrainingValidation
+879,B_16_Datos.csv,B,TrainingValidation
+880,Por que_35_Datos.csv,Por que,TrainingValidation
+881,Si_77_Datos.csv,Si,TrainingValidation
+882,Sabado_84_Datos.csv,Sabado,TrainingValidation
+883,Que es_26_Datos.csv,Que es,TrainingValidation
+884,Domingo_21_Datos.csv,Domingo,TrainingValidation
+885,Explicar_8_Datos.csv,Explicar,TrainingValidation
+886,Cuando_65_Datos.csv,Cuando,TrainingValidation
+887,Domingo_43_Datos.csv,Domingo,TrainingValidation
+888,Viernes_17_Datos.csv,Viernes,TrainingValidation
+889,Lunes_35_Datos.csv,Lunes,TrainingValidation
+890,Domingo_78_Datos.csv,Domingo,TrainingValidation
+891,Domingo_32_Datos.csv,Domingo,TrainingValidation
+892,Para que_26_Datos.csv,Para que,TrainingValidation
+893,D_9_Datos.csv,D,TrainingValidation
+894,Viernes_35_Datos.csv,Viernes,TrainingValidation
+895,Para que_17_Datos.csv,Para que,TrainingValidation
+896,Explicar_10_Datos.csv,Explicar,TrainingValidation
+897,Q_66_Datos.csv,Q,TrainingValidation
+898,K_30_Datos.csv,K,TrainingValidation
+899,C_27_Datos.csv,C,TrainingValidation
+900,B_77_Datos.csv,B,TrainingValidation
+901,X_1_Datos.csv,X,TrainingValidation
+902,K_39_Datos.csv,K,TrainingValidation
+903,Domingo_15_Datos.csv,Domingo,TrainingValidation
+904,No_65_Datos.csv,No,TrainingValidation
+905,X_8_Datos.csv,X,TrainingValidation
+906,Explicar_80_Datos.csv,Explicar,TrainingValidation
+907,C_62_Datos.csv,C,TrainingValidation
+908,Domingo_11_Datos.csv,Domingo,TrainingValidation
+909,Domingo_27_Datos.csv,Domingo,TrainingValidation
+910,B_30_Datos.csv,B,TrainingValidation
+911,Q_12_Datos.csv,Q,TrainingValidation
+912,Donde_15_Datos.csv,Donde,TrainingValidation
+913,Gracias_39_Datos.csv,Gracias,TrainingValidation
+914,Cuando_35_Datos.csv,Cuando,TrainingValidation
+915,Jueves_6_Datos.csv,Jueves,TrainingValidation
+916,Si_38_Datos.csv,Si,TrainingValidation
+917,Sabado_27_Datos.csv,Sabado,TrainingValidation
+918,Sabado_41_Datos.csv,Sabado,TrainingValidation
+919,Por_favor_19_Datos.csv,Por_favor,TrainingValidation
+920,D_51_Datos.csv,D,TrainingValidation
+921,Donde_76_Datos.csv,Donde,TrainingValidation
+922,Donde_53_Datos.csv,Donde,TrainingValidation
+923,Para que_55_Datos.csv,Para que,TrainingValidation
+924,K_7_Datos.csv,K,TrainingValidation
+925,Jueves_12_Datos.csv,Jueves,TrainingValidation
+926,Nombre_74_Datos.csv,Nombre,TrainingValidation
+927,Como_45_Datos.csv,Como,TrainingValidation
+928,Donde_54_Datos.csv,Donde,TrainingValidation
+929,K_51_Datos.csv,K,TrainingValidation
+930,Quien_42_Datos.csv,Quien,TrainingValidation
+931,Lunes_63_Datos.csv,Lunes,TrainingValidation
+932,Por que_48_Datos.csv,Por que,TrainingValidation
+933,Para que_65_Datos.csv,Para que,TrainingValidation
+934,Si_29_Datos.csv,Si,TrainingValidation
+935,Gracias_30_Datos.csv,Gracias,TrainingValidation
+936,Nombre_19_Datos.csv,Nombre,TrainingValidation
+937,Q_69_Datos.csv,Q,TrainingValidation
+938,Cuanto_3_Datos.csv,Cuanto,TrainingValidation
+939,J_25_Datos.csv,J,TrainingValidation
+940,J_49_Datos.csv,J,TrainingValidation
+941,No_15_Datos.csv,No,TrainingValidation
+942,D_56_Datos.csv,D,TrainingValidation
+943,J_10_Datos.csv,J,TrainingValidation
+944,Martes_19_Datos.csv,Martes,TrainingValidation
+945,B_36_Datos.csv,B,TrainingValidation
+946,Jueves_26_Datos.csv,Jueves,TrainingValidation
+947,Lunes_17_Datos.csv,Lunes,TrainingValidation
+948,Si_32_Datos.csv,Si,TrainingValidation
+949,X_20_Datos.csv,X,TrainingValidation
+950,Por_favor_8_Datos.csv,Por_favor,TrainingValidation
+951,Miercoles_30_Datos.csv,Miercoles,TrainingValidation
+952,J_48_Datos.csv,J,TrainingValidation
+953,Viernes_6_Datos.csv,Viernes,TrainingValidation
+954,Martes_70_Datos.csv,Martes,TrainingValidation
+955,B_11_Datos.csv,B,TrainingValidation
+956,Que es_13_Datos.csv,Que es,TrainingValidation
+957,Explicar_42_Datos.csv,Explicar,TrainingValidation
+958,A_71_Datos.csv,A,TrainingValidation
+959,Explicar_65_Datos.csv,Explicar,TrainingValidation
+960,Lunes_33_Datos.csv,Lunes,TrainingValidation
+961,D_71_Datos.csv,D,TrainingValidation
+962,Cuanto_25_Datos.csv,Cuanto,TrainingValidation
+963,J_77_Datos.csv,J,TrainingValidation
+964,Si_73_Datos.csv,Si,TrainingValidation
+965,Deletrear_72_Datos.csv,Deletrear,TrainingValidation
+966,Gracias_34_Datos.csv,Gracias,TrainingValidation
+967,K_5_Datos.csv,K,TrainingValidation
+968,A_6_Datos.csv,A,TrainingValidation
+969,Lunes_46_Datos.csv,Lunes,TrainingValidation
+970,Para que_64_Datos.csv,Para que,TrainingValidation
+971,Gracias_85_Datos.csv,Gracias,TrainingValidation
+972,A_18_Datos.csv,A,TrainingValidation
+973,C_57_Datos.csv,C,TrainingValidation
+974,D_27_Datos.csv,D,TrainingValidation
+975,Miercoles_73_Datos.csv,Miercoles,TrainingValidation
+976,Deletrear_30_Datos.csv,Deletrear,TrainingValidation
+977,Deletrear_41_Datos.csv,Deletrear,TrainingValidation
+978,Deletrear_47_Datos.csv,Deletrear,TrainingValidation
+979,B_74_Datos.csv,B,TrainingValidation
+980,Nombre_36_Datos.csv,Nombre,TrainingValidation
+981,No_62_Datos.csv,No,TrainingValidation
+982,Cuando_85_Datos.csv,Cuando,TrainingValidation
+983,D_16_Datos.csv,D,TrainingValidation
+984,Para que_23_Datos.csv,Para que,TrainingValidation
+985,A_61_Datos.csv,A,TrainingValidation
+986,Si_67_Datos.csv,Si,TrainingValidation
+987,Domingo_44_Datos.csv,Domingo,TrainingValidation
+988,Viernes_61_Datos.csv,Viernes,TrainingValidation
+989,J_50_Datos.csv,J,TrainingValidation
+990,Para que_22_Datos.csv,Para que,TrainingValidation
+991,Lunes_4_Datos.csv,Lunes,TrainingValidation
+992,Viernes_34_Datos.csv,Viernes,TrainingValidation
+993,A_68_Datos.csv,A,TrainingValidation
+994,Cuando_50_Datos.csv,Cuando,TrainingValidation
+995,J_55_Datos.csv,J,TrainingValidation
+996,Explicar_37_Datos.csv,Explicar,TrainingValidation
+997,Lunes_14_Datos.csv,Lunes,TrainingValidation
+998,Quien_61_Datos.csv,Quien,TrainingValidation
+999,Nombre_62_Datos.csv,Nombre,TrainingValidation
+1000,No_42_Datos.csv,No,TrainingValidation
+1001,Gracias_4_Datos.csv,Gracias,TrainingValidation
+1002,Jueves_82_Datos.csv,Jueves,TrainingValidation
+1003,Viernes_7_Datos.csv,Viernes,TrainingValidation
+1004,Martes_29_Datos.csv,Martes,TrainingValidation
+1005,Por_favor_49_Datos.csv,Por_favor,TrainingValidation
+1006,Gracias_22_Datos.csv,Gracias,TrainingValidation
+1007,X_34_Datos.csv,X,TrainingValidation
+1008,Cuanto_22_Datos.csv,Cuanto,TrainingValidation
+1009,C_18_Datos.csv,C,TrainingValidation
+1010,Gracias_41_Datos.csv,Gracias,TrainingValidation
+1011,Gracias_8_Datos.csv,Gracias,TrainingValidation
+1012,Quien_28_Datos.csv,Quien,TrainingValidation
+1013,Como_16_Datos.csv,Como,TrainingValidation
+1014,Donde_21_Datos.csv,Donde,TrainingValidation
+1015,Domingo_39_Datos.csv,Domingo,TrainingValidation
+1016,X_2_Datos.csv,X,TrainingValidation
+1017,Sabado_23_Datos.csv,Sabado,TrainingValidation
+1018,Gracias_29_Datos.csv,Gracias,TrainingValidation
+1019,Donde_78_Datos.csv,Donde,TrainingValidation
+1020,Que es_67_Datos.csv,Que es,TrainingValidation
+1021,Q_76_Datos.csv,Q,TrainingValidation
+1022,Nombre_21_Datos.csv,Nombre,TrainingValidation
+1023,No_52_Datos.csv,No,TrainingValidation
+1024,Donde_45_Datos.csv,Donde,TrainingValidation
+1025,Gracias_27_Datos.csv,Gracias,TrainingValidation
+1026,Deletrear_49_Datos.csv,Deletrear,TrainingValidation
+1027,K_14_Datos.csv,K,TrainingValidation
+1028,Cuando_40_Datos.csv,Cuando,TrainingValidation
+1029,Deletrear_59_Datos.csv,Deletrear,TrainingValidation
+1030,Nombre_49_Datos.csv,Nombre,TrainingValidation
+1031,K_22_Datos.csv,K,TrainingValidation
+1032,Miercoles_78_Datos.csv,Miercoles,TrainingValidation
+1033,Por que_64_Datos.csv,Por que,TrainingValidation
+1034,Como_15_Datos.csv,Como,TrainingValidation
+1035,Martes_16_Datos.csv,Martes,TrainingValidation
+1036,Por que_72_Datos.csv,Por que,TrainingValidation
+1037,Por_favor_18_Datos.csv,Por_favor,TrainingValidation
+1038,Nombre_6_Datos.csv,Nombre,TrainingValidation
+1039,Por que_49_Datos.csv,Por que,TrainingValidation
+1040,Q_9_Datos.csv,Q,TrainingValidation
+1041,Como_1_Datos.csv,Como,TrainingValidation
+1042,Por_favor_46_Datos.csv,Por_favor,TrainingValidation
+1043,Quien_11_Datos.csv,Quien,TrainingValidation
+1044,Deletrear_19_Datos.csv,Deletrear,TrainingValidation
+1045,B_44_Datos.csv,B,TrainingValidation
+1046,Viernes_15_Datos.csv,Viernes,TrainingValidation
+1047,Jueves_16_Datos.csv,Jueves,TrainingValidation
+1048,X_3_Datos.csv,X,TrainingValidation
+1049,No_47_Datos.csv,No,TrainingValidation
+1050,Quien_76_Datos.csv,Quien,TrainingValidation
+1051,Para que_2_Datos.csv,Para que,TrainingValidation
+1052,Martes_41_Datos.csv,Martes,TrainingValidation
+1053,J_58_Datos.csv,J,TrainingValidation
+1054,Q_72_Datos.csv,Q,TrainingValidation
+1055,Que es_70_Datos.csv,Que es,TrainingValidation
+1056,Nombre_14_Datos.csv,Nombre,TrainingValidation
+1057,Que es_55_Datos.csv,Que es,TrainingValidation
+1058,Quien_37_Datos.csv,Quien,TrainingValidation
+1059,Por_favor_75_Datos.csv,Por_favor,TrainingValidation
+1060,Cuanto_21_Datos.csv,Cuanto,TrainingValidation
+1061,K_64_Datos.csv,K,TrainingValidation
+1062,Gracias_43_Datos.csv,Gracias,TrainingValidation
+1063,Nombre_76_Datos.csv,Nombre,TrainingValidation
+1064,Miercoles_79_Datos.csv,Miercoles,TrainingValidation
+1065,Por que_73_Datos.csv,Por que,TrainingValidation
+1066,Cuanto_24_Datos.csv,Cuanto,TrainingValidation
+1067,C_17_Datos.csv,C,TrainingValidation
+1068,J_32_Datos.csv,J,TrainingValidation
+1069,Miercoles_72_Datos.csv,Miercoles,TrainingValidation
+1070,X_53_Datos.csv,X,TrainingValidation
+1071,Jueves_75_Datos.csv,Jueves,TrainingValidation
+1072,Que es_18_Datos.csv,Que es,TrainingValidation
+1073,Sabado_34_Datos.csv,Sabado,TrainingValidation
+1074,Lunes_52_Datos.csv,Lunes,TrainingValidation
+1075,No_66_Datos.csv,No,TrainingValidation
+1076,Domingo_56_Datos.csv,Domingo,TrainingValidation
+1077,X_51_Datos.csv,X,TrainingValidation
+1078,Deletrear_54_Datos.csv,Deletrear,TrainingValidation
+1079,Jueves_33_Datos.csv,Jueves,TrainingValidation
+1080,Cuanto_20_Datos.csv,Cuanto,TrainingValidation
+1081,K_67_Datos.csv,K,TrainingValidation
+1082,C_14_Datos.csv,C,TrainingValidation
+1083,D_15_Datos.csv,D,TrainingValidation
+1084,X_81_Datos.csv,X,TrainingValidation
+1085,Explicar_75_Datos.csv,Explicar,TrainingValidation
+1086,B_73_Datos.csv,B,TrainingValidation
+1087,Jueves_31_Datos.csv,Jueves,TrainingValidation
+1088,Para que_9_Datos.csv,Para que,TrainingValidation
+1089,Nombre_33_Datos.csv,Nombre,TrainingValidation
+1090,Quien_70_Datos.csv,Quien,TrainingValidation
+1091,B_50_Datos.csv,B,TrainingValidation
+1092,Miercoles_24_Datos.csv,Miercoles,TrainingValidation
+1093,B_53_Datos.csv,B,TrainingValidation
+1094,Sabado_51_Datos.csv,Sabado,TrainingValidation
+1095,Sabado_11_Datos.csv,Sabado,TrainingValidation
+1096,Por que_33_Datos.csv,Por que,TrainingValidation
+1097,Explicar_33_Datos.csv,Explicar,TrainingValidation
+1098,Por_favor_26_Datos.csv,Por_favor,TrainingValidation
+1099,C_3_Datos.csv,C,TrainingValidation
+1100,Donde_31_Datos.csv,Donde,TrainingValidation
+1101,Q_83_Datos.csv,Q,TrainingValidation
+1102,Nombre_50_Datos.csv,Nombre,TrainingValidation
+1103,B_56_Datos.csv,B,TrainingValidation
+1104,Por que_77_Datos.csv,Por que,TrainingValidation
+1105,Deletrear_33_Datos.csv,Deletrear,TrainingValidation
+1106,Que es_47_Datos.csv,Que es,TrainingValidation
+1107,Jueves_34_Datos.csv,Jueves,TrainingValidation
+1108,Cuanto_58_Datos.csv,Cuanto,TrainingValidation
+1109,Q_63_Datos.csv,Q,TrainingValidation
+1110,Quien_49_Datos.csv,Quien,TrainingValidation
+1111,B_24_Datos.csv,B,TrainingValidation
+1112,J_47_Datos.csv,J,TrainingValidation
+1113,C_52_Datos.csv,C,TrainingValidation
+1114,Si_15_Datos.csv,Si,TrainingValidation
+1115,Como_59_Datos.csv,Como,TrainingValidation
+1116,B_78_Datos.csv,B,TrainingValidation
+1117,J_3_Datos.csv,J,TrainingValidation
+1118,K_72_Datos.csv,K,TrainingValidation
+1119,J_4_Datos.csv,J,TrainingValidation
+1120,Deletrear_69_Datos.csv,Deletrear,TrainingValidation
+1121,Cuando_47_Datos.csv,Cuando,TrainingValidation
+1122,Q_43_Datos.csv,Q,TrainingValidation
+1123,Cuando_14_Datos.csv,Cuando,TrainingValidation
+1124,Nombre_58_Datos.csv,Nombre,TrainingValidation
+1125,Cuando_63_Datos.csv,Cuando,TrainingValidation
+1126,Como_46_Datos.csv,Como,TrainingValidation
+1127,B_45_Datos.csv,B,TrainingValidation
+1128,Gracias_10_Datos.csv,Gracias,TrainingValidation
+1129,B_34_Datos.csv,B,TrainingValidation
+1130,K_68_Datos.csv,K,TrainingValidation
+1131,No_73_Datos.csv,No,TrainingValidation
+1132,X_42_Datos.csv,X,TrainingValidation
+1133,Viernes_82_Datos.csv,Viernes,TrainingValidation
+1134,Explicar_11_Datos.csv,Explicar,TrainingValidation
+1135,Que es_30_Datos.csv,Que es,TrainingValidation
+1136,X_33_Datos.csv,X,TrainingValidation
+1137,D_75_Datos.csv,D,TrainingValidation
+1138,Donde_33_Datos.csv,Donde,TrainingValidation
+1139,Que es_11_Datos.csv,Que es,TrainingValidation
+1140,Cuando_53_Datos.csv,Cuando,TrainingValidation
+1141,Nombre_85_Datos.csv,Nombre,TrainingValidation
+1142,Lunes_38_Datos.csv,Lunes,TrainingValidation
+1143,Por_favor_68_Datos.csv,Por_favor,TrainingValidation
+1144,Jueves_10_Datos.csv,Jueves,TrainingValidation
+1145,Martes_67_Datos.csv,Martes,TrainingValidation
+1146,Domingo_9_Datos.csv,Domingo,TrainingValidation
+1147,Quien_25_Datos.csv,Quien,TrainingValidation
+1148,Martes_72_Datos.csv,Martes,TrainingValidation
+1149,K_52_Datos.csv,K,TrainingValidation
+1150,Si_39_Datos.csv,Si,TrainingValidation
+1151,X_37_Datos.csv,X,TrainingValidation
+1152,D_66_Datos.csv,D,TrainingValidation
+1153,Q_65_Datos.csv,Q,TrainingValidation
+1154,Nombre_61_Datos.csv,Nombre,TrainingValidation
+1155,Cuando_17_Datos.csv,Cuando,TrainingValidation
+1156,J_13_Datos.csv,J,TrainingValidation
+1157,Q_56_Datos.csv,Q,TrainingValidation
+1158,B_31_Datos.csv,B,TrainingValidation
+1159,Si_41_Datos.csv,Si,TrainingValidation
+1160,Jueves_32_Datos.csv,Jueves,TrainingValidation
+1161,A_25_Datos.csv,A,TrainingValidation
+1162,Domingo_65_Datos.csv,Domingo,TrainingValidation
+1163,Quien_8_Datos.csv,Quien,TrainingValidation
+1164,Para que_75_Datos.csv,Para que,TrainingValidation
+1165,Por que_46_Datos.csv,Por que,TrainingValidation
+1166,Lunes_24_Datos.csv,Lunes,TrainingValidation
+1167,Si_27_Datos.csv,Si,TrainingValidation
+1168,Jueves_67_Datos.csv,Jueves,TrainingValidation
+1169,Cuanto_82_Datos.csv,Cuanto,TrainingValidation
+1170,Cuando_80_Datos.csv,Cuando,TrainingValidation
+1171,J_26_Datos.csv,J,TrainingValidation
+1172,Que es_82_Datos.csv,Que es,TrainingValidation
+1173,Jueves_74_Datos.csv,Jueves,TrainingValidation
+1174,Donde_61_Datos.csv,Donde,TrainingValidation
+1175,Miercoles_44_Datos.csv,Miercoles,TrainingValidation
+1176,Jueves_11_Datos.csv,Jueves,TrainingValidation
+1177,Quien_24_Datos.csv,Quien,TrainingValidation
+1178,C_82_Datos.csv,C,TrainingValidation
+1179,Lunes_83_Datos.csv,Lunes,TrainingValidation
+1180,Jueves_4_Datos.csv,Jueves,TrainingValidation
+1181,Por_favor_66_Datos.csv,Por_favor,TrainingValidation
+1182,Que es_25_Datos.csv,Que es,TrainingValidation
+1183,Cuanto_11_Datos.csv,Cuanto,TrainingValidation
+1184,Por_favor_25_Datos.csv,Por_favor,TrainingValidation
+1185,Sabado_24_Datos.csv,Sabado,TrainingValidation
+1186,Cuanto_47_Datos.csv,Cuanto,TrainingValidation
+1187,Domingo_70_Datos.csv,Domingo,TrainingValidation
+1188,Como_21_Datos.csv,Como,TrainingValidation
+1189,Nombre_35_Datos.csv,Nombre,TrainingValidation
+1190,Donde_49_Datos.csv,Donde,TrainingValidation
+1191,Nombre_24_Datos.csv,Nombre,TrainingValidation
+1192,Donde_3_Datos.csv,Donde,TrainingValidation
+1193,Por que_13_Datos.csv,Por que,TrainingValidation
+1194,Por que_58_Datos.csv,Por que,TrainingValidation
+1195,Deletrear_50_Datos.csv,Deletrear,TrainingValidation
+1196,Quien_26_Datos.csv,Quien,TrainingValidation
+1197,Por_favor_62_Datos.csv,Por_favor,TrainingValidation
+1198,J_66_Datos.csv,J,TrainingValidation
+1199,Miercoles_70_Datos.csv,Miercoles,TrainingValidation
+1200,Viernes_64_Datos.csv,Viernes,TrainingValidation
+1201,Por_favor_45_Datos.csv,Por_favor,TrainingValidation
+1202,D_36_Datos.csv,D,TrainingValidation
+1203,C_7_Datos.csv,C,TrainingValidation
+1204,J_20_Datos.csv,J,TrainingValidation
+1205,Explicar_63_Datos.csv,Explicar,TrainingValidation
+1206,Jueves_43_Datos.csv,Jueves,TrainingValidation
+1207,K_54_Datos.csv,K,TrainingValidation
+1208,Nombre_8_Datos.csv,Nombre,TrainingValidation
+1209,Deletrear_67_Datos.csv,Deletrear,TrainingValidation
+1210,Si_30_Datos.csv,Si,TrainingValidation
+1211,Q_17_Datos.csv,Q,TrainingValidation
+1212,Sabado_56_Datos.csv,Sabado,TrainingValidation
+1213,Para que_15_Datos.csv,Para que,TrainingValidation
+1214,Viernes_72_Datos.csv,Viernes,TrainingValidation
+1215,K_56_Datos.csv,K,TrainingValidation
+1216,X_60_Datos.csv,X,TrainingValidation
+1217,Miercoles_8_Datos.csv,Miercoles,TrainingValidation
+1218,Que es_72_Datos.csv,Que es,TrainingValidation
+1219,X_35_Datos.csv,X,TrainingValidation
+1220,Q_49_Datos.csv,Q,TrainingValidation
+1221,Cuando_25_Datos.csv,Cuando,TrainingValidation
+1222,X_26_Datos.csv,X,TrainingValidation
+1223,Explicar_77_Datos.csv,Explicar,TrainingValidation
+1224,Donde_35_Datos.csv,Donde,TrainingValidation
+1225,Donde_73_Datos.csv,Donde,TrainingValidation
+1226,Deletrear_10_Datos.csv,Deletrear,TrainingValidation
+1227,X_77_Datos.csv,X,TrainingValidation
+1228,Lunes_43_Datos.csv,Lunes,TrainingValidation
+1229,Domingo_62_Datos.csv,Domingo,TrainingValidation
+1230,Por_favor_80_Datos.csv,Por_favor,TrainingValidation
+1231,D_39_Datos.csv,D,TrainingValidation
+1232,Domingo_71_Datos.csv,Domingo,TrainingValidation
+1233,Donde_32_Datos.csv,Donde,TrainingValidation
+1234,D_59_Datos.csv,D,TrainingValidation
+1235,K_21_Datos.csv,K,TrainingValidation
+1236,Por_favor_10_Datos.csv,Por_favor,TrainingValidation
+1237,J_29_Datos.csv,J,TrainingValidation
+1238,Para que_62_Datos.csv,Para que,TrainingValidation
+1239,Nombre_53_Datos.csv,Nombre,TrainingValidation
+1240,Por que_42_Datos.csv,Por que,TrainingValidation
+1241,Como_85_Datos.csv,Como,TrainingValidation
+1242,B_5_Datos.csv,B,TrainingValidation
+1243,Donde_36_Datos.csv,Donde,TrainingValidation
+1244,J_79_Datos.csv,J,TrainingValidation
+1245,Quien_78_Datos.csv,Quien,TrainingValidation
+1246,Explicar_83_Datos.csv,Explicar,TrainingValidation
+1247,A_16_Datos.csv,A,TrainingValidation
+1248,Deletrear_9_Datos.csv,Deletrear,TrainingValidation
+1249,Por_favor_3_Datos.csv,Por_favor,TrainingValidation
+1250,Quien_15_Datos.csv,Quien,TrainingValidation
+1251,Gracias_11_Datos.csv,Gracias,TrainingValidation
+1252,No_71_Datos.csv,No,TrainingValidation
+1253,C_81_Datos.csv,C,TrainingValidation
+1254,Por_favor_39_Datos.csv,Por_favor,TrainingValidation
+1255,Como_37_Datos.csv,Como,TrainingValidation
+1256,Viernes_56_Datos.csv,Viernes,TrainingValidation
+1257,D_81_Datos.csv,D,TrainingValidation
+1258,Como_4_Datos.csv,Como,TrainingValidation
+1259,X_11_Datos.csv,X,TrainingValidation
+1260,Domingo_75_Datos.csv,Domingo,TrainingValidation
+1261,Por que_84_Datos.csv,Por que,TrainingValidation
+1262,Por_favor_56_Datos.csv,Por_favor,TrainingValidation
+1263,Domingo_49_Datos.csv,Domingo,TrainingValidation
+1264,K_18_Datos.csv,K,TrainingValidation
+1265,D_54_Datos.csv,D,TrainingValidation
+1266,Cuanto_80_Datos.csv,Cuanto,TrainingValidation
+1267,Lunes_55_Datos.csv,Lunes,TrainingValidation
+1268,Lunes_32_Datos.csv,Lunes,TrainingValidation
+1269,Que es_5_Datos.csv,Que es,TrainingValidation
+1270,X_12_Datos.csv,X,TrainingValidation
+1271,Gracias_72_Datos.csv,Gracias,TrainingValidation
+1272,Sabado_75_Datos.csv,Sabado,TrainingValidation
+1273,Quien_53_Datos.csv,Quien,TrainingValidation
+1274,Que es_21_Datos.csv,Que es,TrainingValidation
+1275,Lunes_79_Datos.csv,Lunes,TrainingValidation
+1276,C_67_Datos.csv,C,TrainingValidation
+1277,Sabado_71_Datos.csv,Sabado,TrainingValidation
+1278,Quien_39_Datos.csv,Quien,TrainingValidation
+1279,Explicar_69_Datos.csv,Explicar,TrainingValidation
+1280,Gracias_35_Datos.csv,Gracias,TrainingValidation
+1281,Explicar_5_Datos.csv,Explicar,TrainingValidation
+1282,Domingo_52_Datos.csv,Domingo,TrainingValidation
+1283,Que es_61_Datos.csv,Que es,TrainingValidation
+1284,D_58_Datos.csv,D,TrainingValidation
+1285,Cuando_21_Datos.csv,Cuando,TrainingValidation
+1286,K_23_Datos.csv,K,TrainingValidation
+1287,Quien_63_Datos.csv,Quien,TrainingValidation
+1288,X_78_Datos.csv,X,TrainingValidation
+1289,Martes_46_Datos.csv,Martes,TrainingValidation
+1290,Cuanto_64_Datos.csv,Cuanto,TrainingValidation
+1291,Martes_44_Datos.csv,Martes,TrainingValidation
+1292,Gracias_79_Datos.csv,Gracias,TrainingValidation
+1293,Que es_45_Datos.csv,Que es,TrainingValidation
+1294,Viernes_55_Datos.csv,Viernes,TrainingValidation
+1295,Deletrear_24_Datos.csv,Deletrear,TrainingValidation
+1296,Cuanto_18_Datos.csv,Cuanto,TrainingValidation
+1297,Martes_14_Datos.csv,Martes,TrainingValidation
+1298,Donde_59_Datos.csv,Donde,TrainingValidation
+1299,Cuanto_60_Datos.csv,Cuanto,TrainingValidation
+1300,Por que_26_Datos.csv,Por que,TrainingValidation
+1301,Q_28_Datos.csv,Q,TrainingValidation
+1302,K_19_Datos.csv,K,TrainingValidation
+1303,J_43_Datos.csv,J,TrainingValidation
+1304,Q_16_Datos.csv,Q,TrainingValidation
+1305,C_41_Datos.csv,C,TrainingValidation
+1306,Deletrear_68_Datos.csv,Deletrear,TrainingValidation
+1307,B_32_Datos.csv,B,TrainingValidation
+1308,A_57_Datos.csv,A,TrainingValidation
+1309,K_29_Datos.csv,K,TrainingValidation
+1310,Cuando_22_Datos.csv,Cuando,TrainingValidation
+1311,Cuando_73_Datos.csv,Cuando,TrainingValidation
+1312,Viernes_80_Datos.csv,Viernes,TrainingValidation
+1313,Sabado_2_Datos.csv,Sabado,TrainingValidation
+1314,Donde_52_Datos.csv,Donde,TrainingValidation
+1315,Que es_58_Datos.csv,Que es,TrainingValidation
+1316,Sabado_22_Datos.csv,Sabado,TrainingValidation
+1317,D_79_Datos.csv,D,TrainingValidation
+1318,Lunes_60_Datos.csv,Lunes,TrainingValidation
+1319,D_64_Datos.csv,D,TrainingValidation
+1320,Cuando_79_Datos.csv,Cuando,TrainingValidation
+1321,Martes_65_Datos.csv,Martes,TrainingValidation
+1322,Quien_36_Datos.csv,Quien,TrainingValidation
+1323,Que es_46_Datos.csv,Que es,TrainingValidation
+1324,Jueves_24_Datos.csv,Jueves,TrainingValidation
+1325,Jueves_22_Datos.csv,Jueves,TrainingValidation
+1326,Q_13_Datos.csv,Q,TrainingValidation
+1327,Si_74_Datos.csv,Si,TrainingValidation
+1328,Lunes_65_Datos.csv,Lunes,TrainingValidation
+1329,Lunes_59_Datos.csv,Lunes,TrainingValidation
+1330,Que es_4_Datos.csv,Que es,TrainingValidation
+1331,K_49_Datos.csv,K,TrainingValidation
+1332,Lunes_69_Datos.csv,Lunes,TrainingValidation
+1333,Como_19_Datos.csv,Como,TrainingValidation
+1334,No_27_Datos.csv,No,TrainingValidation
+1335,Si_81_Datos.csv,Si,TrainingValidation
+1336,J_73_Datos.csv,J,TrainingValidation
+1337,C_10_Datos.csv,C,TrainingValidation
+1338,Miercoles_35_Datos.csv,Miercoles,TrainingValidation
+1339,Como_84_Datos.csv,Como,TrainingValidation
+1340,Cuando_71_Datos.csv,Cuando,TrainingValidation
+1341,B_72_Datos.csv,B,TrainingValidation
+1342,Por_favor_22_Datos.csv,Por_favor,TrainingValidation
+1343,Por que_80_Datos.csv,Por que,TrainingValidation
+1344,Donde_2_Datos.csv,Donde,TrainingValidation
+1345,Sabado_48_Datos.csv,Sabado,TrainingValidation
+1346,Sabado_5_Datos.csv,Sabado,TrainingValidation
+1347,Cuando_81_Datos.csv,Cuando,TrainingValidation
+1348,Sabado_74_Datos.csv,Sabado,TrainingValidation
+1349,C_22_Datos.csv,C,TrainingValidation
+1350,Nombre_42_Datos.csv,Nombre,TrainingValidation
+1351,Por que_36_Datos.csv,Por que,TrainingValidation
+1352,Donde_55_Datos.csv,Donde,TrainingValidation
+1353,J_82_Datos.csv,J,TrainingValidation
+1354,D_67_Datos.csv,D,TrainingValidation
+1355,Martes_30_Datos.csv,Martes,TrainingValidation
+1356,A_47_Datos.csv,A,TrainingValidation
+1357,Por que_3_Datos.csv,Por que,TrainingValidation
+1358,Cuanto_48_Datos.csv,Cuanto,TrainingValidation
+1359,Cuanto_41_Datos.csv,Cuanto,TrainingValidation
+1360,C_35_Datos.csv,C,TrainingValidation
+1361,Lunes_20_Datos.csv,Lunes,TrainingValidation
+1362,A_15_Datos.csv,A,TrainingValidation
+1363,B_66_Datos.csv,B,TrainingValidation
+1364,A_34_Datos.csv,A,TrainingValidation
+1365,Cuanto_43_Datos.csv,Cuanto,TrainingValidation
+1366,A_32_Datos.csv,A,TrainingValidation
+1367,Explicar_78_Datos.csv,Explicar,TrainingValidation
+1368,Que es_52_Datos.csv,Que es,TrainingValidation
+1369,Donde_44_Datos.csv,Donde,TrainingValidation
+1370,A_10_Datos.csv,A,TrainingValidation
+1371,No_44_Datos.csv,No,TrainingValidation
+1372,D_26_Datos.csv,D,TrainingValidation
+1373,Jueves_66_Datos.csv,Jueves,TrainingValidation
+1374,Sabado_38_Datos.csv,Sabado,TrainingValidation
+1375,No_29_Datos.csv,No,TrainingValidation
+1376,Quien_38_Datos.csv,Quien,TrainingValidation
+1377,K_85_Datos.csv,K,TrainingValidation
+1378,Quien_7_Datos.csv,Quien,TrainingValidation
+1379,D_65_Datos.csv,D,TrainingValidation
+1380,Cuando_36_Datos.csv,Cuando,TrainingValidation
+1381,Sabado_13_Datos.csv,Sabado,TrainingValidation
+1382,Gracias_33_Datos.csv,Gracias,TrainingValidation
+1383,Si_61_Datos.csv,Si,TrainingValidation
+1384,C_23_Datos.csv,C,TrainingValidation
+1385,Que es_66_Datos.csv,Que es,TrainingValidation
+1386,Para que_30_Datos.csv,Para que,TrainingValidation
+1387,X_28_Datos.csv,X,TrainingValidation
+1388,K_82_Datos.csv,K,TrainingValidation
+1389,Miercoles_2_Datos.csv,Miercoles,TrainingValidation
+1390,Quien_47_Datos.csv,Quien,TrainingValidation
+1391,B_27_Datos.csv,B,TrainingValidation
+1392,Cuanto_78_Datos.csv,Cuanto,TrainingValidation
+1393,Deletrear_20_Datos.csv,Deletrear,TrainingValidation
+1394,Viernes_3_Datos.csv,Viernes,TrainingValidation
+1395,Q_82_Datos.csv,Q,TrainingValidation
+1396,A_70_Datos.csv,A,TrainingValidation
+1397,B_49_Datos.csv,B,TrainingValidation
+1398,Por que_41_Datos.csv,Por que,TrainingValidation
+1399,Domingo_2_Datos.csv,Domingo,TrainingValidation
+1400,B_6_Datos.csv,B,TrainingValidation
+1401,Para que_18_Datos.csv,Para que,TrainingValidation
+1402,Gracias_64_Datos.csv,Gracias,TrainingValidation
+1403,Q_25_Datos.csv,Q,TrainingValidation
+1404,Si_17_Datos.csv,Si,TrainingValidation
+1405,Miercoles_82_Datos.csv,Miercoles,TrainingValidation
+1406,Quien_12_Datos.csv,Quien,TrainingValidation
+1407,J_54_Datos.csv,J,TrainingValidation
+1408,Miercoles_10_Datos.csv,Miercoles,TrainingValidation
+1409,Como_8_Datos.csv,Como,TrainingValidation
+1410,Si_69_Datos.csv,Si,TrainingValidation
+1411,Deletrear_22_Datos.csv,Deletrear,TrainingValidation
+1412,X_7_Datos.csv,X,TrainingValidation
+1413,K_37_Datos.csv,K,TrainingValidation
+1414,X_47_Datos.csv,X,TrainingValidation
+1415,Para que_25_Datos.csv,Para que,TrainingValidation
+1416,J_42_Datos.csv,J,TrainingValidation
+1417,A_49_Datos.csv,A,TrainingValidation
+1418,Como_14_Datos.csv,Como,TrainingValidation
+1419,Viernes_67_Datos.csv,Viernes,TrainingValidation
+1420,K_2_Datos.csv,K,TrainingValidation
+1421,Q_14_Datos.csv,Q,TrainingValidation
+1422,Cuando_84_Datos.csv,Cuando,TrainingValidation
+1423,Cuando_19_Datos.csv,Cuando,TrainingValidation
+1424,Cuanto_8_Datos.csv,Cuanto,TrainingValidation
+1425,C_4_Datos.csv,C,TrainingValidation
+1426,Viernes_1_Datos.csv,Viernes,TrainingValidation
+1427,Martes_35_Datos.csv,Martes,TrainingValidation
+1428,Nombre_51_Datos.csv,Nombre,TrainingValidation
+1429,Quien_31_Datos.csv,Quien,TrainingValidation
+1430,Sabado_59_Datos.csv,Sabado,TrainingValidation
+1431,Cuanto_44_Datos.csv,Cuanto,TrainingValidation
+1432,J_21_Datos.csv,J,TrainingValidation
+1433,A_66_Datos.csv,A,TrainingValidation
+1434,Viernes_65_Datos.csv,Viernes,TrainingValidation
+1435,Por_favor_82_Datos.csv,Por_favor,TrainingValidation
+1436,Donde_82_Datos.csv,Donde,TrainingValidation
+1437,Domingo_23_Datos.csv,Domingo,TrainingValidation
+1438,Que es_16_Datos.csv,Que es,TrainingValidation
+1439,Sabado_40_Datos.csv,Sabado,TrainingValidation
+1440,No_20_Datos.csv,No,TrainingValidation
+1441,Miercoles_19_Datos.csv,Miercoles,TrainingValidation
+1442,X_27_Datos.csv,X,TrainingValidation
+1443,Sabado_62_Datos.csv,Sabado,TrainingValidation
+1444,No_68_Datos.csv,No,TrainingValidation
+1445,D_74_Datos.csv,D,TrainingValidation
+1446,A_21_Datos.csv,A,TrainingValidation
+1447,Por que_53_Datos.csv,Por que,TrainingValidation
+1448,Viernes_19_Datos.csv,Viernes,TrainingValidation
+1449,Cuanto_74_Datos.csv,Cuanto,TrainingValidation
+1450,Explicar_56_Datos.csv,Explicar,TrainingValidation
+1451,Para que_69_Datos.csv,Para que,TrainingValidation
+1452,Por_favor_67_Datos.csv,Por_favor,TrainingValidation
+1453,Explicar_3_Datos.csv,Explicar,TrainingValidation
+1454,No_18_Datos.csv,No,TrainingValidation
+1455,Viernes_78_Datos.csv,Viernes,TrainingValidation
+1456,Como_11_Datos.csv,Como,TrainingValidation
+1457,Gracias_23_Datos.csv,Gracias,TrainingValidation
+1458,D_77_Datos.csv,D,TrainingValidation
+1459,Deletrear_70_Datos.csv,Deletrear,TrainingValidation
+1460,Martes_85_Datos.csv,Martes,TrainingValidation
+1461,Viernes_84_Datos.csv,Viernes,TrainingValidation
+1462,Explicar_19_Datos.csv,Explicar,TrainingValidation
+1463,Si_60_Datos.csv,Si,TrainingValidation
+1464,Que es_74_Datos.csv,Que es,TrainingValidation
+1465,Por que_63_Datos.csv,Por que,TrainingValidation
+1466,Q_22_Datos.csv,Q,TrainingValidation
+1467,Miercoles_29_Datos.csv,Miercoles,TrainingValidation
+1468,Por_favor_17_Datos.csv,Por_favor,TrainingValidation
+1469,D_80_Datos.csv,D,TrainingValidation
+1470,J_74_Datos.csv,J,TrainingValidation
+1471,Miercoles_25_Datos.csv,Miercoles,TrainingValidation
+1472,Miercoles_71_Datos.csv,Miercoles,TrainingValidation
+1473,C_16_Datos.csv,C,TrainingValidation
+1474,A_39_Datos.csv,A,TrainingValidation
+1475,K_69_Datos.csv,K,TrainingValidation
+1476,D_72_Datos.csv,D,TrainingValidation
+1477,No_51_Datos.csv,No,TrainingValidation
+1478,Cuanto_31_Datos.csv,Cuanto,TrainingValidation
+1479,Q_37_Datos.csv,Q,TrainingValidation
+1480,Como_31_Datos.csv,Como,TrainingValidation
+1481,Domingo_84_Datos.csv,Domingo,TrainingValidation
+1482,K_26_Datos.csv,K,TrainingValidation
+1483,Viernes_68_Datos.csv,Viernes,TrainingValidation
+1484,B_83_Datos.csv,B,TrainingValidation
+1485,Si_4_Datos.csv,Si,TrainingValidation
+1486,Explicar_68_Datos.csv,Explicar,TrainingValidation
+1487,J_23_Datos.csv,J,TrainingValidation
+1488,Si_56_Datos.csv,Si,TrainingValidation
+1489,Si_36_Datos.csv,Si,TrainingValidation
+1490,J_45_Datos.csv,J,TrainingValidation
+1491,C_6_Datos.csv,C,TrainingValidation
+1492,J_56_Datos.csv,J,TrainingValidation
+1493,Que es_81_Datos.csv,Que es,TrainingValidation
+1494,Explicar_70_Datos.csv,Explicar,TrainingValidation
+1495,Domingo_22_Datos.csv,Domingo,TrainingValidation
+1496,Jueves_47_Datos.csv,Jueves,TrainingValidation
+1497,Para que_28_Datos.csv,Para que,TrainingValidation
+1498,Deletrear_64_Datos.csv,Deletrear,TrainingValidation
+1499,Nombre_27_Datos.csv,Nombre,TrainingValidation
+1500,Lunes_15_Datos.csv,Lunes,TrainingValidation
+1501,Sabado_1_Datos.csv,Sabado,TrainingValidation
+1502,Como_12_Datos.csv,Como,TrainingValidation
+1503,Cuando_20_Datos.csv,Cuando,TrainingValidation
+1504,Nombre_43_Datos.csv,Nombre,TrainingValidation
+1505,Miercoles_83_Datos.csv,Miercoles,TrainingValidation
+1506,Miercoles_80_Datos.csv,Miercoles,TrainingValidation
+1507,Q_50_Datos.csv,Q,TrainingValidation
+1508,Viernes_52_Datos.csv,Viernes,TrainingValidation
+1509,Q_4_Datos.csv,Q,TrainingValidation
+1510,Como_74_Datos.csv,Como,TrainingValidation
+1511,Domingo_67_Datos.csv,Domingo,TrainingValidation
+1512,Quien_19_Datos.csv,Quien,TrainingValidation
+1513,Nombre_25_Datos.csv,Nombre,TrainingValidation
+1514,Miercoles_9_Datos.csv,Miercoles,TrainingValidation
+1515,C_24_Datos.csv,C,TrainingValidation
+1516,No_59_Datos.csv,No,TrainingValidation
+1517,Si_44_Datos.csv,Si,TrainingValidation
+1518,Deletrear_17_Datos.csv,Deletrear,TrainingValidation
+1519,Por que_7_Datos.csv,Por que,TrainingValidation
+1520,No_41_Datos.csv,No,TrainingValidation
+1521,Nombre_29_Datos.csv,Nombre,TrainingValidation
+1522,A_22_Datos.csv,A,TrainingValidation
+1523,D_73_Datos.csv,D,TrainingValidation
+1524,J_75_Datos.csv,J,TrainingValidation
+1525,K_31_Datos.csv,K,TrainingValidation
+1526,Como_28_Datos.csv,Como,TrainingValidation
+1527,Viernes_25_Datos.csv,Viernes,TrainingValidation
+1528,C_34_Datos.csv,C,TrainingValidation
+1529,Domingo_63_Datos.csv,Domingo,TrainingValidation
+1530,Cuando_70_Datos.csv,Cuando,TrainingValidation
+1531,Cuando_16_Datos.csv,Cuando,TrainingValidation
+1532,No_16_Datos.csv,No,TrainingValidation
+1533,Domingo_74_Datos.csv,Domingo,TrainingValidation
+1534,J_35_Datos.csv,J,TrainingValidation
+1535,Donde_25_Datos.csv,Donde,TrainingValidation
+1536,Para que_33_Datos.csv,Para que,TrainingValidation
+1537,Miercoles_57_Datos.csv,Miercoles,TrainingValidation
+1538,Gracias_62_Datos.csv,Gracias,TrainingValidation
+1539,Por que_12_Datos.csv,Por que,TrainingValidation
+1540,Cuanto_45_Datos.csv,Cuanto,TrainingValidation
+1541,Para que_42_Datos.csv,Para que,TrainingValidation
+1542,A_41_Datos.csv,A,TrainingValidation
+1543,Sabado_46_Datos.csv,Sabado,TrainingValidation
+1544,Donde_24_Datos.csv,Donde,TrainingValidation
+1545,J_36_Datos.csv,J,TrainingValidation
+1546,Explicar_21_Datos.csv,Explicar,TrainingValidation
+1547,Para que_47_Datos.csv,Para que,TrainingValidation
+1548,Sabado_21_Datos.csv,Sabado,TrainingValidation
+1549,Deletrear_32_Datos.csv,Deletrear,TrainingValidation
+1550,Lunes_37_Datos.csv,Lunes,TrainingValidation
+1551,Nombre_82_Datos.csv,Nombre,TrainingValidation
+1552,No_84_Datos.csv,No,TrainingValidation
+1553,C_31_Datos.csv,C,TrainingValidation
+1554,Viernes_59_Datos.csv,Viernes,TrainingValidation
+1555,J_41_Datos.csv,J,TrainingValidation
+1556,Martes_47_Datos.csv,Martes,TrainingValidation
+1557,D_69_Datos.csv,D,TrainingValidation
+1558,Jueves_83_Datos.csv,Jueves,TrainingValidation
+1559,X_56_Datos.csv,X,TrainingValidation
+1560,Explicar_23_Datos.csv,Explicar,TrainingValidation
+1561,K_47_Datos.csv,K,TrainingValidation
+1562,A_14_Datos.csv,A,TrainingValidation
+1563,Si_7_Datos.csv,Si,TrainingValidation
+1564,Si_65_Datos.csv,Si,TrainingValidation
+1565,Viernes_77_Datos.csv,Viernes,TrainingValidation
+1566,Sabado_29_Datos.csv,Sabado,TrainingValidation
+1567,Miercoles_45_Datos.csv,Miercoles,TrainingValidation
+1568,Para que_49_Datos.csv,Para que,TrainingValidation
+1569,B_4_Datos.csv,B,TrainingValidation
+1570,Sabado_50_Datos.csv,Sabado,TrainingValidation
+1571,Deletrear_77_Datos.csv,Deletrear,TrainingValidation
+1572,Cuando_30_Datos.csv,Cuando,TrainingValidation
+1573,Miercoles_17_Datos.csv,Miercoles,TrainingValidation
+1574,Deletrear_78_Datos.csv,Deletrear,TrainingValidation
+1575,Viernes_74_Datos.csv,Viernes,TrainingValidation
+1576,Explicar_9_Datos.csv,Explicar,TrainingValidation
+1577,Lunes_50_Datos.csv,Lunes,TrainingValidation
+1578,Donde_6_Datos.csv,Donde,TrainingValidation
+1579,Q_60_Datos.csv,Q,TrainingValidation
+1580,K_43_Datos.csv,K,TrainingValidation
+1581,Domingo_81_Datos.csv,Domingo,TrainingValidation
+1582,Explicar_55_Datos.csv,Explicar,TrainingValidation
+1583,Por que_17_Datos.csv,Por que,TrainingValidation
+1584,Como_58_Datos.csv,Como,TrainingValidation
+1585,Cuando_2_Datos.csv,Cuando,TrainingValidation
+1586,X_50_Datos.csv,X,TrainingValidation
+1587,Gracias_69_Datos.csv,Gracias,TrainingValidation
+1588,Cuanto_14_Datos.csv,Cuanto,TrainingValidation
+1589,Martes_5_Datos.csv,Martes,TrainingValidation
+1590,Como_35_Datos.csv,Como,TrainingValidation
+1591,Nombre_52_Datos.csv,Nombre,TrainingValidation
+1592,B_46_Datos.csv,B,TrainingValidation
+1593,Como_41_Datos.csv,Como,TrainingValidation
+1594,Nombre_69_Datos.csv,Nombre,TrainingValidation
+1595,X_82_Datos.csv,X,TrainingValidation
+1596,B_47_Datos.csv,B,TrainingValidation
+1597,Nombre_34_Datos.csv,Nombre,TrainingValidation
+1598,Lunes_47_Datos.csv,Lunes,TrainingValidation
+1599,Q_38_Datos.csv,Q,TrainingValidation
+1600,Domingo_4_Datos.csv,Domingo,TrainingValidation
+1601,B_3_Datos.csv,B,TrainingValidation
+1602,Sabado_6_Datos.csv,Sabado,TrainingValidation
+1603,Nombre_41_Datos.csv,Nombre,TrainingValidation
+1604,B_63_Datos.csv,B,TrainingValidation
+1605,Jueves_63_Datos.csv,Jueves,TrainingValidation
+1606,X_22_Datos.csv,X,TrainingValidation
+1607,A_42_Datos.csv,A,TrainingValidation
+1608,Q_47_Datos.csv,Q,TrainingValidation
+1609,Domingo_48_Datos.csv,Domingo,TrainingValidation
+1610,Cuanto_35_Datos.csv,Cuanto,TrainingValidation
+1611,X_63_Datos.csv,X,TrainingValidation
+1612,No_55_Datos.csv,No,TrainingValidation
+1613,B_80_Datos.csv,B,TrainingValidation
+1614,Lunes_84_Datos.csv,Lunes,TrainingValidation
+1615,Que es_41_Datos.csv,Que es,TrainingValidation
+1616,A_83_Datos.csv,A,TrainingValidation
+1617,Quien_57_Datos.csv,Quien,TrainingValidation
+1618,B_48_Datos.csv,B,TrainingValidation
+1619,Viernes_5_Datos.csv,Viernes,TrainingValidation
+1620,D_68_Datos.csv,D,TrainingValidation
+1621,Donde_64_Datos.csv,Donde,TrainingValidation
+1622,Donde_74_Datos.csv,Donde,TrainingValidation
+1623,Q_30_Datos.csv,Q,TrainingValidation
+1624,Quien_74_Datos.csv,Quien,TrainingValidation
+1625,Cuando_82_Datos.csv,Cuando,TrainingValidation
+1626,Deletrear_60_Datos.csv,Deletrear,TrainingValidation
+1627,Jueves_71_Datos.csv,Jueves,TrainingValidation
+1628,Sabado_45_Datos.csv,Sabado,TrainingValidation
+1629,Como_52_Datos.csv,Como,TrainingValidation
+1630,Miercoles_18_Datos.csv,Miercoles,TrainingValidation
+1631,Domingo_66_Datos.csv,Domingo,TrainingValidation
+1632,Martes_84_Datos.csv,Martes,TrainingValidation
+1633,Gracias_68_Datos.csv,Gracias,TrainingValidation
+1634,Donde_72_Datos.csv,Donde,TrainingValidation
+1635,Lunes_58_Datos.csv,Lunes,TrainingValidation
+1636,Jueves_27_Datos.csv,Jueves,TrainingValidation
+1637,Explicar_47_Datos.csv,Explicar,TrainingValidation
+1638,Gracias_83_Datos.csv,Gracias,TrainingValidation
+1639,Viernes_33_Datos.csv,Viernes,TrainingValidation
+1640,Explicar_36_Datos.csv,Explicar,TrainingValidation
+1641,Martes_38_Datos.csv,Martes,TrainingValidation
+1642,Como_63_Datos.csv,Como,TrainingValidation
+1643,J_6_Datos.csv,J,TrainingValidation
+1644,Gracias_78_Datos.csv,Gracias,TrainingValidation
+1645,Deletrear_26_Datos.csv,Deletrear,TrainingValidation
+1646,Miercoles_48_Datos.csv,Miercoles,TrainingValidation
+1647,Miercoles_54_Datos.csv,Miercoles,TrainingValidation
+1648,Para que_61_Datos.csv,Para que,TrainingValidation
+1649,Q_71_Datos.csv,Q,TrainingValidation
+1650,Cuanto_76_Datos.csv,Cuanto,TrainingValidation
+1651,B_71_Datos.csv,B,TrainingValidation
+1652,Jueves_60_Datos.csv,Jueves,TrainingValidation
+1653,Por que_21_Datos.csv,Por que,TrainingValidation
+1654,Gracias_55_Datos.csv,Gracias,TrainingValidation
+1655,Donde_14_Datos.csv,Donde,TrainingValidation
+1656,Por_favor_6_Datos.csv,Por_favor,TrainingValidation
+1657,B_28_Datos.csv,B,TrainingValidation
+1658,Por_favor_1_Datos.csv,Por_favor,TrainingValidation
+1659,Q_29_Datos.csv,Q,TrainingValidation
+1660,Sabado_30_Datos.csv,Sabado,TrainingValidation
+1661,Donde_42_Datos.csv,Donde,TrainingValidation
+1662,Jueves_46_Datos.csv,Jueves,TrainingValidation
+1663,Miercoles_31_Datos.csv,Miercoles,TrainingValidation
+1664,Para que_45_Datos.csv,Para que,TrainingValidation
+1665,Gracias_15_Datos.csv,Gracias,TrainingValidation
+1666,X_84_Datos.csv,X,TrainingValidation
+1667,X_69_Datos.csv,X,TrainingValidation
+1668,Jueves_41_Datos.csv,Jueves,TrainingValidation
+1669,Sabado_77_Datos.csv,Sabado,TrainingValidation
+1670,Como_53_Datos.csv,Como,TrainingValidation
+1671,Como_71_Datos.csv,Como,TrainingValidation
+1672,Martes_43_Datos.csv,Martes,TrainingValidation
+1673,Gracias_37_Datos.csv,Gracias,TrainingValidation
+1674,Sabado_52_Datos.csv,Sabado,TrainingValidation
+1675,A_12_Datos.csv,A,TrainingValidation
+1676,No_8_Datos.csv,No,TrainingValidation
+1677,Quien_59_Datos.csv,Quien,TrainingValidation
+1678,Cuanto_52_Datos.csv,Cuanto,TrainingValidation
+1679,Domingo_58_Datos.csv,Domingo,TrainingValidation
+1680,Deletrear_81_Datos.csv,Deletrear,TrainingValidation
+1681,Nombre_63_Datos.csv,Nombre,TrainingValidation
+1682,X_10_Datos.csv,X,TrainingValidation
+1683,Domingo_77_Datos.csv,Domingo,TrainingValidation
+1684,K_41_Datos.csv,K,TrainingValidation
+1685,Deletrear_51_Datos.csv,Deletrear,TrainingValidation
+1686,D_76_Datos.csv,D,TrainingValidation
+1687,J_81_Datos.csv,J,TrainingValidation
+1688,Lunes_9_Datos.csv,Lunes,TrainingValidation
+1689,X_66_Datos.csv,X,TrainingValidation
+1690,B_15_Datos.csv,B,TrainingValidation
+1691,Para que_59_Datos.csv,Para que,TrainingValidation
+1692,Como_78_Datos.csv,Como,TrainingValidation
+1693,Como_24_Datos.csv,Como,TrainingValidation
+1694,Cuanto_61_Datos.csv,Cuanto,TrainingValidation
+1695,Por que_78_Datos.csv,Por que,TrainingValidation
+1696,Nombre_66_Datos.csv,Nombre,TrainingValidation
+1697,Explicar_39_Datos.csv,Explicar,TrainingValidation
+1698,Nombre_65_Datos.csv,Nombre,TrainingValidation
+1699,Si_14_Datos.csv,Si,TrainingValidation
+1700,Q_54_Datos.csv,Q,TrainingValidation
+1701,A_63_Datos.csv,A,TrainingValidation
+1702,Sabado_67_Datos.csv,Sabado,TrainingValidation
+1703,Domingo_10_Datos.csv,Domingo,TrainingValidation
+1704,Que es_54_Datos.csv,Que es,TrainingValidation
+1705,J_11_Datos.csv,J,TrainingValidation
+1706,Martes_32_Datos.csv,Martes,TrainingValidation
+1707,Si_20_Datos.csv,Si,TrainingValidation
+1708,Martes_9_Datos.csv,Martes,TrainingValidation
+1709,Gracias_44_Datos.csv,Gracias,TrainingValidation
+1710,Para que_44_Datos.csv,Para que,TrainingValidation
+1711,Miercoles_60_Datos.csv,Miercoles,TrainingValidation
+1712,Por_favor_85_Datos.csv,Por_favor,TrainingValidation
+1713,K_46_Datos.csv,K,TrainingValidation
+1714,J_2_Datos.csv,J,TrainingValidation
+1715,Para que_31_Datos.csv,Para que,TrainingValidation
+1716,Gracias_46_Datos.csv,Gracias,TrainingValidation
+1717,K_57_Datos.csv,K,TrainingValidation
+1718,Que es_38_Datos.csv,Que es,TrainingValidation
+1719,Donde_41_Datos.csv,Donde,TrainingValidation
+1720,Gracias_70_Datos.csv,Gracias,TrainingValidation
+1721,Quien_41_Datos.csv,Quien,TrainingValidation
+1722,Q_19_Datos.csv,Q,TrainingValidation
+1723,Sabado_7_Datos.csv,Sabado,TrainingValidation
+1724,B_59_Datos.csv,B,TrainingValidation
+1725,No_4_Datos.csv,No,TrainingValidation
+1726,Que es_37_Datos.csv,Que es,TrainingValidation
+1727,D_14_Datos.csv,D,TrainingValidation
+1728,Miercoles_39_Datos.csv,Miercoles,TrainingValidation
+1729,Gracias_42_Datos.csv,Gracias,TrainingValidation
+1730,Quien_46_Datos.csv,Quien,TrainingValidation
+1731,Cuando_75_Datos.csv,Cuando,TrainingValidation
+1732,Lunes_6_Datos.csv,Lunes,TrainingValidation
+1733,C_21_Datos.csv,C,TrainingValidation
+1734,Domingo_53_Datos.csv,Domingo,TrainingValidation
+1735,Explicar_30_Datos.csv,Explicar,TrainingValidation
+1736,Deletrear_23_Datos.csv,Deletrear,TrainingValidation
+1737,Q_75_Datos.csv,Q,TrainingValidation
+1738,Por_favor_37_Datos.csv,Por_favor,TrainingValidation
+1739,Viernes_62_Datos.csv,Viernes,TrainingValidation
+1740,K_25_Datos.csv,K,TrainingValidation
+1741,Jueves_58_Datos.csv,Jueves,TrainingValidation
+1742,Nombre_2_Datos.csv,Nombre,TrainingValidation
+1743,Deletrear_2_Datos.csv,Deletrear,TrainingValidation
+1744,Explicar_18_Datos.csv,Explicar,TrainingValidation
+1745,B_33_Datos.csv,B,TrainingValidation
+1746,Explicar_31_Datos.csv,Explicar,TrainingValidation
+1747,K_83_Datos.csv,K,TrainingValidation
+1748,Gracias_21_Datos.csv,Gracias,TrainingValidation
+1749,Jueves_78_Datos.csv,Jueves,TrainingValidation
+1750,Como_27_Datos.csv,Como,TrainingValidation
+1751,Como_5_Datos.csv,Como,TrainingValidation
+1752,Domingo_7_Datos.csv,Domingo,TrainingValidation
+1753,X_40_Datos.csv,X,TrainingValidation
+1754,Sabado_66_Datos.csv,Sabado,TrainingValidation
+1755,Para que_83_Datos.csv,Para que,TrainingValidation
+1756,Donde_4_Datos.csv,Donde,TrainingValidation
+1757,Cuanto_5_Datos.csv,Cuanto,TrainingValidation
+1758,Cuando_18_Datos.csv,Cuando,TrainingValidation
+1759,C_80_Datos.csv,C,TrainingValidation
+1760,Martes_57_Datos.csv,Martes,TrainingValidation
+1761,J_84_Datos.csv,J,TrainingValidation
+1762,Deletrear_21_Datos.csv,Deletrear,TrainingValidation
+1763,Martes_83_Datos.csv,Martes,TrainingValidation
+1764,C_51_Datos.csv,C,TrainingValidation
+1765,Cuanto_75_Datos.csv,Cuanto,TrainingValidation
+1766,Sabado_53_Datos.csv,Sabado,TrainingValidation
+1767,D_48_Datos.csv,D,TrainingValidation
+1768,Para que_72_Datos.csv,Para que,TrainingValidation
+1769,Deletrear_82_Datos.csv,Deletrear,TrainingValidation
+1770,Explicar_16_Datos.csv,Explicar,TrainingValidation
+1771,Jueves_23_Datos.csv,Jueves,TrainingValidation
+1772,Q_23_Datos.csv,Q,TrainingValidation
+1773,Jueves_35_Datos.csv,Jueves,TrainingValidation
+1774,Que es_71_Datos.csv,Que es,TrainingValidation
+1775,Viernes_73_Datos.csv,Viernes,TrainingValidation
+1776,C_75_Datos.csv,C,TrainingValidation
+1777,J_68_Datos.csv,J,TrainingValidation
+1778,Para que_41_Datos.csv,Para que,TrainingValidation
+1779,Martes_60_Datos.csv,Martes,TrainingValidation
+1780,Deletrear_5_Datos.csv,Deletrear,TrainingValidation
+1781,Que es_57_Datos.csv,Que es,TrainingValidation
+1782,Miercoles_52_Datos.csv,Miercoles,TrainingValidation
+1783,Quien_18_Datos.csv,Quien,TrainingValidation
+1784,D_82_Datos.csv,D,TrainingValidation
+1785,Por_favor_16_Datos.csv,Por_favor,TrainingValidation
+1786,J_19_Datos.csv,J,TrainingValidation
+1787,Nombre_10_Datos.csv,Nombre,TrainingValidation
+1788,Para que_39_Datos.csv,Para que,TrainingValidation
+1789,Si_45_Datos.csv,Si,TrainingValidation
+1790,Cuanto_28_Datos.csv,Cuanto,TrainingValidation
+1791,Donde_10_Datos.csv,Donde,TrainingValidation
+1792,Cuanto_46_Datos.csv,Cuanto,TrainingValidation
+1793,A_5_Datos.csv,A,TrainingValidation
+1794,Jueves_3_Datos.csv,Jueves,TrainingValidation
+1795,Nombre_12_Datos.csv,Nombre,TrainingValidation
+1796,J_63_Datos.csv,J,TrainingValidation
+1797,C_84_Datos.csv,C,TrainingValidation
+1798,Domingo_60_Datos.csv,Domingo,TrainingValidation
+1799,Lunes_73_Datos.csv,Lunes,TrainingValidation
+1800,D_85_Datos.csv,D,TrainingValidation
+1801,Viernes_28_Datos.csv,Viernes,TrainingValidation
+1802,Que es_53_Datos.csv,Que es,TrainingValidation
+1803,Cuando_24_Datos.csv,Cuando,TrainingValidation
+1804,Para que_34_Datos.csv,Para que,TrainingValidation
+1805,Quien_72_Datos.csv,Quien,TrainingValidation
+1806,Si_50_Datos.csv,Si,TrainingValidation
+1807,C_77_Datos.csv,C,TrainingValidation
+1808,Por_favor_52_Datos.csv,Por_favor,TrainingValidation
+1809,Explicar_41_Datos.csv,Explicar,TrainingValidation
+1810,Quien_23_Datos.csv,Quien,TrainingValidation
+1811,Viernes_18_Datos.csv,Viernes,TrainingValidation
+1812,Jueves_77_Datos.csv,Jueves,TrainingValidation
+1813,Como_18_Datos.csv,Como,TrainingValidation
+1814,J_72_Datos.csv,J,TrainingValidation
+1815,Martes_11_Datos.csv,Martes,TrainingValidation
+1816,Por que_56_Datos.csv,Por que,TrainingValidation
+1817,Cuanto_26_Datos.csv,Cuanto,TrainingValidation
+1818,Por que_54_Datos.csv,Por que,TrainingValidation
+1819,J_38_Datos.csv,J,TrainingValidation
+1820,Miercoles_64_Datos.csv,Miercoles,TrainingValidation
+1821,Lunes_23_Datos.csv,Lunes,TrainingValidation
+1822,Para que_54_Datos.csv,Para que,TrainingValidation
+1823,Lunes_48_Datos.csv,Lunes,TrainingValidation
+1824,Cuanto_81_Datos.csv,Cuanto,TrainingValidation
+1825,No_31_Datos.csv,No,TrainingValidation
+1826,Como_81_Datos.csv,Como,TrainingValidation
+1827,Cuando_48_Datos.csv,Cuando,TrainingValidation
+1828,Cuando_8_Datos.csv,Cuando,TrainingValidation
+1829,Jueves_49_Datos.csv,Jueves,TrainingValidation
+1830,D_46_Datos.csv,D,TrainingValidation
+1831,Por que_10_Datos.csv,Por que,TrainingValidation
+1832,Viernes_46_Datos.csv,Viernes,TrainingValidation
+1833,D_70_Datos.csv,D,TrainingValidation
+1834,J_12_Datos.csv,J,TrainingValidation
+1835,Como_55_Datos.csv,Como,TrainingValidation
+1836,Explicar_34_Datos.csv,Explicar,TrainingValidation
+1837,Como_13_Datos.csv,Como,TrainingValidation
+1838,Deletrear_14_Datos.csv,Deletrear,TrainingValidation
+1839,Jueves_55_Datos.csv,Jueves,TrainingValidation
+1840,Donde_77_Datos.csv,Donde,TrainingValidation
+1841,Por_favor_76_Datos.csv,Por_favor,TrainingValidation
+1842,Nombre_72_Datos.csv,Nombre,TrainingValidation
+1843,Por que_59_Datos.csv,Por que,TrainingValidation
+1844,J_80_Datos.csv,J,TrainingValidation
+1845,Miercoles_42_Datos.csv,Miercoles,TrainingValidation
+1846,Si_26_Datos.csv,Si,TrainingValidation
+1847,Explicar_59_Datos.csv,Explicar,TrainingValidation
+1848,Gracias_60_Datos.csv,Gracias,TrainingValidation
+1849,Quien_32_Datos.csv,Quien,TrainingValidation
+1850,Sabado_4_Datos.csv,Sabado,TrainingValidation
+1851,Cuanto_42_Datos.csv,Cuanto,TrainingValidation
+1852,Q_35_Datos.csv,Q,TrainingValidation
+1853,B_57_Datos.csv,B,TrainingValidation
+1854,Nombre_78_Datos.csv,Nombre,TrainingValidation
+1855,Como_39_Datos.csv,Como,TrainingValidation
+1856,Que es_76_Datos.csv,Que es,TrainingValidation
+1857,Martes_68_Datos.csv,Martes,TrainingValidation
+1858,Domingo_5_Datos.csv,Domingo,TrainingValidation
+1859,Quien_75_Datos.csv,Quien,TrainingValidation
+1860,Sabado_37_Datos.csv,Sabado,TrainingValidation
+1861,Miercoles_58_Datos.csv,Miercoles,TrainingValidation
+1862,Jueves_21_Datos.csv,Jueves,TrainingValidation
+1863,Explicar_1_Datos.csv,Explicar,TrainingValidation
+1864,Deletrear_66_Datos.csv,Deletrear,TrainingValidation
+1865,Nombre_47_Datos.csv,Nombre,TrainingValidation
+1866,Deletrear_1_Datos.csv,Deletrear,TrainingValidation
+1867,Sabado_64_Datos.csv,Sabado,TrainingValidation
+1868,Viernes_27_Datos.csv,Viernes,TrainingValidation
+1869,Martes_27_Datos.csv,Martes,TrainingValidation
+1870,Gracias_74_Datos.csv,Gracias,TrainingValidation
+1871,C_5_Datos.csv,C,TrainingValidation
+1872,Que es_32_Datos.csv,Que es,TrainingValidation
+1873,Jueves_69_Datos.csv,Jueves,TrainingValidation
+1874,K_66_Datos.csv,K,TrainingValidation
+1875,Si_64_Datos.csv,Si,TrainingValidation
+1876,Por_favor_81_Datos.csv,Por_favor,TrainingValidation
+1877,Sabado_14_Datos.csv,Sabado,TrainingValidation
+1878,Nombre_68_Datos.csv,Nombre,TrainingValidation
+1879,C_1_Datos.csv,C,TrainingValidation
+1880,X_85_Datos.csv,X,TrainingValidation
+1881,K_11_Datos.csv,K,TrainingValidation
+1882,No_64_Datos.csv,No,TrainingValidation
+1883,D_2_Datos.csv,D,TrainingValidation
+1884,K_20_Datos.csv,K,TrainingValidation
+1885,B_13_Datos.csv,B,TrainingValidation
+1886,Q_58_Datos.csv,Q,TrainingValidation
+1887,Por que_40_Datos.csv,Por que,TrainingValidation
+1888,A_45_Datos.csv,A,TrainingValidation
+1889,Viernes_63_Datos.csv,Viernes,TrainingValidation
+1890,Gracias_31_Datos.csv,Gracias,TrainingValidation
+1891,Gracias_77_Datos.csv,Gracias,TrainingValidation
+1892,X_18_Datos.csv,X,TrainingValidation
+1893,Sabado_79_Datos.csv,Sabado,TrainingValidation
+1894,Cuanto_57_Datos.csv,Cuanto,TrainingValidation
+1895,Jueves_20_Datos.csv,Jueves,TrainingValidation
+1896,Donde_8_Datos.csv,Donde,TrainingValidation
+1897,Que es_75_Datos.csv,Que es,TrainingValidation
+1898,Gracias_58_Datos.csv,Gracias,TrainingValidation
+1899,Nombre_44_Datos.csv,Nombre,TrainingValidation
+1900,Cuanto_17_Datos.csv,Cuanto,TrainingValidation
+1901,C_73_Datos.csv,C,TrainingValidation
+1902,Como_7_Datos.csv,Como,TrainingValidation
+1903,Nombre_30_Datos.csv,Nombre,TrainingValidation
+1904,Lunes_78_Datos.csv,Lunes,TrainingValidation
+1905,B_55_Datos.csv,B,TrainingValidation
+1906,Cuando_3_Datos.csv,Cuando,TrainingValidation
+1907,Q_42_Datos.csv,Q,TrainingValidation
+1908,Deletrear_55_Datos.csv,Deletrear,TrainingValidation
+1909,D_3_Datos.csv,D,TrainingValidation
+1910,Jueves_76_Datos.csv,Jueves,TrainingValidation
+1911,Sabado_61_Datos.csv,Sabado,TrainingValidation
+1912,Cuanto_66_Datos.csv,Cuanto,TrainingValidation
+1913,Quien_56_Datos.csv,Quien,TrainingValidation
+1914,C_29_Datos.csv,C,TrainingValidation
+1915,Cuando_59_Datos.csv,Cuando,TrainingValidation
+1916,J_22_Datos.csv,J,TrainingValidation
+1917,Donde_17_Datos.csv,Donde,TrainingValidation
+1918,Por que_15_Datos.csv,Por que,TrainingValidation
+1919,C_45_Datos.csv,C,TrainingValidation
+1920,Para que_13_Datos.csv,Para que,TrainingValidation
+1921,Por que_57_Datos.csv,Por que,TrainingValidation
+1922,Nombre_1_Datos.csv,Nombre,TrainingValidation
+1923,Martes_55_Datos.csv,Martes,TrainingValidation
+1924,Nombre_39_Datos.csv,Nombre,TrainingValidation
+1925,A_19_Datos.csv,A,TrainingValidation
+1926,Como_80_Datos.csv,Como,TrainingValidation
+1927,J_67_Datos.csv,J,TrainingValidation
+1928,Cuando_62_Datos.csv,Cuando,TrainingValidation
+1929,Lunes_76_Datos.csv,Lunes,TrainingValidation
+1930,Martes_56_Datos.csv,Martes,TrainingValidation
+1931,Cuando_67_Datos.csv,Cuando,TrainingValidation
+1932,Domingo_61_Datos.csv,Domingo,TrainingValidation
+1933,Q_15_Datos.csv,Q,TrainingValidation
+1934,D_4_Datos.csv,D,TrainingValidation
+1935,Q_18_Datos.csv,Q,TrainingValidation
+1936,Viernes_57_Datos.csv,Viernes,TrainingValidation
+1937,Nombre_57_Datos.csv,Nombre,TrainingValidation
+1938,Miercoles_81_Datos.csv,Miercoles,TrainingValidation
+1939,Para que_37_Datos.csv,Para que,TrainingValidation
+1940,C_33_Datos.csv,C,TrainingValidation
+1941,Lunes_51_Datos.csv,Lunes,TrainingValidation
+1942,A_24_Datos.csv,A,TrainingValidation
+1943,Deletrear_29_Datos.csv,Deletrear,TrainingValidation
+1944,Sabado_82_Datos.csv,Sabado,TrainingValidation
+1945,Domingo_85_Datos.csv,Domingo,TrainingValidation
+1946,Viernes_83_Datos.csv,Viernes,TrainingValidation
+1947,D_32_Datos.csv,D,TrainingValidation
+1948,Cuando_6_Datos.csv,Cuando,TrainingValidation
+1949,Miercoles_32_Datos.csv,Miercoles,TrainingValidation
+1950,Quien_84_Datos.csv,Quien,TrainingValidation
+1951,C_85_Datos.csv,C,TrainingValidation
+1952,Para que_38_Datos.csv,Para que,TrainingValidation
+1953,B_40_Datos.csv,B,TrainingValidation
+1954,Como_49_Datos.csv,Como,TrainingValidation
+1955,Lunes_27_Datos.csv,Lunes,TrainingValidation
+1956,D_52_Datos.csv,D,TrainingValidation
+1957,Viernes_30_Datos.csv,Viernes,TrainingValidation
+1958,Explicar_48_Datos.csv,Explicar,TrainingValidation
+1959,Que es_69_Datos.csv,Que es,TrainingValidation
+1960,Martes_1_Datos.csv,Martes,TrainingValidation
+1961,Como_77_Datos.csv,Como,TrainingValidation
+1962,Domingo_68_Datos.csv,Domingo,TrainingValidation
+1963,X_41_Datos.csv,X,TrainingValidation
+1964,Donde_18_Datos.csv,Donde,TrainingValidation
+1965,Martes_20_Datos.csv,Martes,TrainingValidation
+1966,D_18_Datos.csv,D,TrainingValidation
+1967,Explicar_24_Datos.csv,Explicar,TrainingValidation
+1968,Para que_58_Datos.csv,Para que,TrainingValidation
+1969,Domingo_72_Datos.csv,Domingo,TrainingValidation
+1970,Por que_31_Datos.csv,Por que,TrainingValidation
+1971,Como_75_Datos.csv,Como,TrainingValidation
+1972,Miercoles_77_Datos.csv,Miercoles,TrainingValidation
+1973,Por_favor_20_Datos.csv,Por_favor,TrainingValidation
+1974,X_43_Datos.csv,X,TrainingValidation
+1975,K_55_Datos.csv,K,TrainingValidation
+1976,Para que_66_Datos.csv,Para que,TrainingValidation
+1977,J_9_Datos.csv,J,TrainingValidation
+1978,Por_favor_47_Datos.csv,Por_favor,TrainingValidation
+1979,X_48_Datos.csv,X,TrainingValidation
+1980,Como_38_Datos.csv,Como,TrainingValidation
+1981,Donde_40_Datos.csv,Donde,TrainingValidation
+1982,Martes_36_Datos.csv,Martes,TrainingValidation
+1983,Quien_81_Datos.csv,Quien,TrainingValidation
+1984,Sabado_58_Datos.csv,Sabado,TrainingValidation
+1985,Gracias_53_Datos.csv,Gracias,TrainingValidation
+1986,Miercoles_55_Datos.csv,Miercoles,TrainingValidation
+1987,K_81_Datos.csv,K,TrainingValidation
+1988,Q_62_Datos.csv,Q,TrainingValidation
+1989,Si_84_Datos.csv,Si,TrainingValidation
+1990,Domingo_13_Datos.csv,Domingo,TrainingValidation
+1991,Quien_29_Datos.csv,Quien,TrainingValidation
+1992,Martes_53_Datos.csv,Martes,TrainingValidation
+1993,Explicar_49_Datos.csv,Explicar,TrainingValidation
+1994,No_23_Datos.csv,No,TrainingValidation
+1995,X_83_Datos.csv,X,TrainingValidation
+1996,Quien_85_Datos.csv,Quien,TrainingValidation
+1997,Jueves_80_Datos.csv,Jueves,TrainingValidation
+1998,K_76_Datos.csv,K,TrainingValidation
+1999,Como_79_Datos.csv,Como,TrainingValidation
+2000,Donde_69_Datos.csv,Donde,TrainingValidation
+2001,Lunes_41_Datos.csv,Lunes,TrainingValidation
+2002,Si_1_Datos.csv,Si,TrainingValidation
+2003,No_10_Datos.csv,No,TrainingValidation
+2004,J_34_Datos.csv,J,TrainingValidation
+2005,Cuando_7_Datos.csv,Cuando,TrainingValidation
+2006,Gracias_54_Datos.csv,Gracias,TrainingValidation
+2007,Domingo_80_Datos.csv,Domingo,TrainingValidation
+2008,Lunes_16_Datos.csv,Lunes,TrainingValidation
+2009,Cuando_44_Datos.csv,Cuando,TrainingValidation
+2010,Martes_23_Datos.csv,Martes,TrainingValidation
+2011,Si_51_Datos.csv,Si,TrainingValidation
+2012,No_35_Datos.csv,No,TrainingValidation
+2013,Cuando_32_Datos.csv,Cuando,TrainingValidation
+2014,Martes_74_Datos.csv,Martes,TrainingValidation
+2015,Viernes_10_Datos.csv,Viernes,TrainingValidation
+2016,Q_84_Datos.csv,Q,TrainingValidation
+2017,A_44_Datos.csv,A,TrainingValidation
+2018,Miercoles_84_Datos.csv,Miercoles,TrainingValidation
+2019,Donde_38_Datos.csv,Donde,TrainingValidation
+2020,K_71_Datos.csv,K,TrainingValidation
+2021,Cuanto_6_Datos.csv,Cuanto,TrainingValidation
+2022,Si_37_Datos.csv,Si,TrainingValidation
+2023,Q_27_Datos.csv,Q,TrainingValidation
+2024,Cuanto_13_Datos.csv,Cuanto,TrainingValidation
+2025,Si_5_Datos.csv,Si,TrainingValidation
+2026,Lunes_54_Datos.csv,Lunes,TrainingValidation
+2027,Deletrear_39_Datos.csv,Deletrear,TrainingValidation
+2028,Deletrear_4_Datos.csv,Deletrear,TrainingValidation
+2029,C_66_Datos.csv,C,TrainingValidation
+2030,B_22_Datos.csv,B,TrainingValidation
+2031,Sabado_60_Datos.csv,Sabado,TrainingValidation
+2032,K_8_Datos.csv,K,TrainingValidation
+2033,Que es_56_Datos.csv,Que es,TrainingValidation
+2034,No_13_Datos.csv,No,TrainingValidation
+2035,No_72_Datos.csv,No,TrainingValidation
+2036,Por_favor_64_Datos.csv,Por_favor,TrainingValidation
+2037,K_27_Datos.csv,K,TrainingValidation
+2038,X_25_Datos.csv,X,TrainingValidation
+2039,Martes_80_Datos.csv,Martes,TrainingValidation
+2040,Domingo_3_Datos.csv,Domingo,TrainingValidation
+2041,Cuanto_67_Datos.csv,Cuanto,TrainingValidation
+2042,J_65_Datos.csv,J,TrainingValidation
+2043,X_76_Datos.csv,X,TrainingValidation
+2044,No_81_Datos.csv,No,TrainingValidation
+2045,No_53_Datos.csv,No,TrainingValidation
+2046,Por_favor_77_Datos.csv,Por_favor,TrainingValidation
+2047,D_60_Datos.csv,D,TrainingValidation
+2048,Q_10_Datos.csv,Q,TrainingValidation
+2049,Viernes_29_Datos.csv,Viernes,TrainingValidation
+2050,Explicar_71_Datos.csv,Explicar,TrainingValidation
+2051,Por que_85_Datos.csv,Por que,TrainingValidation
+2052,Cuando_57_Datos.csv,Cuando,TrainingValidation
+2053,Viernes_42_Datos.csv,Viernes,TrainingValidation
+2054,Nombre_60_Datos.csv,Nombre,TrainingValidation
+2055,Donde_1_Datos.csv,Donde,TrainingValidation
+2056,Gracias_28_Datos.csv,Gracias,TrainingValidation
+2057,Explicar_13_Datos.csv,Explicar,TrainingValidation
+2058,Viernes_43_Datos.csv,Viernes,TrainingValidation
+2059,Lunes_8_Datos.csv,Lunes,TrainingValidation
+2060,Cuanto_70_Datos.csv,Cuanto,TrainingValidation
+2061,No_45_Datos.csv,No,TrainingValidation
+2062,Por que_69_Datos.csv,Por que,TrainingValidation
+2063,Que es_64_Datos.csv,Que es,TrainingValidation
+2064,Por que_4_Datos.csv,Por que,TrainingValidation
+2065,Martes_78_Datos.csv,Martes,TrainingValidation
+2066,No_83_Datos.csv,No,TrainingValidation
+2067,Si_3_Datos.csv,Si,TrainingValidation
+2068,Gracias_71_Datos.csv,Gracias,TrainingValidation
+2069,A_72_Datos.csv,A,TrainingValidation
+2070,Sabado_80_Datos.csv,Sabado,TrainingValidation
+2071,A_20_Datos.csv,A,TrainingValidation
+2072,Martes_21_Datos.csv,Martes,TrainingValidation
+2073,Para que_1_Datos.csv,Para que,TrainingValidation
+2074,Por que_62_Datos.csv,Por que,TrainingValidation
+2075,Martes_31_Datos.csv,Martes,TrainingValidation
+2076,A_80_Datos.csv,A,TrainingValidation
+2077,Nombre_71_Datos.csv,Nombre,TrainingValidation
+2078,Para que_48_Datos.csv,Para que,TrainingValidation
+2079,Nombre_18_Datos.csv,Nombre,TrainingValidation
+2080,Miercoles_62_Datos.csv,Miercoles,TrainingValidation
+2081,A_77_Datos.csv,A,TrainingValidation
+2082,Si_25_Datos.csv,Si,TrainingValidation
+2083,Lunes_70_Datos.csv,Lunes,TrainingValidation
+2084,Para que_52_Datos.csv,Para que,TrainingValidation
+2085,Gracias_13_Datos.csv,Gracias,TrainingValidation
+2086,Como_56_Datos.csv,Como,TrainingValidation
+2087,X_71_Datos.csv,X,TrainingValidation
+2088,Gracias_26_Datos.csv,Gracias,TrainingValidation
+2089,C_30_Datos.csv,C,TrainingValidation
+2090,Quien_66_Datos.csv,Quien,TrainingValidation
+2091,Como_83_Datos.csv,Como,TrainingValidation
+2092,X_54_Datos.csv,X,TrainingValidation
+2093,Jueves_45_Datos.csv,Jueves,TrainingValidation
+2094,Nombre_17_Datos.csv,Nombre,TrainingValidation
+2095,Domingo_79_Datos.csv,Domingo,TrainingValidation
+2096,Para que_21_Datos.csv,Para que,TrainingValidation
+2097,Lunes_18_Datos.csv,Lunes,TrainingValidation
+2098,Explicar_60_Datos.csv,Explicar,TrainingValidation
+2099,Domingo_50_Datos.csv,Domingo,TrainingValidation
+2100,Que es_40_Datos.csv,Que es,TrainingValidation
+2101,Deletrear_18_Datos.csv,Deletrear,TrainingValidation
+2102,Explicar_73_Datos.csv,Explicar,TrainingValidation
+2103,Por_favor_24_Datos.csv,Por_favor,TrainingValidation
+2104,Quien_54_Datos.csv,Quien,TrainingValidation
+2105,Para que_78_Datos.csv,Para que,TrainingValidation
+2106,Que es_80_Datos.csv,Que es,TrainingValidation
+2107,Deletrear_42_Datos.csv,Deletrear,TrainingValidation
+2108,Domingo_47_Datos.csv,Domingo,TrainingValidation
+2109,K_44_Datos.csv,K,TrainingValidation
+2110,Miercoles_51_Datos.csv,Miercoles,TrainingValidation
+2111,Cuando_54_Datos.csv,Cuando,TrainingValidation
+2112,No_85_Datos.csv,No,TrainingValidation
+2113,D_6_Datos.csv,D,TrainingValidation
+2114,Gracias_61_Datos.csv,Gracias,TrainingValidation
+2115,D_10_Datos.csv,D,TrainingValidation
+2116,Que es_62_Datos.csv,Que es,TrainingValidation
+2117,Donde_28_Datos.csv,Donde,TrainingValidation
+2118,Viernes_22_Datos.csv,Viernes,TrainingValidation
+2119,B_20_Datos.csv,B,TrainingValidation
+2120,Jueves_64_Datos.csv,Jueves,TrainingValidation
+2121,Q_85_Datos.csv,Q,TrainingValidation
+2122,Jueves_14_Datos.csv,Jueves,TrainingValidation
+2123,C_11_Datos.csv,C,TrainingValidation
+2124,Cuanto_38_Datos.csv,Cuanto,TrainingValidation
+2125,Gracias_81_Datos.csv,Gracias,TrainingValidation
+2126,Martes_48_Datos.csv,Martes,TrainingValidation
+2127,Explicar_58_Datos.csv,Explicar,TrainingValidation
+2128,Que es_3_Datos.csv,Que es,TrainingValidation
+2129,A_29_Datos.csv,A,TrainingValidation
+2130,K_65_Datos.csv,K,TrainingValidation
+2131,Por_favor_21_Datos.csv,Por_favor,TrainingValidation
+2132,Sabado_26_Datos.csv,Sabado,TrainingValidation
+2133,K_45_Datos.csv,K,TrainingValidation
+2134,A_43_Datos.csv,A,TrainingValidation
+2135,Para que_6_Datos.csv,Para que,TrainingValidation
+2136,C_42_Datos.csv,C,TrainingValidation
+2137,Viernes_4_Datos.csv,Viernes,TrainingValidation
+2138,Que es_17_Datos.csv,Que es,TrainingValidation
+2139,No_60_Datos.csv,No,TrainingValidation
+2140,K_35_Datos.csv,K,TrainingValidation
+2141,Deletrear_7_Datos.csv,Deletrear,TrainingValidation
+2142,A_84_Datos.csv,A,TrainingValidation
+2143,K_32_Datos.csv,K,TrainingValidation
+2144,Quien_58_Datos.csv,Quien,TrainingValidation
+2145,Gracias_52_Datos.csv,Gracias,TrainingValidation
+2146,Por que_28_Datos.csv,Por que,TrainingValidation
+2147,Deletrear_83_Datos.csv,Deletrear,TrainingValidation
+2148,Quien_30_Datos.csv,Quien,TrainingValidation
+2149,Para que_73_Datos.csv,Para que,TrainingValidation
+2150,Como_29_Datos.csv,Como,TrainingValidation
+2151,B_70_Datos.csv,B,TrainingValidation
+2152,Explicar_66_Datos.csv,Explicar,TrainingValidation
+2153,K_12_Datos.csv,K,TrainingValidation
+2154,Donde_75_Datos.csv,Donde,TrainingValidation
+2155,Como_76_Datos.csv,Como,TrainingValidation
+2156,Que es_8_Datos.csv,Que es,TrainingValidation
+2157,Miercoles_43_Datos.csv,Miercoles,TrainingValidation
+2158,Donde_30_Datos.csv,Donde,TrainingValidation
+2159,Donde_65_Datos.csv,Donde,TrainingValidation
+2160,Martes_26_Datos.csv,Martes,TrainingValidation
+2161,Por_favor_72_Datos.csv,Por_favor,TrainingValidation
+2162,Miercoles_41_Datos.csv,Miercoles,TrainingValidation
+2163,Nombre_54_Datos.csv,Nombre,TrainingValidation
+2164,Viernes_14_Datos.csv,Viernes,TrainingValidation
+2165,Cuando_46_Datos.csv,Cuando,TrainingValidation
+2166,Lunes_49_Datos.csv,Lunes,TrainingValidation
+2167,J_15_Datos.csv,J,TrainingValidation
+2168,Nombre_5_Datos.csv,Nombre,TrainingValidation
+2169,Viernes_9_Datos.csv,Viernes,TrainingValidation
+2170,Quien_20_Datos.csv,Quien,TrainingValidation
+2171,Martes_51_Datos.csv,Martes,TrainingValidation
+2172,No_56_Datos.csv,No,TrainingValidation
+2173,Domingo_40_Datos.csv,Domingo,TrainingValidation
+2174,B_35_Datos.csv,B,TrainingValidation
+2175,Nombre_45_Datos.csv,Nombre,TrainingValidation
+2176,Para que_50_Datos.csv,Para que,TrainingValidation
+2177,Viernes_49_Datos.csv,Viernes,TrainingValidation
+2178,Por_favor_78_Datos.csv,Por_favor,TrainingValidation
+2179,J_33_Datos.csv,J,TrainingValidation
+2180,Como_57_Datos.csv,Como,TrainingValidation
+2181,Miercoles_12_Datos.csv,Miercoles,TrainingValidation
+2182,Domingo_12_Datos.csv,Domingo,TrainingValidation
+2183,Por_favor_43_Datos.csv,Por_favor,TrainingValidation
+2184,Por_favor_35_Datos.csv,Por_favor,TrainingValidation
+2185,A_74_Datos.csv,A,TrainingValidation
+2186,Lunes_62_Datos.csv,Lunes,TrainingValidation
+2187,Por_favor_58_Datos.csv,Por_favor,TrainingValidation
+2188,Por_favor_12_Datos.csv,Por_favor,TrainingValidation
+2189,K_4_Datos.csv,K,TrainingValidation
+2190,Lunes_44_Datos.csv,Lunes,TrainingValidation
+2191,D_19_Datos.csv,D,TrainingValidation
+2192,D_17_Datos.csv,D,TrainingValidation
+2193,Deletrear_76_Datos.csv,Deletrear,TrainingValidation
+2194,Para que_8_Datos.csv,Para que,TrainingValidation
+2195,Deletrear_56_Datos.csv,Deletrear,TrainingValidation
+2196,Miercoles_27_Datos.csv,Miercoles,TrainingValidation
+2197,Martes_12_Datos.csv,Martes,TrainingValidation
+2198,Si_35_Datos.csv,Si,TrainingValidation
+2199,Por que_81_Datos.csv,Por que,TrainingValidation
+2200,K_3_Datos.csv,K,TrainingValidation
+2201,C_70_Datos.csv,C,TrainingValidation
+2202,Miercoles_1_Datos.csv,Miercoles,TrainingValidation
+2203,Domingo_64_Datos.csv,Domingo,TrainingValidation
+2204,Quien_17_Datos.csv,Quien,TrainingValidation
+2205,Cuanto_36_Datos.csv,Cuanto,TrainingValidation
+2206,Viernes_8_Datos.csv,Viernes,TrainingValidation
+2207,Deletrear_25_Datos.csv,Deletrear,TrainingValidation
+2208,C_20_Datos.csv,C,TrainingValidation
+2209,Quien_77_Datos.csv,Quien,TrainingValidation
+2210,Para que_53_Datos.csv,Para que,TrainingValidation
+2211,C_49_Datos.csv,C,TrainingValidation
+2212,D_29_Datos.csv,D,TrainingValidation
+2213,Deletrear_15_Datos.csv,Deletrear,TrainingValidation
+2214,A_26_Datos.csv,A,TrainingValidation
+2215,Para que_20_Datos.csv,Para que,TrainingValidation
+2216,D_83_Datos.csv,D,TrainingValidation
+2217,Q_59_Datos.csv,Q,TrainingValidation
+2218,Por_favor_51_Datos.csv,Por_favor,TrainingValidation
+2219,K_9_Datos.csv,K,TrainingValidation
+2220,Nombre_16_Datos.csv,Nombre,TrainingValidation
+2221,Como_61_Datos.csv,Como,TrainingValidation
+2222,A_79_Datos.csv,A,TrainingValidation
+2223,Explicar_50_Datos.csv,Explicar,TrainingValidation
+2224,Viernes_53_Datos.csv,Viernes,TrainingValidation
+2225,Para que_7_Datos.csv,Para que,TrainingValidation
+2226,D_11_Datos.csv,D,TrainingValidation
+2227,Cuanto_16_Datos.csv,Cuanto,TrainingValidation
+2228,K_16_Datos.csv,K,TrainingValidation
+2229,Si_18_Datos.csv,Si,TrainingValidation
+2230,Explicar_61_Datos.csv,Explicar,TrainingValidation
+2231,Explicar_57_Datos.csv,Explicar,TrainingValidation
+2232,Que es_31_Datos.csv,Que es,TrainingValidation
+2233,C_59_Datos.csv,C,TrainingValidation
+2234,Donde_62_Datos.csv,Donde,TrainingValidation
+2235,Domingo_6_Datos.csv,Domingo,TrainingValidation
+2236,J_51_Datos.csv,J,TrainingValidation
+2237,X_31_Datos.csv,X,TrainingValidation
+2238,D_22_Datos.csv,D,TrainingValidation
+2239,Por que_22_Datos.csv,Por que,TrainingValidation
+2240,Quien_5_Datos.csv,Quien,TrainingValidation
+2241,Como_73_Datos.csv,Como,TrainingValidation
+2242,C_38_Datos.csv,C,TrainingValidation
+2243,Si_59_Datos.csv,Si,TrainingValidation
+2244,C_19_Datos.csv,C,TrainingValidation
+2245,Cuando_49_Datos.csv,Cuando,TrainingValidation
+2246,X_72_Datos.csv,X,TrainingValidation
+2247,Si_21_Datos.csv,Si,TrainingValidation
+2248,Gracias_66_Datos.csv,Gracias,TrainingValidation
+2249,Como_36_Datos.csv,Como,TrainingValidation
+2250,Deletrear_11_Datos.csv,Deletrear,TrainingValidation
+2251,C_76_Datos.csv,C,TrainingValidation
+2252,K_77_Datos.csv,K,TrainingValidation
+2253,A_73_Datos.csv,A,TrainingValidation
+2254,Donde_26_Datos.csv,Donde,TrainingValidation
+2255,Como_23_Datos.csv,Como,TrainingValidation
+2256,C_72_Datos.csv,C,TrainingValidation
+2257,Si_11_Datos.csv,Si,TrainingValidation
+2258,Si_16_Datos.csv,Si,TrainingValidation
+2259,C_79_Datos.csv,C,TrainingValidation
+2260,D_28_Datos.csv,D,TrainingValidation
+2261,Si_55_Datos.csv,Si,TrainingValidation
+2262,D_30_Datos.csv,D,TrainingValidation
+2263,D_62_Datos.csv,D,TrainingValidation
+2264,Por_favor_79_Datos.csv,Por_favor,TrainingValidation
+2265,Que es_15_Datos.csv,Que es,TrainingValidation
+2266,B_54_Datos.csv,B,TrainingValidation
+2267,Viernes_31_Datos.csv,Viernes,TrainingValidation
+2268,B_62_Datos.csv,B,TrainingValidation
+2269,Q_53_Datos.csv,Q,TrainingValidation
+2270,Quien_44_Datos.csv,Quien,TrainingValidation
+2271,Que es_12_Datos.csv,Que es,TrainingValidation
+2272,Para que_32_Datos.csv,Para que,TrainingValidation
+2273,C_78_Datos.csv,C,TrainingValidation
+2274,Que es_36_Datos.csv,Que es,TrainingValidation
+2275,Por que_14_Datos.csv,Por que,TrainingValidation
+2276,Si_76_Datos.csv,Si,TrainingValidation
+2277,X_52_Datos.csv,X,TrainingValidation
+2278,Que es_28_Datos.csv,Que es,TrainingValidation
+2279,D_7_Datos.csv,D,TrainingValidation
+2280,Gracias_73_Datos.csv,Gracias,TrainingValidation
+2281,Gracias_3_Datos.csv,Gracias,TrainingValidation
+2282,Como_64_Datos.csv,Como,TrainingValidation
+2283,No_36_Datos.csv,No,TrainingValidation
+2284,Nombre_70_Datos.csv,Nombre,TrainingValidation
+2285,Quien_80_Datos.csv,Quien,TrainingValidation
+2286,Explicar_52_Datos.csv,Explicar,TrainingValidation
+2287,Cuando_12_Datos.csv,Cuando,TrainingValidation
+2288,Cuando_83_Datos.csv,Cuando,TrainingValidation
+2289,C_68_Datos.csv,C,TrainingValidation
+2290,Quien_82_Datos.csv,Quien,TrainingValidation
+2291,Donde_51_Datos.csv,Donde,TrainingValidation
+2292,D_44_Datos.csv,D,TrainingValidation
+2293,Que es_42_Datos.csv,Que es,TrainingValidation
+2294,Que es_51_Datos.csv,Que es,TrainingValidation
+2295,Viernes_47_Datos.csv,Viernes,TrainingValidation
+2296,J_76_Datos.csv,J,TrainingValidation
+2297,X_4_Datos.csv,X,TrainingValidation
+2298,Por_favor_55_Datos.csv,Por_favor,TrainingValidation
+2299,B_9_Datos.csv,B,TrainingValidation
+2300,X_74_Datos.csv,X,TrainingValidation
+2301,Viernes_51_Datos.csv,Viernes,TrainingValidation
+2302,Como_20_Datos.csv,Como,TrainingValidation
+2303,Por que_5_Datos.csv,Por que,TrainingValidation
+2304,Quien_62_Datos.csv,Quien,TrainingValidation
+2305,Deletrear_71_Datos.csv,Deletrear,TrainingValidation
+2306,Deletrear_53_Datos.csv,Deletrear,TrainingValidation
+2307,Explicar_32_Datos.csv,Explicar,TrainingValidation
+2308,Como_48_Datos.csv,Como,TrainingValidation
+2309,D_20_Datos.csv,D,TrainingValidation
+2310,Cuanto_85_Datos.csv,Cuanto,TrainingValidation
+2311,Gracias_40_Datos.csv,Gracias,TrainingValidation
+2312,Que es_85_Datos.csv,Que es,TrainingValidation
+2313,Como_3_Datos.csv,Como,TrainingValidation
+2314,Como_54_Datos.csv,Como,TrainingValidation
+2315,Viernes_12_Datos.csv,Viernes,TrainingValidation
+2316,Explicar_82_Datos.csv,Explicar,TrainingValidation
+2317,Para que_67_Datos.csv,Para que,TrainingValidation
+2318,Viernes_76_Datos.csv,Viernes,TrainingValidation
+2319,Por_favor_44_Datos.csv,Por_favor,TrainingValidation
+2320,A_62_Datos.csv,A,TrainingValidation
+2321,K_38_Datos.csv,K,TrainingValidation
+2322,Cuando_55_Datos.csv,Cuando,TrainingValidation
+2323,C_53_Datos.csv,C,TrainingValidation
+2324,Martes_7_Datos.csv,Martes,TrainingValidation
+2325,X_15_Datos.csv,X,TrainingValidation
+2326,Jueves_54_Datos.csv,Jueves,TrainingValidation
+2327,A_37_Datos.csv,A,TrainingValidation
+2328,J_27_Datos.csv,J,TrainingValidation
+2329,Para que_36_Datos.csv,Para que,TrainingValidation
+2330,No_69_Datos.csv,No,TrainingValidation
+2331,Miercoles_40_Datos.csv,Miercoles,TrainingValidation
+2332,No_78_Datos.csv,No,TrainingValidation
+2333,Quien_52_Datos.csv,Quien,TrainingValidation
+2334,D_47_Datos.csv,D,TrainingValidation
+2335,X_73_Datos.csv,X,TrainingValidation
+2336,C_69_Datos.csv,C,TrainingValidation
+2337,Cuanto_10_Datos.csv,Cuanto,TrainingValidation
+2338,Viernes_36_Datos.csv,Viernes,TrainingValidation
+2339,Por_favor_34_Datos.csv,Por_favor,TrainingValidation
+2340,Miercoles_20_Datos.csv,Miercoles,TrainingValidation
+2341,Miercoles_15_Datos.csv,Miercoles,TrainingValidation
+2342,C_44_Datos.csv,C,TrainingValidation
+2343,A_46_Datos.csv,A,TrainingValidation
+2344,J_59_Datos.csv,J,TrainingValidation
+2345,Sabado_70_Datos.csv,Sabado,TrainingValidation
+2346,X_61_Datos.csv,X,TrainingValidation
+2347,Q_79_Datos.csv,Q,TrainingValidation
+2348,Por_favor_14_Datos.csv,Por_favor,TrainingValidation
+2349,X_17_Datos.csv,X,TrainingValidation
+2350,Deletrear_62_Datos.csv,Deletrear,TrainingValidation
+2351,Lunes_66_Datos.csv,Lunes,TrainingValidation
+2352,A_76_Datos.csv,A,TrainingValidation
+2353,Si_58_Datos.csv,Si,TrainingValidation
+2354,Que es_79_Datos.csv,Que es,TrainingValidation
+2355,Jueves_84_Datos.csv,Jueves,TrainingValidation
+2356,Cuando_58_Datos.csv,Cuando,TrainingValidation
+2357,Por que_66_Datos.csv,Por que,TrainingValidation
+2358,K_70_Datos.csv,K,TrainingValidation
+2359,D_61_Datos.csv,D,TrainingValidation
+2360,Lunes_26_Datos.csv,Lunes,TrainingValidation
+2361,Por que_76_Datos.csv,Por que,TrainingValidation
+2362,Viernes_32_Datos.csv,Viernes,TrainingValidation
+2363,B_7_Datos.csv,B,TrainingValidation
+2364,Gracias_38_Datos.csv,Gracias,TrainingValidation
+2365,Por_favor_53_Datos.csv,Por_favor,TrainingValidation
+2366,Nombre_13_Datos.csv,Nombre,TrainingValidation
+2367,Viernes_75_Datos.csv,Viernes,TrainingValidation
+2368,A_50_Datos.csv,A,TrainingValidation
+2369,Por_favor_84_Datos.csv,Por_favor,TrainingValidation
+2370,Deletrear_48_Datos.csv,Deletrear,TrainingValidation
+2371,Martes_17_Datos.csv,Martes,TrainingValidation
+2372,Cuando_1_Datos.csv,Cuando,TrainingValidation
+2373,Sabado_12_Datos.csv,Sabado,TrainingValidation
+2374,B_1_Datos.csv,B,TrainingValidation
+2375,Lunes_71_Datos.csv,Lunes,TrainingValidation
+2376,Miercoles_74_Datos.csv,Miercoles,TrainingValidation
+2377,Nombre_3_Datos.csv,Nombre,TrainingValidation
+2378,No_24_Datos.csv,No,TrainingValidation
+2379,Para que_16_Datos.csv,Para que,TrainingValidation
+2380,Por que_16_Datos.csv,Por que,TrainingValidation
+2381,Viernes_41_Datos.csv,Viernes,TrainingValidation
+2382,Viernes_2_Datos.csv,Viernes,TrainingValidation
+2383,Deletrear_44_Datos.csv,Deletrear,TrainingValidation
+2384,J_85_Datos.csv,J,TrainingValidation
+2385,Martes_34_Datos.csv,Martes,TrainingValidation
+2386,Domingo_20_Datos.csv,Domingo,TrainingValidation
+2387,Jueves_85_Datos.csv,Jueves,TrainingValidation
+2388,Deletrear_34_Datos.csv,Deletrear,TrainingValidation
+2389,Para que_11_Datos.csv,Para que,TrainingValidation
+2390,A_82_Datos.csv,A,TrainingValidation
+2391,Para que_79_Datos.csv,Para que,TrainingValidation
+2392,D_34_Datos.csv,D,TrainingValidation
+2393,Deletrear_12_Datos.csv,Deletrear,TrainingValidation
+2394,C_46_Datos.csv,C,TrainingValidation
+2395,Cuanto_84_Datos.csv,Cuanto,TrainingValidation
+2396,Como_60_Datos.csv,Como,TrainingValidation
+2397,X_80_Datos.csv,X,TrainingValidation
+2398,Cuando_11_Datos.csv,Cuando,TrainingValidation
+2399,Por que_43_Datos.csv,Por que,TrainingValidation
+2400,Explicar_72_Datos.csv,Explicar,TrainingValidation
+2401,Q_31_Datos.csv,Q,TrainingValidation
+2402,Donde_46_Datos.csv,Donde,TrainingValidation
+2403,Por_favor_57_Datos.csv,Por_favor,TrainingValidation
+2404,J_61_Datos.csv,J,TrainingValidation
+2405,X_16_Datos.csv,X,TrainingValidation
+2406,Domingo_76_Datos.csv,Domingo,TrainingValidation
+2407,Gracias_36_Datos.csv,Gracias,TrainingValidation
+2408,Para que_57_Datos.csv,Para que,TrainingValidation
+2409,No_34_Datos.csv,No,TrainingValidation
+2410,Viernes_79_Datos.csv,Viernes,TrainingValidation
+2411,Cuando_26_Datos.csv,Cuando,TrainingValidation
+2412,Deletrear_16_Datos.csv,Deletrear,TrainingValidation
+2413,Domingo_24_Datos.csv,Domingo,TrainingValidation
+2414,No_14_Datos.csv,No,TrainingValidation
+2415,X_36_Datos.csv,X,TrainingValidation
+2416,X_64_Datos.csv,X,TrainingValidation
+2417,Q_46_Datos.csv,Q,TrainingValidation
+2418,D_35_Datos.csv,D,TrainingValidation
+2419,Miercoles_37_Datos.csv,Miercoles,TrainingValidation
+2420,C_74_Datos.csv,C,TrainingValidation
+2421,Si_72_Datos.csv,Si,TrainingValidation
+2422,No_61_Datos.csv,No,TrainingValidation
+2423,Por que_23_Datos.csv,Por que,TrainingValidation
+2424,Si_31_Datos.csv,Si,TrainingValidation
+2425,J_8_Datos.csv,J,TrainingValidation
+2426,A_64_Datos.csv,A,TrainingValidation
+2427,Como_34_Datos.csv,Como,TrainingValidation
+2428,Deletrear_8_Datos.csv,Deletrear,TrainingValidation
+2429,X_57_Datos.csv,X,TrainingValidation
+2430,Miercoles_69_Datos.csv,Miercoles,TrainingValidation
+2431,Domingo_54_Datos.csv,Domingo,TrainingValidation
+2432,Que es_68_Datos.csv,Que es,TrainingValidation
+2433,Q_33_Datos.csv,Q,TrainingValidation
+2434,Cuanto_63_Datos.csv,Cuanto,TrainingValidation
+2435,Gracias_6_Datos.csv,Gracias,TrainingValidation
+2436,B_41_Datos.csv,B,TrainingValidation
+2437,X_30_Datos.csv,X,TrainingValidation
+2438,Por_favor_31_Datos.csv,Por_favor,TrainingValidation
+2439,B_67_Datos.csv,B,TrainingValidation
+2440,Q_24_Datos.csv,Q,TrainingValidation
+2441,D_43_Datos.csv,D,TrainingValidation
+2442,B_2_Datos.csv,B,TrainingValidation
+2443,D_40_Datos.csv,D,TrainingValidation
+2444,Cuando_9_Datos.csv,Cuando,TrainingValidation
+2445,Jueves_72_Datos.csv,Jueves,TrainingValidation
+2446,C_47_Datos.csv,C,TrainingValidation
+2447,Explicar_29_Datos.csv,Explicar,TrainingValidation
+2448,K_78_Datos.csv,K,TrainingValidation
+2449,B_82_Datos.csv,B,TrainingValidation
+2450,No_43_Datos.csv,No,TrainingValidation
+2451,A_17_Datos.csv,A,TrainingValidation
+2452,Que es_10_Datos.csv,Que es,TrainingValidation
+2453,Cuando_39_Datos.csv,Cuando,TrainingValidation
+2454,Martes_25_Datos.csv,Martes,TrainingValidation
+2455,No_6_Datos.csv,No,TrainingValidation
+2456,Por que_70_Datos.csv,Por que,TrainingValidation
+2457,D_41_Datos.csv,D,TrainingValidation
+2458,X_24_Datos.csv,X,TrainingValidation
+2459,X_62_Datos.csv,X,TrainingValidation
+2460,Para que_4_Datos.csv,Para que,TrainingValidation
+2461,Explicar_62_Datos.csv,Explicar,TrainingValidation
+2462,No_74_Datos.csv,No,TrainingValidation
+2463,Quien_10_Datos.csv,Quien,TrainingValidation
+2464,Jueves_52_Datos.csv,Jueves,TrainingValidation
+2465,C_58_Datos.csv,C,TrainingValidation
+2466,Si_40_Datos.csv,Si,TrainingValidation
+2467,C_43_Datos.csv,C,TrainingValidation
+2468,Por que_38_Datos.csv,Por que,TrainingValidation
+2469,Deletrear_52_Datos.csv,Deletrear,TrainingValidation
+2470,X_79_Datos.csv,X,TrainingValidation
+2471,Por_favor_13_Datos.csv,Por_favor,TrainingValidation
+2472,Deletrear_31_Datos.csv,Deletrear,TrainingValidation
+2473,Quien_67_Datos.csv,Quien,TrainingValidation
+2474,Miercoles_85_Datos.csv,Miercoles,TrainingValidation
+2475,No_79_Datos.csv,No,TrainingValidation
+2476,Jueves_42_Datos.csv,Jueves,TrainingValidation
+2477,Para que_81_Datos.csv,Para que,TrainingValidation
+2478,Que es_24_Datos.csv,Que es,TrainingValidation
+2479,Quien_21_Datos.csv,Quien,TrainingValidation
+2480,Si_22_Datos.csv,Si,TrainingValidation
+2481,Para que_60_Datos.csv,Para que,TrainingValidation
+2482,B_38_Datos.csv,B,TrainingValidation
+2483,B_17_Datos.csv,B,TrainingValidation
+2484,Sabado_9_Datos.csv,Sabado,TrainingValidation
+2485,A_81_Datos.csv,A,TrainingValidation
+2486,K_24_Datos.csv,K,TrainingValidation
+2487,K_75_Datos.csv,K,TrainingValidation
+2488,D_55_Datos.csv,D,TrainingValidation
+2489,C_50_Datos.csv,C,TrainingValidation
+2490,Miercoles_34_Datos.csv,Miercoles,TrainingValidation
+2491,Lunes_74_Datos.csv,Lunes,TrainingValidation
+2492,Q_32_Datos.csv,Q,TrainingValidation
+2493,Nombre_64_Datos.csv,Nombre,TrainingValidation
+2494,Jueves_36_Datos.csv,Jueves,TrainingValidation
+2495,Viernes_37_Datos.csv,Viernes,TrainingValidation
+2496,D_5_Datos.csv,D,TrainingValidation
+2497,Donde_66_Datos.csv,Donde,TrainingValidation
+2498,Que es_48_Datos.csv,Que es,TrainingValidation
+2499,Martes_37_Datos.csv,Martes,TrainingValidation
+2500,No_70_Datos.csv,No,TrainingValidation
+2501,X_38_Datos.csv,X,TrainingValidation
+2502,Lunes_2_Datos.csv,Lunes,TrainingValidation
+2503,Gracias_19_Datos.csv,Gracias,TrainingValidation
+2504,Cuanto_77_Datos.csv,Cuanto,TrainingValidation
+2505,Cuando_4_Datos.csv,Cuando,TrainingValidation
+2506,Nombre_37_Datos.csv,Nombre,TrainingValidation
+2507,Donde_19_Datos.csv,Donde,TrainingValidation
+2508,Sabado_49_Datos.csv,Sabado,TrainingValidation
+2509,Lunes_28_Datos.csv,Lunes,TrainingValidation
+2510,Martes_58_Datos.csv,Martes,TrainingValidation
+2511,Explicar_28_Datos.csv,Explicar,TrainingValidation
+2512,Q_21_Datos.csv,Q,TrainingValidation
+2513,Deletrear_74_Datos.csv,Deletrear,TrainingValidation
+2514,Sabado_83_Datos.csv,Sabado,TrainingValidation
+2515,J_18_Datos.csv,J,TrainingValidation
+2516,Que es_73_Datos.csv,Que es,TrainingValidation
+2517,Lunes_31_Datos.csv,Lunes,TrainingValidation
+2518,B_51_Datos.csv,B,TrainingValidation
+2519,Cuando_13_Datos.csv,Cuando,TrainingValidation
+2520,Cuanto_12_Datos.csv,Cuanto,TrainingValidation
+2521,Que es_29_Datos.csv,Que es,TrainingValidation
+2522,C_48_Datos.csv,C,TrainingValidation
+2523,Lunes_19_Datos.csv,Lunes,TrainingValidation
+2524,Domingo_51_Datos.csv,Domingo,TrainingValidation
+2525,Donde_58_Datos.csv,Donde,TrainingValidation
+2526,Martes_4_Datos.csv,Martes,TrainingValidation
+2527,X_55_Datos.csv,X,TrainingValidation
+2528,No_17_Datos.csv,No,TrainingValidation
+2529,K_74_Datos.csv,K,TrainingValidation
+2530,Donde_29_Datos.csv,Donde,TrainingValidation
+2531,K_15_Datos.csv,K,TrainingValidation
+2532,Martes_50_Datos.csv,Martes,TrainingValidation
+2533,B_68_Datos.csv,B,TrainingValidation
+2534,Por_favor_60_Datos.csv,Por_favor,TrainingValidation
+2535,Miercoles_56_Datos.csv,Miercoles,TrainingValidation
+2536,B_43_Datos.csv,B,TrainingValidation
+2537,Por_favor_61_Datos.csv,Por_favor,TrainingValidation
+2538,Por que_20_Datos.csv,Por que,TrainingValidation
+2539,K_58_Datos.csv,K,TrainingValidation
+2540,Explicar_85_Datos.csv,Explicar,TrainingValidation
+2541,Viernes_11_Datos.csv,Viernes,TrainingValidation
+2542,Q_8_Datos.csv,Q,TrainingValidation
+2543,Gracias_1_Datos.csv,Gracias,TrainingValidation
+2544,Sabado_36_Datos.csv,Sabado,TrainingValidation
+2545,Martes_69_Datos.csv,Martes,TrainingValidation
+2546,Viernes_71_Datos.csv,Viernes,TrainingValidation
+2547,Sabado_28_Datos.csv,Sabado,TrainingValidation
+2548,Por que_75_Datos.csv,Por que,TrainingValidation
+2549,Por que_47_Datos.csv,Por que,TrainingValidation
+2550,Domingo_30_Datos.csv,Domingo,TrainingValidation
+2551,Por que_67_Datos.csv,Por que,TrainingValidation
+2552,Gracias_2_Datos.csv,Gracias,TrainingValidation
+2553,Domingo_45_Datos.csv,Domingo,TrainingValidation
+2554,Nombre_28_Datos.csv,Nombre,TrainingValidation
+2555,Cuanto_1_Datos.csv,Cuanto,TrainingValidation
+2556,Explicar_79_Datos.csv,Explicar,TrainingValidation
+2557,Explicar_40_Datos.csv,Explicar,TrainingValidation
+2558,Para que_43_Datos.csv,Para que,TrainingValidation
+2559,Por_favor_74_Datos.csv,Por_favor,TrainingValidation
+2560,Que es_65_Datos.csv,Que es,TrainingValidation
+2561,Que es_9_Datos.csv,Que es,TrainingValidation
+2562,Quien_43_Datos.csv,Quien,TrainingValidation
+2563,X_6_Datos.csv,X,TrainingValidation
+2564,Si_13_Datos.csv,Si,TrainingValidation
+2565,Gracias_59_Datos.csv,Gracias,TrainingValidation
+2566,K_63_Datos.csv,K,TrainingValidation
+2567,Cuanto_50_Datos.csv,Cuanto,TrainingValidation
+2568,Cuanto_55_Datos.csv,Cuanto,TrainingValidation
+2569,Explicar_74_Datos.csv,Explicar,TrainingValidation
+2570,A_13_Datos.csv,A,TrainingValidation
+2571,Quien_64_Datos.csv,Quien,TrainingValidation
+2572,Miercoles_61_Datos.csv,Miercoles,TrainingValidation
+2573,Q_64_Datos.csv,Q,TrainingValidation
+2574,Como_42_Datos.csv,Como,TrainingValidation
+2575,Explicar_2_Datos.csv,Explicar,TrainingValidation
+2576,No_11_Datos.csv,No,TrainingValidation
+2577,C_12_Datos.csv,C,TrainingValidation
+2578,Domingo_46_Datos.csv,Domingo,TrainingValidation
+2579,Para que_63_Datos.csv,Para que,TrainingValidation
+2580,Para que_68_Datos.csv,Para que,TrainingValidation
+2581,K_13_Datos.csv,K,TrainingValidation
+2582,Si_70_Datos.csv,Si,TrainingValidation
+2583,Por_favor_29_Datos.csv,Por_favor,TrainingValidation
+2584,Viernes_44_Datos.csv,Viernes,TrainingValidation
+2585,Miercoles_63_Datos.csv,Miercoles,TrainingValidation
+2586,Jueves_2_Datos.csv,Jueves,TrainingValidation
+2587,K_36_Datos.csv,K,TrainingValidation
+2588,Sabado_72_Datos.csv,Sabado,TrainingValidation
+2589,B_18_Datos.csv,B,TrainingValidation
+2590,Si_85_Datos.csv,Si,TrainingValidation
+2591,Jueves_39_Datos.csv,Jueves,TrainingValidation
+2592,Martes_15_Datos.csv,Martes,TrainingValidation
+2593,Donde_11_Datos.csv,Donde,TrainingValidation
+2594,Jueves_30_Datos.csv,Jueves,TrainingValidation
+2595,Lunes_67_Datos.csv,Lunes,TrainingValidation
+2596,Viernes_54_Datos.csv,Viernes,TrainingValidation
+2597,Por que_83_Datos.csv,Por que,TrainingValidation
+2598,K_61_Datos.csv,K,TrainingValidation
+2599,B_37_Datos.csv,B,TrainingValidation
+2600,Lunes_13_Datos.csv,Lunes,TrainingValidation
+2601,X_67_Datos.csv,X,TrainingValidation
+2602,Deletrear_85_Datos.csv,Deletrear,TrainingValidation
+2603,Si_19_Datos.csv,Si,TrainingValidation
+2604,Martes_77_Datos.csv,Martes,TrainingValidation
+2605,Donde_60_Datos.csv,Donde,TrainingValidation
+2606,C_25_Datos.csv,C,TrainingValidation
+2607,Martes_3_Datos.csv,Martes,TrainingValidation
+2608,X_45_Datos.csv,X,TrainingValidation
+2609,Cuanto_33_Datos.csv,Cuanto,TrainingValidation
+2610,Viernes_45_Datos.csv,Viernes,TrainingValidation
+2611,J_16_Datos.csv,J,TrainingValidation
+2612,Quien_65_Datos.csv,Quien,TrainingValidation
+2613,Por_favor_50_Datos.csv,Por_favor,TrainingValidation
+2614,Por que_65_Datos.csv,Por que,TrainingValidation
+2615,Cuando_15_Datos.csv,Cuando,TrainingValidation
+2616,Por_favor_71_Datos.csv,Por_favor,TrainingValidation
+2617,Cuando_43_Datos.csv,Cuando,TrainingValidation
+2618,Por_favor_48_Datos.csv,Por_favor,TrainingValidation
+2619,No_80_Datos.csv,No,TrainingValidation
+2620,Para que_5_Datos.csv,Para que,TrainingValidation
+2621,Miercoles_3_Datos.csv,Miercoles,TrainingValidation
+2622,A_11_Datos.csv,A,TrainingValidation
+2623,Q_5_Datos.csv,Q,TrainingValidation
+2624,Quien_55_Datos.csv,Quien,TrainingValidation
+2625,Donde_63_Datos.csv,Donde,TrainingValidation
+2626,Como_51_Datos.csv,Como,TrainingValidation
+2627,Q_11_Datos.csv,Q,TrainingValidation
+2628,Explicar_35_Datos.csv,Explicar,TrainingValidation
+2629,Miercoles_5_Datos.csv,Miercoles,TrainingValidation
+2630,Sabado_81_Datos.csv,Sabado,TrainingValidation
+2631,Cuando_42_Datos.csv,Cuando,TrainingValidation
+2632,Cuando_52_Datos.csv,Cuando,TrainingValidation
+2633,Lunes_53_Datos.csv,Lunes,TrainingValidation
+2634,Si_12_Datos.csv,Si,TrainingValidation
+2635,Si_10_Datos.csv,Si,TrainingValidation
+2636,X_70_Datos.csv,X,TrainingValidation
+2637,No_46_Datos.csv,No,TrainingValidation
+2638,Cuando_78_Datos.csv,Cuando,TrainingValidation
+2639,Gracias_24_Datos.csv,Gracias,TrainingValidation
+2640,Cuanto_23_Datos.csv,Cuanto,TrainingValidation
+2641,Deletrear_73_Datos.csv,Deletrear,TrainingValidation
+2642,Deletrear_35_Datos.csv,Deletrear,TrainingValidation
+2643,Cuanto_27_Datos.csv,Cuanto,TrainingValidation
+2644,D_25_Datos.csv,D,TrainingValidation
+2645,Cuando_76_Datos.csv,Cuando,TrainingValidation
+2646,Miercoles_22_Datos.csv,Miercoles,TrainingValidation
+2647,Miercoles_4_Datos.csv,Miercoles,TrainingValidation
+2648,Lunes_7_Datos.csv,Lunes,TrainingValidation
+2649,Domingo_25_Datos.csv,Domingo,TrainingValidation
+2650,A_85_Datos.csv,A,TrainingValidation
+2651,Viernes_40_Datos.csv,Viernes,TrainingValidation
+2652,K_17_Datos.csv,K,TrainingValidation
+2653,Explicar_84_Datos.csv,Explicar,TrainingValidation
+2654,Por que_18_Datos.csv,Por que,TrainingValidation
+2655,Miercoles_33_Datos.csv,Miercoles,TrainingValidation
+2656,B_61_Datos.csv,B,TrainingValidation
+2657,Martes_22_Datos.csv,Martes,TrainingValidation
+2658,Miercoles_49_Datos.csv,Miercoles,TrainingValidation
+2659,Como_50_Datos.csv,Como,TrainingValidation
+2660,Sabado_19_Datos.csv,Sabado,TrainingValidation
+2661,No_22_Datos.csv,No,TrainingValidation
+2662,Sabado_39_Datos.csv,Sabado,TrainingValidation
+2663,J_37_Datos.csv,J,TrainingValidation
+2664,Por_favor_11_Datos.csv,Por_favor,TrainingValidation
+2665,J_28_Datos.csv,J,TrainingValidation
+2666,Domingo_29_Datos.csv,Domingo,TrainingValidation
+2667,Como_82_Datos.csv,Como,TrainingValidation
+2668,Deletrear_63_Datos.csv,Deletrear,TrainingValidation
+2669,Por_favor_69_Datos.csv,Por_favor,TrainingValidation
+2670,Nombre_83_Datos.csv,Nombre,TrainingValidation
+2671,Jueves_37_Datos.csv,Jueves,TrainingValidation
+2672,Por_favor_28_Datos.csv,Por_favor,TrainingValidation
+2673,Explicar_17_Datos.csv,Explicar,TrainingValidation
+2674,Que es_23_Datos.csv,Que es,TrainingValidation
+2675,Donde_70_Datos.csv,Donde,TrainingValidation
+2676,Jueves_81_Datos.csv,Jueves,TrainingValidation
+2677,Nombre_59_Datos.csv,Nombre,TrainingValidation
+2678,No_25_Datos.csv,No,TrainingValidation
+2679,Lunes_75_Datos.csv,Lunes,TrainingValidation
+2680,Cuando_74_Datos.csv,Cuando,TrainingValidation
+2681,Si_46_Datos.csv,Si,TrainingValidation
+2682,B_19_Datos.csv,B,TrainingValidation
+2683,Donde_9_Datos.csv,Donde,TrainingValidation
+2684,Donde_84_Datos.csv,Donde,TrainingValidation
+2685,Viernes_69_Datos.csv,Viernes,TrainingValidation
+2686,Gracias_50_Datos.csv,Gracias,TrainingValidation
+2687,Si_53_Datos.csv,Si,TrainingValidation
+2688,Por que_74_Datos.csv,Por que,TrainingValidation
+2689,Lunes_12_Datos.csv,Lunes,TrainingValidation
+2690,Si_71_Datos.csv,Si,TrainingValidation
+2691,Viernes_38_Datos.csv,Viernes,TrainingValidation
+2692,Cuando_27_Datos.csv,Cuando,TrainingValidation
+2693,Martes_39_Datos.csv,Martes,TrainingValidation
+2694,K_79_Datos.csv,K,TrainingValidation
+2695,Como_33_Datos.csv,Como,TrainingValidation
+2696,X_39_Datos.csv,X,TrainingValidation
+2697,A_36_Datos.csv,A,TrainingValidation
+2698,Para que_29_Datos.csv,Para que,TrainingValidation
+2699,Deletrear_79_Datos.csv,Deletrear,TrainingValidation
+2700,Deletrear_75_Datos.csv,Deletrear,TrainingValidation
+2701,Lunes_72_Datos.csv,Lunes,TrainingValidation
+2702,Que es_33_Datos.csv,Que es,TrainingValidation
+2703,Cuando_41_Datos.csv,Cuando,TrainingValidation
+2704,Domingo_42_Datos.csv,Domingo,TrainingValidation
+2705,Deletrear_6_Datos.csv,Deletrear,TrainingValidation
+2706,Que es_2_Datos.csv,Que es,TrainingValidation
+2707,Quien_71_Datos.csv,Quien,TrainingValidation
+2708,C_55_Datos.csv,C,TrainingValidation
+2709,Como_44_Datos.csv,Como,TrainingValidation
+2710,Martes_52_Datos.csv,Martes,TrainingValidation
+2711,Martes_40_Datos.csv,Martes,TrainingValidation
+2712,Cuanto_71_Datos.csv,Cuanto,TrainingValidation
+2713,C_61_Datos.csv,C,TrainingValidation
+2714,Deletrear_46_Datos.csv,Deletrear,TrainingValidation
+2715,Quien_35_Datos.csv,Quien,TrainingValidation
+2716,Domingo_37_Datos.csv,Domingo,TrainingValidation
+2717,K_34_Datos.csv,K,TrainingValidation
+2718,Lunes_34_Datos.csv,Lunes,TrainingValidation
+2719,A_9_Datos.csv,A,TrainingValidation
+2720,Cuanto_65_Datos.csv,Cuanto,TrainingValidation
+2721,Q_7_Datos.csv,Q,TrainingValidation
+2722,No_7_Datos.csv,No,TrainingValidation
+2723,Q_77_Datos.csv,Q,TrainingValidation
+2724,Explicar_22_Datos.csv,Explicar,TrainingValidation
+2725,A_67_Datos.csv,A,TrainingValidation
+2726,Por que_71_Datos.csv,Por que,TrainingValidation
+2727,Lunes_56_Datos.csv,Lunes,TrainingValidation
+2728,Cuanto_39_Datos.csv,Cuanto,TrainingValidation
+2729,X_21_Datos.csv,X,TrainingValidation
+2730,Que es_1_Datos.csv,Que es,TrainingValidation
+2731,Q_73_Datos.csv,Q,TrainingValidation
+2732,Que es_44_Datos.csv,Que es,TrainingValidation
+2733,A_48_Datos.csv,A,TrainingValidation
+2734,Quien_22_Datos.csv,Quien,TrainingValidation
+2735,Sabado_55_Datos.csv,Sabado,TrainingValidation
+2736,Que es_78_Datos.csv,Que es,TrainingValidation
+2737,Gracias_56_Datos.csv,Gracias,TrainingValidation
+2738,Miercoles_26_Datos.csv,Miercoles,TrainingValidation
+2739,No_38_Datos.csv,No,TrainingValidation
+2740,Quien_34_Datos.csv,Quien,TrainingValidation
+2741,Donde_47_Datos.csv,Donde,TrainingValidation
+2742,Cuando_29_Datos.csv,Cuando,TrainingValidation
+2743,Gracias_9_Datos.csv,Gracias,TrainingValidation
+2744,Por que_37_Datos.csv,Por que,TrainingValidation
+2745,Por que_32_Datos.csv,Por que,TrainingValidation
+2746,X_58_Datos.csv,X,TrainingValidation
+2747,Lunes_80_Datos.csv,Lunes,TrainingValidation
+2748,Martes_62_Datos.csv,Martes,TrainingValidation
+2749,Lunes_68_Datos.csv,Lunes,TrainingValidation
+2750,K_1_Datos.csv,K,TrainingValidation
+2751,Jueves_1_Datos.csv,Jueves,TrainingValidation
+2752,Para que_80_Datos.csv,Para que,TrainingValidation
+2753,Para que_84_Datos.csv,Para que,TrainingValidation
+2754,A_53_Datos.csv,A,TrainingValidation
+2755,Para que_12_Datos.csv,Para que,TrainingValidation
+2756,Q_48_Datos.csv,Q,TrainingValidation
+2757,Por_favor_70_Datos.csv,Por_favor,TrainingValidation
+2758,J_39_Datos.csv,J,TrainingValidation
+2759,Por que_82_Datos.csv,Por que,TrainingValidation
+2760,Donde_79_Datos.csv,Donde,TrainingValidation
+2761,Si_43_Datos.csv,Si,TrainingValidation
+2762,Sabado_33_Datos.csv,Sabado,TrainingValidation
+2763,Para que_71_Datos.csv,Para que,TrainingValidation
+2764,Viernes_23_Datos.csv,Viernes,TrainingValidation
+2765,Q_2_Datos.csv,Q,TrainingValidation
+2766,C_39_Datos.csv,C,TrainingValidation
+2767,Que es_35_Datos.csv,Que es,TrainingValidation
+2768,J_24_Datos.csv,J,TrainingValidation
+2769,Nombre_15_Datos.csv,Nombre,TrainingValidation
+2770,Cuanto_15_Datos.csv,Cuanto,TrainingValidation
+2771,B_29_Datos.csv,B,TrainingValidation
+2772,K_53_Datos.csv,K,TrainingValidation
+2773,Deletrear_57_Datos.csv,Deletrear,TrainingValidation
+2774,Viernes_39_Datos.csv,Viernes,TrainingValidation
+2775,Nombre_22_Datos.csv,Nombre,TrainingValidation
+2776,Por_favor_2_Datos.csv,Por_favor,TrainingValidation
+2777,Jueves_50_Datos.csv,Jueves,TrainingValidation
+2778,Que es_59_Datos.csv,Que es,TrainingValidation
+2779,Miercoles_46_Datos.csv,Miercoles,TrainingValidation
+2780,Explicar_67_Datos.csv,Explicar,TrainingValidation
+2781,Quien_4_Datos.csv,Quien,TrainingValidation
+2782,No_75_Datos.csv,No,TrainingValidation
+2783,C_40_Datos.csv,C,TrainingValidation
+2784,Por que_29_Datos.csv,Por que,TrainingValidation
+2785,Q_26_Datos.csv,Q,TrainingValidation
+2786,Martes_73_Datos.csv,Martes,TrainingValidation
+2787,No_40_Datos.csv,No,TrainingValidation
+2788,Como_70_Datos.csv,Como,TrainingValidation
+2789,Lunes_64_Datos.csv,Lunes,TrainingValidation
+2790,Cuanto_56_Datos.csv,Cuanto,TrainingValidation
+2791,Martes_71_Datos.csv,Martes,TrainingValidation
+2792,K_42_Datos.csv,K,TrainingValidation
+2793,Como_17_Datos.csv,Como,TrainingValidation
+2794,Cuanto_72_Datos.csv,Cuanto,TrainingValidation
+2795,Si_48_Datos.csv,Si,TrainingValidation
+2796,Jueves_9_Datos.csv,Jueves,TrainingValidation
+2797,Gracias_63_Datos.csv,Gracias,TrainingValidation
+2798,Q_40_Datos.csv,Q,TrainingValidation
+2799,Martes_59_Datos.csv,Martes,TrainingValidation
+2800,Por_favor_54_Datos.csv,Por_favor,TrainingValidation
+2801,Cuando_66_Datos.csv,Cuando,TrainingValidation
+2802,Viernes_20_Datos.csv,Viernes,TrainingValidation
+2803,Gracias_47_Datos.csv,Gracias,TrainingValidation
+2804,Martes_10_Datos.csv,Martes,TrainingValidation
+2805,B_58_Datos.csv,B,TrainingValidation
+2806,Si_33_Datos.csv,Si,TrainingValidation
+2807,K_80_Datos.csv,K,TrainingValidation
+2808,Viernes_66_Datos.csv,Viernes,TrainingValidation
+2809,Cuanto_59_Datos.csv,Cuanto,TrainingValidation
+2810,Cuando_56_Datos.csv,Cuando,TrainingValidation
+2811,Cuando_69_Datos.csv,Cuando,TrainingValidation
+2812,D_21_Datos.csv,D,TrainingValidation
+2813,Donde_16_Datos.csv,Donde,TrainingValidation
+2814,Como_26_Datos.csv,Como,TrainingValidation
+2815,Lunes_25_Datos.csv,Lunes,TrainingValidation
+2816,Gracias_25_Datos.csv,Gracias,TrainingValidation
+2817,K_62_Datos.csv,K,TrainingValidation
+2818,Miercoles_28_Datos.csv,Miercoles,TrainingValidation
+2819,Cuanto_83_Datos.csv,Cuanto,TrainingValidation
+2820,Donde_67_Datos.csv,Donde,TrainingValidation
+2821,Que es_49_Datos.csv,Que es,TrainingValidation
+2822,Gracias_76_Datos.csv,Gracias,TrainingValidation
+2823,Jueves_56_Datos.csv,Jueves,TrainingValidation
+2824,Si_79_Datos.csv,Si,TrainingValidation
+2825,Deletrear_58_Datos.csv,Deletrear,TrainingValidation
+2826,A_35_Datos.csv,A,TrainingValidation
+2827,Gracias_16_Datos.csv,Gracias,TrainingValidation
+2828,Nombre_38_Datos.csv,Nombre,TrainingValidation
+2829,Como_69_Datos.csv,Como,TrainingValidation
+2830,Lunes_45_Datos.csv,Lunes,TrainingValidation
+2831,A_51_Datos.csv,A,TrainingValidation
+2832,Cuanto_73_Datos.csv,Cuanto,TrainingValidation
+2833,Miercoles_47_Datos.csv,Miercoles,TrainingValidation
+2834,Donde_85_Datos.csv,Donde,TrainingValidation
+2835,Explicar_26_Datos.csv,Explicar,TrainingValidation
+2836,Por que_2_Datos.csv,Por que,TrainingValidation
+2837,Deletrear_84_Datos.csv,Deletrear,TrainingValidation
+2838,K_84_Datos.csv,K,TrainingValidation
+2839,Deletrear_13_Datos.csv,Deletrear,TrainingValidation
+2840,Martes_6_Datos.csv,Martes,TrainingValidation
+2841,Lunes_11_Datos.csv,Lunes,TrainingValidation
+2842,A_4_Datos.csv,A,TrainingValidation
+2843,B_81_Datos.csv,B,TrainingValidation
+2844,No_32_Datos.csv,No,TrainingValidation
+2845,Sabado_54_Datos.csv,Sabado,TrainingValidation
+2846,A_23_Datos.csv,A,TrainingValidation
+2847,Q_67_Datos.csv,Q,TrainingValidation
+2848,K_59_Datos.csv,K,TrainingValidation
+2849,Que es_84_Datos.csv,Que es,TrainingValidation
+2850,Que es_20_Datos.csv,Que es,TrainingValidation
+2851,Donde_37_Datos.csv,Donde,TrainingValidation
+2852,K_48_Datos.csv,K,TrainingValidation
+2853,No_67_Datos.csv,No,TrainingValidation
+2854,No_28_Datos.csv,No,TrainingValidation
+2855,B_64_Datos.csv,B,TrainingValidation
+2856,Deletrear_40_Datos.csv,Deletrear,TrainingValidation
+2857,Que es_77_Datos.csv,Que es,TrainingValidation
+2858,No_76_Datos.csv,No,TrainingValidation
+2859,J_57_Datos.csv,J,TrainingValidation
+2860,No_54_Datos.csv,No,TrainingValidation
+2861,Para que_40_Datos.csv,Para que,TrainingValidation
+2862,D_57_Datos.csv,D,TrainingValidation
+2863,Miercoles_36_Datos.csv,Miercoles,TrainingValidation
+2864,Cuando_61_Datos.csv,Cuando,TrainingValidation
+2865,X_19_Datos.csv,X,TrainingValidation
+2866,A_7_Datos.csv,A,TrainingValidation
+2867,J_46_Datos.csv,J,TrainingValidation
+2868,Viernes_13_Datos.csv,Viernes,TrainingValidation
+2869,Jueves_79_Datos.csv,Jueves,TrainingValidation
+2870,Domingo_82_Datos.csv,Domingo,TrainingValidation
+2871,No_2_Datos.csv,No,TrainingValidation
+2872,Por_favor_59_Datos.csv,Por_favor,TrainingValidation
+2873,Quien_40_Datos.csv,Quien,TrainingValidation
+2874,Q_55_Datos.csv,Q,TrainingValidation
+2875,Miercoles_6_Datos.csv,Miercoles,TrainingValidation
+2876,A_55_Datos.csv,A,TrainingValidation
+2877,Donde_43_Datos.csv,Donde,TrainingValidation
+2878,Martes_42_Datos.csv,Martes,TrainingValidation
+2879,Por que_51_Datos.csv,Por que,TrainingValidation
+2880,Si_49_Datos.csv,Si,TrainingValidation
+2881,Explicar_27_Datos.csv,Explicar,TrainingValidation
+2882,Lunes_77_Datos.csv,Lunes,TrainingValidation
+2883,Como_67_Datos.csv,Como,TrainingValidation
+2884,Por que_45_Datos.csv,Por que,TrainingValidation
+2885,No_9_Datos.csv,No,TrainingValidation
+2886,Si_62_Datos.csv,Si,TrainingValidation
+2887,Explicar_12_Datos.csv,Explicar,TrainingValidation
+2888,Domingo_36_Datos.csv,Domingo,TrainingValidation
+2889,Q_6_Datos.csv,Q,TrainingValidation
+2890,Gracias_48_Datos.csv,Gracias,TrainingValidation
+2891,Que es_83_Datos.csv,Que es,TrainingValidation
+2892,Q_80_Datos.csv,Q,TrainingValidation
+2893,Donde_83_Datos.csv,Donde,TrainingValidation
+2894,Como_65_Datos.csv,Como,TrainingValidation
+2895,Si_66_Datos.csv,Si,TrainingValidation
+2896,Por que_55_Datos.csv,Por que,TrainingValidation
+2897,Jueves_19_Datos.csv,Jueves,TrainingValidation
+2898,Sabado_68_Datos.csv,Sabado,TrainingValidation
+2899,Sabado_78_Datos.csv,Sabado,TrainingValidation
+2900,Nombre_7_Datos.csv,Nombre,TrainingValidation
+2901,Nombre_56_Datos.csv,Nombre,TrainingValidation
+2902,Nombre_20_Datos.csv,Nombre,TrainingValidation
+2903,Quien_33_Datos.csv,Quien,TrainingValidation
+2904,Viernes_21_Datos.csv,Viernes,TrainingValidation
+2905,Por que_39_Datos.csv,Por que,TrainingValidation
+2906,Lunes_57_Datos.csv,Lunes,TrainingValidation
+2907,C_60_Datos.csv,C,TrainingValidation
+2908,Donde_50_Datos.csv,Donde,TrainingValidation
+2909,Deletrear_28_Datos.csv,Deletrear,TrainingValidation
+2910,Miercoles_76_Datos.csv,Miercoles,TrainingValidation
+2911,D_8_Datos.csv,D,TrainingValidation
+2912,Que es_22_Datos.csv,Que es,TrainingValidation
+2913,Que es_50_Datos.csv,Que es,TrainingValidation
+2914,Como_25_Datos.csv,Como,TrainingValidation
+2915,Jueves_65_Datos.csv,Jueves,TrainingValidation
+2916,Miercoles_11_Datos.csv,Miercoles,TrainingValidation
+2917,Por que_34_Datos.csv,Por que,TrainingValidation
+2918,Miercoles_50_Datos.csv,Miercoles,TrainingValidation
+2919,Que es_60_Datos.csv,Que es,TrainingValidation
+2920,Donde_71_Datos.csv,Donde,TrainingValidation
+2921,Martes_79_Datos.csv,Martes,TrainingValidation
+2922,Domingo_19_Datos.csv,Domingo,TrainingValidation
+2923,Lunes_39_Datos.csv,Lunes,TrainingValidation
+2924,Jueves_13_Datos.csv,Jueves,TrainingValidation
+2925,Explicar_64_Datos.csv,Explicar,TrainingValidation
+2926,Gracias_7_Datos.csv,Gracias,TrainingValidation
+2927,Por_favor_27_Datos.csv,Por_favor,TrainingValidation
+2928,Q_39_Datos.csv,Q,TrainingValidation
+2929,Si_68_Datos.csv,Si,TrainingValidation
+2930,Quien_83_Datos.csv,Quien,TrainingValidation
+2931,K_33_Datos.csv,K,TrainingValidation
+2932,Para que_10_Datos.csv,Para que,TrainingValidation
+2933,A_58_Datos.csv,A,TrainingValidation
+2934,Lunes_22_Datos.csv,Lunes,TrainingValidation
+2935,Explicar_51_Datos.csv,Explicar,TrainingValidation
+2936,No_57_Datos.csv,No,TrainingValidation
+2937,Quien_1_Datos.csv,Quien,TrainingValidation
+2938,Sabado_69_Datos.csv,Sabado,TrainingValidation
+2939,Sabado_32_Datos.csv,Sabado,TrainingValidation
+2940,Si_28_Datos.csv,Si,TrainingValidation
+2941,Explicar_20_Datos.csv,Explicar,TrainingValidation
+2942,B_26_Datos.csv,B,TrainingValidation
+2943,Domingo_28_Datos.csv,Domingo,TrainingValidation
+2944,B_39_Datos.csv,B,TrainingValidation
+2945,D_84_Datos.csv,D,TrainingValidation
+2946,Jueves_44_Datos.csv,Jueves,TrainingValidation
+2947,Domingo_59_Datos.csv,Domingo,TrainingValidation
+2948,Cuando_68_Datos.csv,Cuando,TrainingValidation
+2949,A_3_Datos.csv,A,TrainingValidation
+2950,Jueves_17_Datos.csv,Jueves,TrainingValidation
+2951,Domingo_83_Datos.csv,Domingo,TrainingValidation
+2952,B_85_Datos.csv,B,TrainingValidation
+2953,Que es_43_Datos.csv,Que es,TrainingValidation
+2954,Que es_27_Datos.csv,Que es,TrainingValidation
+2955,Si_82_Datos.csv,Si,TrainingValidation
+2956,J_5_Datos.csv,J,TrainingValidation
+2957,Miercoles_53_Datos.csv,Miercoles,TrainingValidation
+2958,Martes_13_Datos.csv,Martes,TrainingValidation
+2959,Explicar_45_Datos.csv,Explicar,TrainingValidation
+2960,Cuanto_68_Datos.csv,Cuanto,TrainingValidation
+2961,X_5_Datos.csv,X,TrainingValidation
+2962,Como_43_Datos.csv,Como,TrainingValidation
+2963,B_79_Datos.csv,B,TrainingValidation
+2964,A_8_Datos.csv,A,TrainingValidation
+2965,Lunes_29_Datos.csv,Lunes,TrainingValidation
+2966,No_5_Datos.csv,No,TrainingValidation
+2967,Quien_45_Datos.csv,Quien,TrainingValidation
+2968,Jueves_25_Datos.csv,Jueves,TrainingValidation
+2969,Deletrear_65_Datos.csv,Deletrear,TrainingValidation
+2970,Domingo_8_Datos.csv,Domingo,TrainingValidation
+2971,Cuando_77_Datos.csv,Cuando,TrainingValidation
+2972,A_54_Datos.csv,A,TrainingValidation
+2973,Jueves_15_Datos.csv,Jueves,TrainingValidation
+2974,K_73_Datos.csv,K,TrainingValidation
+2975,Para que_27_Datos.csv,Para que,TrainingValidation
+2976,Miercoles_65_Datos.csv,Miercoles,TrainingValidation
+2977,Domingo_17_Datos.csv,Domingo,TrainingValidation
+2978,C_37_Datos.csv,C,TrainingValidation
+2979,Donde_27_Datos.csv,Donde,TrainingValidation
+2980,X_32_Datos.csv,X,TrainingValidation
+2981,Donde_48_Datos.csv,Donde,TrainingValidation
+2982,Si_42_Datos.csv,Si,TrainingValidation
+2983,Quien_51_Datos.csv,Quien,TrainingValidation
+2984,Explicar_76_Datos.csv,Explicar,TrainingValidation
+2985,Gracias_5_Datos.csv,Gracias,TrainingValidation
+2986,X_13_Datos.csv,X,TrainingValidation
+2987,Donde_39_Datos.csv,Donde,TrainingValidation
+2988,K_28_Datos.csv,K,TrainingValidation
+2989,Jueves_29_Datos.csv,Jueves,TrainingValidation
+2990,Cuando_28_Datos.csv,Cuando,TrainingValidation
+2991,C_54_Datos.csv,C,TrainingValidation
+2992,Si_6_Datos.csv,Si,TrainingValidation
+2993,Nombre_46_Datos.csv,Nombre,TrainingValidation
+2994,C_64_Datos.csv,C,TrainingValidation
+2995,Quien_27_Datos.csv,Quien,TrainingValidation
+2996,Nombre_81_Datos.csv,Nombre,TrainingValidation
+2997,Si_78_Datos.csv,Si,TrainingValidation
+2998,C_32_Datos.csv,C,TrainingValidation
+2999,Que es_7_Datos.csv,Que es,TrainingValidation
