@@ -239,9 +239,13 @@ def build_normalization_pipeline(normalization):
 
 
 class Dataset():
-    def __init__(self):
+    def __init__(self, concat_validation_to_train=False):
         # obtain characteristics of the dataset
         ds, info = tfds.load('mejia_perez_msl30', data_dir="./datasets", with_info=True)
+
+        if concat_validation_to_train:
+            ds["train"] = ds["train"].concatenate(ds["validation"])
+
         num_train_examples = ds["train"].cardinality()
         num_val_examples = ds["validation"].cardinality()
         num_test_examples = ds["test"].cardinality()

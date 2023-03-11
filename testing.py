@@ -127,7 +127,7 @@ def main(args):
     pipeline = args.pipeline
     save_freq = args.save_freq
 
-    dataset = Dataset()
+    dataset = Dataset(concat_validation_to_train=True)
 
     steps_per_epoch = np.ceil(dataset.num_train_examples / batch_size)
 
