@@ -149,7 +149,7 @@ if __name__ == "__main__":
     parser.add_argument('--entity', type=str,
                         help='Entity', default='davidlainesv')
     parser.add_argument('--project', type=str,
-                        help='Project name', default='validation')
+                        help='Project name', default='mejiaperezlsm30-validation')
     parser.add_argument('--backbone', type=str,
                         help='Backbone method: \'densenet\', \'mobilenet\'',
                         default='densenet')
